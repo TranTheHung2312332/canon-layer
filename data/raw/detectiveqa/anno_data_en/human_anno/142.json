@@ -1,0 +1,241 @@
+[
+    {
+        "novel_id": 142,
+        "num_paragraphs": 3476,
+        "time_cost": "9H",
+        "questions": [
+            {
+                "question": " What is Miss White's true identity?",
+                "options": {
+                    "A": " Prince Michael",
+                    "B": " Private tutor",
+                    "C": " Faraja Queen",
+                    "D": " Countess Brideau"
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " Identity of the deceased",
+                    "B": " Miss White's disguised identity",
+                    "D": " Hiring Miss White"
+                },
+                "reasoning": [
+                    " On the night of the incident, the lights in the second room from the left were turned on.",
+                    " The second room from the left is Miss White's room.",
+                    " Mrs. Reef felt that Miss White was familiar to her.",
+                    " Mrs. Reef's husband had worked in the foreign service and they had lived in Hesse for a while, returning to England after the assassination of the King and Queen of Hesse.",
+                    " Farah Pahlavi was the queen of Hosseinollah.",
+                    " Based on the above clues, it can be inferred that Mrs. Reif had met Queen Farah in Hesslegrave. ",
+                    " Farah Pahlavi, the former queen of Iran, was an actress and died with a disfigured face.",
+                    " Farah Pahlavi did not die.",
+                    " Based on the above clues, it can be inferred that Miss White is likely to have a problem with her identity, possibly impersonated by someone else. Farah Pahlavi was once an actress and was able to fake her death to escape, giving her the ability and possibility to impersonate Miss White. Mrs. Revere had seen Farah Pahlavi in Hesse, so she would find Miss White familiar. Therefore, Miss White's true identity is actually Farah Pahlavi."
+                ],
+                "clue_position": [
+                    1513,
+                    1558,
+                    2591,
+                    552,
+                    115,
+                    -1,
+                    2180,
+                    2181,
+                    -1
+                ],
+                "answer_position": 3368
+            },
+            {
+                "question": " Where is the diamond hidden?",
+                "options": {
+                    "A": " Rose Garden",
+                    "B": " Heslovsk",
+                    "C": " Shelf",
+                    "D": " Roses' Grave"
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " The Kingdom of Faraja Queen",
+                    "C": " Anthony's fabricated location",
+                    "D": " Anthony led the travel group to visit the place."
+                },
+                "reasoning": [
+                    " The diamonds were transferred by S, but the minutes were found, which read 'Richmond, seven right eight left three right'.",
+                    " Lord Stapleton is S. ",
+                    " Anthony had an epiphany when he saw the rose garden. ",
+                    " Anthony has read the memoirs of the Count of Stapleton.",
+                    " Lord Steptoe's memoirs mention that the Count himself wore a rose badge at a dinner party themed around 'flowers'.",
+                    " The center of the rose garden has a sundial.",
+                    " Based on the clues provided, it can be inferred that the gem is hidden in the rose garden by Stapleton, with the route being \"seven left, eight right, three right,\" the sundial in the center of the rose garden serving as a landmark, and Richmond possibly being a flower name or other code."
+                ],
+                "clue_position": [
+                    2675,
+                    2676,
+                    2813,
+                    531,
+                    3179,
+                    2841,
+                    -1
+                ],
+                "answer_position": 3317
+            },
+            {
+                "question": " What is the true identity of Anthony Kiedis?",
+                "options": {
+                    "A": " Earl of Britain",
+                    "B": " Hesse-Schwarzburg Prince",
+                    "C": "Victor Wong ",
+                    "D": " French Police"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " The Earl of Carrickham",
+                    "C": " The codename of the international thief",
+                    "D": " The identity of Battey the sheriff"
+                },
+                "reasoning": [
+                    " Upon hearing Herschel, Anthony suddenly lifted his head.",
+                    " Anthony is very familiar with the inner details of Herschovitz.",
+                    " Anthony is aware of Herschel's recent situation.",
+                    " Based on Anthony's reaction to Heslovak and his knowledge of Heslovak, it can be inferred that Anthony has a close connection with Heslovak.",
+                    " Anthony has outstanding political ability.",
+                    " Anthony's high sensitivity to politics.",
+                    " Anthony once saved Jimmy in Africa.",
+                    " Jimmy refers to Anthony as Sir John.",
+                    " Anthony has been trained.",
+                    " Based on the above clues, it can be inferred that Anthony is not an ordinary tour guide, but rather an individual with a rich past and high political sophistication, likely a noble.",
+                    " Prince Michael is the heir to the throne of Hesse.",
+                    " After the death of Prince Michael, Prince Nicholas, the cousin of Prince Michael, is the next heir to the throne of Hesse.",
+                    " Boris is the personal servant of Prince Michael.",
+                    " Boris is very loyal to Prince Michael.",
+                    " Boris went to serve Anthony after the death of Prince Michael.",
+                    " Based on the above clues and reasoning, we can infer that Anthony is most likely the cousin of Prince Michael, Prince Nikolaus of Oettingen-Spielberg."
+                ],
+                "clue_position": [
+                    95,
+                    115,
+                    186,
+                    -1,
+                    84,
+                    98,
+                    61,
+                    2,
+                    2850,
+                    -1,
+                    446,
+                    1867,
+                    1890,
+                    1468,
+                    1891,
+                    -1
+                ],
+                "answer_position": 3334
+            },
+            {
+                "question": " Who is the person pretending to be Mr. Lemon?",
+                "options": {
+                    "A": " Hiram Fries",
+                    "B": " Anthony",
+                    "C": " Boris",
+                    "D": " Victor Wang"
+                },
+                "answer": "D",
+                "distraction": {
+                    "A": " Detective from the United States",
+                    "B": " Prince Herscovici",
+                    "C": " Michael Prince's personal servant"
+                },
+                "reasoning": [
+                    " Mr. Lemon arrived at the chimney villa.",
+                    " Victor Wang kidnapped a person in Dover, France.",
+                    " Anthony and Fuchs saw the kidnapped person in France at Dover.",
+                    " Anthony and Fisch found the real Mr. Lemon.",
+                    " Based on the above clues, we can infer that the chimney villa's Lemon is a fake.",
+                    " Victor Wang came to the Chimney Mansion for the diamond.",
+                    " Anthony fabricated a false location for hiding the fake diamonds.",
+                    " When Xie Lei-mon heard about the false location of the hidden diamonds, he stopped everyone in their tracks.",
+                    " After stopping everyone, he immediately wrote a letter and sent it out.",
+                    " There is a person searching for diamonds in a fake diamond hiding place.",
+                    " That person is a partner of Victor King.",
+                    " Based on the above clues, it can be inferred that Victor Wang kidnapped and replaced Lemont in France, using Lemont's identity to come to Chimney House in search of the diamond, and his accomplices were also cooperating with his actions inside Chimney House."
+                ],
+                "clue_position": [
+                    2149,
+                    2922,
+                    2928,
+                    3304,
+                    -1,
+                    1446,
+                    3179,
+                    3186,
+                    3187,
+                    3252,
+                    3272,
+                    -1
+                ],
+                "answer_position": 3309
+            },
+            {
+                "question": " What is the reason for seizing the memoirs?",
+                "options": {
+                    "A": " Submitting a memoir to a newspaper can earn you 1000 pounds.",
+                    "B": " Stapleton's Rule of Governance",
+                    "C": " Memoirs contain clues about diamonds.",
+                    "D": " Memoirs may contain scandals of Hirschovsky"
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " The reasons why Anthony brought the memoir to Britain",
+                    "B": " Contents of the memoir",
+                    "D": " The reasons why the baron bought the memoirs"
+                },
+                "reasoning": [
+                    " Count Stapleton died in Paris, but only sent his memoirs to Jimmy in Africa.",
+                    " Many people were vying for the memoirs of the Count of Stapleton.",
+                    " Based on the above clues, we can see that Count Stapleton's memoirs contain some unknown secrets.",
+                    " Diamonds were transferred to another location by S.",
+                    " The Earl of Steptoe is S. ",
+                    " Based on the above clues and inferences, it is likely that Lord Stapleton's memoirs contain clues about the location of the hidden diamonds."
+                ],
+                "clue_position": [
+                    116,
+                    517,
+                    -1,
+                    2675,
+                    2676,
+                    -1
+                ],
+                "answer_position": 3317
+            },
+            {
+                "question": " What are Anthony's feelings about being a tour guide for the travel group?",
+                "options": {
+                    "A": " He likes this job.",
+                    "B": " He hates this job.",
+                    "C": " He is indifferent about this job.",
+                    "D": " He feels fine about this job."
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " The feelings expressed in the text are as follows:",
+                    "C": " The feelings expressed in the text",
+                    "D": " The feelings expressed in the text"
+                },
+                "reasoning": [
+                    " Anthony thinks this job is not suited for him.",
+                    " Anthony refers to the members of the travel group as \"chatty hens.\"",
+                    " Anthony's indifference towards the tour group members.",
+                    " Anthony went straight home and ordered a strong drink, saying that he really needed one. ",
+                    " Anthony would immediately switch to another job if there was one available.",
+                    " Based on the above clues, we can infer that Anthony dislikes his job."
+                ],
+                "clue_position": [
+                    12,
+                    20,
+                    45,
+                    68,
+                    70,
+                    -1
+                ],
+                "answer_position": 128
+            }
+        ]
+    }
+]

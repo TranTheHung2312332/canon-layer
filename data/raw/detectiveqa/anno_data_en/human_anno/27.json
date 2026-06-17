@@ -1,0 +1,285 @@
+[
+    {
+        "novel_id": 27,
+        "num_paragraphs": 2938,
+        "time_cost": "10H",
+        "questions": [
+            {
+                "question": " Andrew Fan's life situation is ( )",
+                "options": {
+                    "A": " Always living in the village of Arroyo",
+                    "B": " Once had a more affluent life",
+                    "C": " No past experience",
+                    "D": " Living a low-key life"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " A headless corpse of a 46-year-old principal, Andrew Veng, was found in Arroyo.",
+                    "C": " Fragments of information collected by the police about the last known whereabouts of Van and Clinton",
+                    "D": " Andrew Van's Possible Life Situation"
+                },
+                "reasoning": [
+                    " The villagers of Arroyo consider Andrew Van as a model teacher: gentle in demeanor but not lenient with students; his contributions are deemed satisfactory according to the Arroyo Village Board. Moreover, Andrew Van is a teetotaler.",
+                    " Bernheim specified the purchase of various caviar for Andrew Van, the best kind. ",
+                    " Town Mayor Hollis said that Van brought back some books from Pittsburgh, some odd philosophical, historical ones, as if for show. ",
+                    " Bank Chairman Hollis said that Fan does not trust the bank and puts the money in his own house. ",
+                    " Based on the clues provided, it can be inferred that Andrew Fang enjoys caviar and often buys books, indicating that Andrew has a relatively affluent lifestyle."
+                ],
+                "clue_position": [
+                    93,
+                    139,
+                    174,
+                    178,
+                    -1
+                ],
+                "answer_position": 1881
+            },
+            {
+                "question": " What are your views on the nationality of the three main characters?",
+                "options": {
+                    "A": " All are true nationalities",
+                    "B": " Part of the content uses pseudonyms",
+                    "C": " Everybody is lying",
+                    "D": " And nationality is irrelevant."
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " The document mentions the records of their identity proofs.",
+                    "B": " Three people only use pseudonyms",
+                    "D": " Speculate on the possibility of their nationality"
+                },
+                "reasoning": [
+                    " Andrew Van is a naturalized American citizen who gained citizenship in Pittsburgh thirteen years ago. His records are archived in Pittsburgh, documenting that he was an Armenian before becoming a U.S. citizen, born in 1885. There are no other leads on Van, only these. ",
+                    " As a principal, Andrew Fan lives in a village with only 200 people and frequently orders caviar. Given his professional and personal environment, it is clear that his past was much more luxurious.",
+                    " Mrs. Brad said that Tom Brad is Romanian.",
+                    " Lincoln states that Stephen Meagher is Greek. ",
+                    " Mr. Megalha behaves like an adventurer or amateur explorer. He owns a yacht and often sails on it, spending three to four months outside each time he goes out.",
+                    " Mr. Brad and Mr. Megalas both have ample funds. They, like others, were affected by the economic depression, but their business remained steady. ",
+                    " Thomas Breda is a Romanian - and Romania has a city called Breda.",
+                    " Stephen Meilaghi is a Greek, and there is a city in Greece called Meilaghi.",
+                    " Andrew Van's naturalization records indicate that his native country is Armenia, and there is a city called Van in Armenia – as well as a lake called Van.",
+                    " Based on the above clues, it can be inferred that all three individuals have money, they come from different countries, and their names correspond to the names of the cities of Brașov in Romania, Megara in Greece, and Van in Armenia, proving that they are using pseudonyms to falsify their nationality. Therefore, they are all lying. "
+                ],
+                "clue_position": [
+                    150,
+                    142,
+                    597,
+                    600,
+                    605,
+                    624,
+                    718,
+                    720,
+                    724,
+                    -1
+                ],
+                "answer_position": 1881
+            },
+            {
+                "question": " The actual location of Brad's death is:<br>",
+                "options": {
+                    "A": " Pavilion",
+                    "B": " Study Room",
+                    "C": " Beach",
+                    "D": " Forest"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " A corpse of Brad found in the pavilion",
+                    "C": " The text mentions the potential crime scene.",
+                    "D": " Suspected crime scene of a possible homicide"
+                },
+                "reasoning": [
+                    " The back legs of the sofa were not on the carpet. Ellery pulled hard to put it completely on that Chinese carpet, but he quickly bent down to check the part of the carpet that was originally hidden under the sofa.",
+                    " A bloodstain was found in a spotless place where the carpet was.",
+                    " In a spot only a few inches away from the bloodstain, there is a square indentation in the carpet fibers, caused by a chair or table leg that has been in the same spot for a long time. The shape of the indentation is not that of a sofa leg, as the bottom of a sofa leg is round. ",
+                    " Three feet away from the first indentation is a matching indentation on the carpet where the sofa is placed. ",
+                    " In the room, only the legs of the desk can leave indentations that are the same size and shape as the two recesses under the sofa.",
+                    " By pulling the rug under the small furniture around, the part that was originally hidden under the sofa returned to the place where it was placed on the night of the murder - on the other side of the room. The two depressions matched perfectly with the legs of the desk in front of them.",
+                    " Bloodstains were found two feet behind the folding chair at the back of the chess table, which was standing next to the desk.",
+                    " Based on the above clues, bloodstains were found on the carpet in Bradley's study, and the scene had been tampered with, with the bloodstains conveniently located behind the chess table chair, indicating that Bradley was killed in the study. "
+                ],
+                "clue_position": [
+                    1482,
+                    1484,
+                    1486,
+                    1488,
+                    1491,
+                    1497,
+                    1499,
+                    -1
+                ],
+                "answer_position": 1513
+            },
+            {
+                "question": " Who is Brad's opponent when he plays chess?",
+                "options": {
+                    "A": " Jonathan Lincoln",
+                    "B": " Officer",
+                    "C": " Be alone",
+                    "D": " Stollings"
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " The text mentions that they often play chess together.",
+                    "B": " The article mentions potential characters who could play chess with Brad.",
+                    "D": " The driver of the Bradley family will have a chance to play chess together."
+                },
+                "reasoning": [
+                    " On the edge of the board near the desk, there were nine red pieces captured by black stones; on the opposite edge of the board, there were three black pieces captured by the red side.",
+                    " Explains that the Black side has an absolute advantage. ",
+                    " Brad is an extremely intelligent chess player.",
+                    " The national champion of Western Chess and Tom play chess, and they often play to a draw.",
+                    " Brad was holding a red pawn when he was killed. ",
+                    " Mr. Bradley, upon returning home from the city yesterday, handed Mr. Stollings a ten-dollar bill, instructing him to allow Mr. Fox, Mrs. Baxter, and Mr. Stollings to rest after dinner, as he required the entire evening to himself.",
+                    " Brad never sent Stollings, Fox, and Mrs. Baxter away. Last night was the first time.",
+                    " Mr. Bread is a very excellent chess player, very careful, he often practices like that by himself.",
+                    " Based on the clues, it can be inferred that Brad is a chess master, and the red piece could not have been his move. Later that night, he expressed a desire to be alone and died holding a red chess piece, suggesting that he was playing against himself and was possibly attacked by the killer. "
+                ],
+                "clue_position": [
+                    768,
+                    -1,
+                    671,
+                    674,
+                    457,
+                    788,
+                    811,
+                    798,
+                    -1
+                ],
+                "answer_position": 2541
+            },
+            {
+                "question": " Who is the biggest suspect in the murder of Brad?",
+                "options": {
+                    "A": " Paul Roman",
+                    "B": " Fox",
+                    "C": " Jonah Lincoln",
+                    "D": " Stollings"
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " Brad the driver was the first to discover the body.",
+                    "c": " The Managing Director of Broaden Corporation, suspected of murder",
+                    "D": " Brad's butler, jealous of Brad's wealth, has a motive for murder."
+                },
+                "reasoning": [
+                    " The killer was either two people or a strong, sturdy guy. It wouldn't have been possible without using a chair to move the body to that location.",
+                    " Paul Roman is the madman Harakat on the Oyster Island who called him his chief disciple. He built a nudist area on the island. A group of nudists.",
+                    " Temple said there was a little argument with Roman. He was like a wild man, much stronger than Temple.",
+                    " Paul Roman is tall and broad-shouldered, with dark skin, well-developed muscles, and a mane of black hair that sways in the wind as he runs. Ellery thought of Tarzan. ",
+                    " The above describes Paul Roman as being physically robust and having great strength.",
+                    " Brad threatens Harecat and Paul Roman with legal action, citing that their advocacy of nudism is offensive and indecent.",
+                    " Roman forces Mr. Broad to leave the island. When Mr. Broad refuses, Roman's strength is like that of a wild beast, threatening to hit him and forcing Mr. Broad to ultimately leave.",
+                    " Mr. Temple found Mr. Roman and Mrs. Broad on a date ten feet offshore. ",
+                    " According to the clues provided, Paul Roman is described as tall and strong enough to tie the deceased Brad to a totem pole, Brad had previously stopped Paul from creating nudism, and Paul also had an affair with Brad's wife. These factors give Paul a strong motive to kill Brad."
+                ],
+                "clue_position": [
+                    440,
+                    649,
+                    969,
+                    929,
+                    -1,
+                    1122,
+                    1124,
+                    1162,
+                    -1
+                ],
+                "answer_position": 2074
+            },
+            {
+                "question": " The real identity of Old Pete is ( )",
+                "options": {
+                    "A": " Andrew Jackson",
+                    "B": " Authentic Self",
+                    "C": "Klin",
+                    "D": " Please translate the following content into English while maintaining the numbering of each sentence. Note the coherence of the translation content."
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " The article has mentioned the possibility of identity.",
+                    "C": " Andrew Van der Veer's servant, who disappeared after Andrew Van der Veer's death",
+                    "D": " Megalos corroborated his every statement, making him appear innocent."
+                },
+                "reasoning": [
+                    " Old Pete was the first to find Andrew Van's corpse.",
+                    " On the witness stand, Old Pete stood up as a strange figure. Tall and upright, he had a thick, bushy gray beard and long, drooping eyebrows.",
+                    " The note left by Brad reads: Don't believe Andrew Van is dead. Only Stephen Meagher knows where to find him.",
+                    " Meigalo learned that his brother Andrew Van was still alive because the old mountaineer, Pete, was still alive. ",
+                    " Old Pete's voice is not a hoarse voice, it is humble, polite, and the voice of an educated adult.",
+                    " MeiGala said that he, Fan, and Bred are three brothers, and their surname is Tewell. ",
+                    " Tomislav, Andrew and Megal were the last remnants of the Tver family. ",
+                    " The Tver family has a long-standing feud with the Croissac family, another clan. ",
+                    " The agent discovers that Andrew's enemies are sworn to eradicate them completely, no matter where they flee to.",
+                    " According to the clues shown, Andrew Van is actually a descendant of Twerle: Andrew Van, the family and the Crocetta are sworn enemies, and Andrew Van's agents discover that their enemies are trying to eliminate them. Andrew Van has been hiding in the mountains to avoid the enemy's pursuit. He has disguised himself as an old man from a young age. "
+                ],
+                "clue_position": [
+                    46,
+                    111,
+                    1554,
+                    1619,
+                    1708,
+                    1597,
+                    1860,
+                    1862,
+                    1876,
+                    -1
+                ],
+                "answer_position": 1896
+            },
+            {
+                "question": " Who is the real killer?",
+                "options": {
+                    "A": " Wileg Crocetta",
+                    "B": " Clinton: \"I'm here to listen, to learn, and to work together with all of you to make sure that every American has the opportunity to succeed and reach their full potential.\" (Translation: \"I'm here to listen, to learn, and to work together with all of you to make sure that every American has the opportunity to succeed and reach their full potential.\")",
+                    "C": " Jonah Lincoln",
+                    "D": " Paul Roman"
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " Andrew Van's servant, disappeared after Andrew Van's death.",
+                    "C": " The general manager of Bread, not wanting to be a cow or a horse, had a motive for murder.",
+                    "D": " Strength, proponent of nudism, hates Brad"
+                },
+                "reasoning": [
+                    " Crocker mentioned that on Christmas Eve at 11 o'clock, someone was willing to pay him ten US dollars to drive him to the intersection of the Arroyo Boulevard and New Kowloon-Bay Piewoon Road. ",
+                    " The man, limping badly with his left leg, walked towards Aroo with a pitchfork in his hand.",
+                    " Harakht was the disciple of the limping man, the High Priest of Horus, Wertka-Croce.",
+                    " Vilga Krossak is an Armenian.",
+                    " Vilga Crosette is a devout believer.",
+                    " Krosov leased the Oyster Island, but he never showed his face.",
+                    " Fan, Bread, and Megalai changed their names, while the elusive Closacus had no place named Closacus in Europe or the Near East, no city, lake, mountain, or any other thing with that name.",
+                    " Andrew Fan, who was nailed in a cross shape on a signpost that formed a T, the intersection formed a T, and near the intersection, the killer hastily wrote a T on the door of the Fan family with the victim's blood. ",
+                    " The corpse of Bred lay stretched out on the grass a few feet from the totem pole, forming a T-shape. ",
+                    " The patterns on the totem pole: The eagle's wings are wide and flat, and when spread out, they resemble the uppercase letter T.",
+                    " On the ground, a roughly scrawled large capital letter T is painted in blood. ",
+                    " The T-shaped cross is said to be a common tool in Egypt, often referred to as the Egyptian cross. ",
+                    " Harakat, who was actually—one of the greatest Egyptologists in the world, Strojek. ",
+                    " The Tver family has a long-standing feud with the Crocetta family.",
+                    " Megalas says: Their real surname is Tver.",
+                    " Megalos said that twenty years ago, only one man from the Crozack family remained – Vilgai – the man everyone was chasing, who was still a child at the time. He and his mother were the only survivors of the Crozack family. ",
+                    " According to the clues provided, Crosetti is an Egyptian religious follower who killed the Tveri brothers in the form of an Egyptian cross due to a childhood clan massacre."
+                ],
+                "clue_position": [
+                    246,
+                    250,
+                    284,
+                    287,
+                    302,
+                    1103,
+                    728,
+                    15,
+                    452,
+                    411,
+                    469,
+                    1304,
+                    1028,
+                    1862,
+                    1597,
+                    1866,
+                    -1
+                ],
+                "answer_position": 2588
+            }
+        ]
+    }
+]

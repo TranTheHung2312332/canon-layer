@@ -1,0 +1,161 @@
+[
+    {
+        "novel_id": 79,
+        "num_paragraphs": 4315,
+        "time_cost": "10H",
+        "questions": [
+            {
+                "question": " The death of Jin Jingduo's servant had what impact on the family balance?",
+                "options": {
+                    "A": " Family balance is maintained",
+                    "B": " Family balance is disrupted",
+                    "C": " Family members' relationships are more closely knit.",
+                    "D": " Family members begin to suspect each other"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " The impact of Tokugawa's death",
+                    "C": " The possible impacts of Tōjō's death",
+                    "D": " The possible impact of Tōdō Mo's death"
+                },
+                "reasoning": [
+                    " Tsurujo's brother's corpse was dressed in shoes, but not indoor slippers. The shoes were quite peculiar, made of iron, pointed at the tip... without the need for Mugenjin's explanation, it was clear that these were the iron boots of armor.",
+                    " The body of Dōshō Matsunaga appeared beside the head of Itō.",
+                    " Duō shì mó's second younger brother's head was treated like a trophy of a native tribe, casually placed on his own treasured box, more pitiful than the protagonist of the tragedy, yet full of comedic undertones. ",
+                    " Based on the above clues, it can be inferred that after the death of Motozane, members of the family were killed one by one, indicating that the balance of the family was disrupted. "
+                ],
+                "clue_position": [
+                    180,
+                    462,
+                    1705,
+                    -1
+                ],
+                "answer_position": 1959
+            },
+            {
+                "question": " When Mukae arrived at the Inari family, who was the chairman?",
+                "options": {
+                    "A": " Itoh",
+                    "B": "Xi Yan",
+                    "C": " 200 acres",
+                    "D": " There is a horse"
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " Dōji Mō's younger brother",
+                    "B": " The daughter of Dōjō Mo",
+                    "D": " Son of Itto"
+                },
+                "reasoning": [
+                    " One month ago, the second-generation chairman and president of the company, Tomio Aoki, passed away at the age of 95. ",
+                    " Firstly, Acre and Yagiya, along with other individuals involved such as housekeepers and family members, were questioned. ",
+                    " Dinner was an invitation from Yuanbang, unexpectedly not kicking them out, despite not paying attention to Muto during the interview.",
+                    " Based on the above clues, it can be inferred that a month ago, Ootsuki Mochou had passed away. During the investigation, Oozora played a leading role and invited everyone to dinner at the family restaurant, so Oozora was serving as the chairman."
+                ],
+                "clue_position": [
+                    424,
+                    796,
+                    1040,
+                    -1
+                ],
+                "answer_position": 1061
+            },
+            {
+                "question": "Who is the person that Xiangyue Jun likes",
+                "options": {
+                    "A": " Mist Drawing",
+                    "B": "Japanese yarn",
+                    "C": " Yūgen",
+                    "D": "Silk generation"
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " Jian Jie's daughter",
+                    "B": " Housekeeper",
+                    "D": " Event-related characters"
+                },
+                "reasoning": [
+                    " Xiangyue and Xiyan are always on the same wavelength, as if they have a spiritual connection.",
+                    " Mutsumi said that both Yuki and Akihiko had the same evaluation of each other. There was a sense of resonance between them. ",
+                    " Before meeting with Miyuki, Yuzu had been with me the whole time and is the only one with an alibi.",
+                    " When Shibuya-san heard that Yuzu may like Hoshikawa-san, Kouya-san became sad.",
+                    " Based on the above clues, it can be inferred that when Mr. Kagura hears that Meiyan might like Kumohira, he feels sad. Also, before meeting Muto, Mr. Kagura is the only witness who was not present, indicating that he was alone with Meiyan, so Mr. Kagura's favorite is Meiyan."
+                ],
+                "clue_position": [
+                    1628,
+                    1675,
+                    1907,
+                    2815,
+                    -1
+                ],
+                "answer_position": 3561
+            },
+            {
+                "question": " Which of the following individuals has their suspicion completely ruled out ( )",
+                "options": {
+                    "A": " Fog drawing",
+                    "B": "Sugihiko",
+                    "C": "Xi Yan",
+                    "D": " Mutsu-tsun"
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " Main Personnel in the Case",
+                    "B": " Relevant parties in the case",
+                    "D": " McCartney's Suspects"
+                },
+                "reasoning": [
+                    " Ako was with Kyoto when he was killed.",
+                    " When seeing the still body of Yama, Yuzu shrieked and fainted.",
+                    " After fainting, Yuzhi couldn't get out of bed.",
+                    " When the body was found, he fainted and was discovered by Yashiro. ",
+                    " Based on the above clues, it can be inferred that Yuyan was not present at the scene of the crime when it occurred, and his reaction upon discovering the body of Jinma did not show any signs of psychological preparation, therefore eliminating Yuyan's suspicion completely. "
+                ],
+                "clue_position": [
+                    1907,
+                    2347,
+                    2367,
+                    2376,
+                    -1
+                ],
+                "answer_position": 4017
+            },
+            {
+                "question": " Based on the existing clues, who is the perpetrator of the serial murder case ( )",
+                "options": {
+                    "A": " Twins",
+                    "B": "Xi Yan",
+                    "C": "Sugihiko",
+                    "D": " Mists Drawn "
+                },
+                "answer": "D",
+                "distraction": {
+                    "A": " Characters Related to Serial Murder Case",
+                    "B": " The daughter of Du Shiqiao",
+                    "C": " The Father of the Mist Painter"
+                },
+                "reasoning": [
+                    " Maria Kucera, the mother of the mistress, met Kenji in America.",
+                    " Aoyang is also opposed to Shang Yan claiming the territory.",
+                    " Misty believes that Yanaba abandoned Misty and her daughter.",
+                    " The pale, contorted face on the side of the hill was covered in white lead powder, resembling a kabuki actor.",
+                    " The only person who had been on the second floor when the crime occurred was Fujiko.",
+                    " There is also a letter left by Kanako and Miyuki after their murder. The paper marks the location of the lake with icons, and only mentions the time as \"2 o'clock\". It can be considered a love letter, intended to secretly invite the twins out. The paper contains only the time and the word \"secret\" written in hiragana.",
+                    " At the time of Yuanpang's murder, only Misty had gone upstairs. After Yuanpang's murder was discovered, the scene was filled with artistic ambiance, which could suggest that the killer was not illiterate.",
+                    " Based on the above clues, it can be inferred that when the twins were brought out, there were only \"2 points, secret\" written on the paper, indicating that the killer may be illiterate or unfamiliar with Japanese, and Mizuki has been in the United States, returning to Japan only after being claimed, so Mizuki is the perpetrator of the murder case."
+                ],
+                "clue_position": [
+                    1457,
+                    1465,
+                    1521,
+                    1710,
+                    3075,
+                    3887,
+                    -1,
+                    -1
+                ],
+                "answer_position": 4053
+            }
+        ]
+    }
+]

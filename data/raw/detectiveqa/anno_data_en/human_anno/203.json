@@ -1,0 +1,331 @@
+[
+    {
+        "novel_id": 203,
+        "num_paragraphs": 2504,
+        "time_cost": 360,
+        "questions": [
+            {
+                "question": " What is the reason for the disappearance of Sirnesbury Syl?",
+                "options": {
+                    "A": " Voluntarily departing",
+                    "B": "Encounter unexpected events",
+                    "C": " Eloping with someone",
+                    "D": " Sudden Amnesia"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " The text mentions relevant speculations.",
+                    "C": " The text mentions that Ms. Sil has several other suitors.",
+                    "D": " The hotel manager's conjecture mentioned that "
+                },
+                "reasoning": [
+                    " Lady Sainsbury did not take her luggage when she went missing. ",
+                    " This does not seem like a voluntary departure.",
+                    " Ms. Silvia arranged to play cards with her friend after dinner.",
+                    " Normally, she should be back at the hotel by the agreed-upon time.",
+                    " Therefore, based on the above clues, it is inferred that Sainsbury's encountered an unforeseen event."
+                ],
+                "clue_position": [
+                    704,
+                    -1,
+                    734,
+                    -1,
+                    -1
+                ],
+                "answer_position": 1202
+            },
+            {
+                "question": " What was the cause of Molly's death?",
+                "options": {
+                    "A": " Morley was killed by someone else.",
+                    "B": " Mo Li is a suicide",
+                    "C": " An accident occurred at Molly's clinic.",
+                    "D": " Sudden illness caused by Moli"
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " Police speculate that Molly died by suicide.",
+                    "C": " Molli Clinic did indeed experience a medical incident.",
+                    "D": " The text mentions that Molly is healthy."
+                },
+                "reasoning": [
+                    " At 12:25, the dentist was still energetic and focused, steadily examining patients.",
+                    " Jia Pu knows that Molly is healthy, can make money, and has no obvious troubles. There have been no emotional fluctuations recently. ",
+                    " There is no reason for Molly to commit suicide, and there were no abnormalities in his condition on the day of the incident. ",
+                    " Poirobserved traces on the carpet, as if something had been dragged across it.",
+                    " That is the trace of dragging the body from above, which does not fit the situation of suicide. ",
+                    " Therefore, Molly was murdered by someone else."
+                ],
+                "clue_position": [
+                    217,
+                    184,
+                    -1,
+                    225,
+                    -1,
+                    -1
+                ],
+                "answer_position": 684
+            },
+            {
+                "question": " Where was Moli killed?",
+                "options": {
+                    "A": " Waiting Room",
+                    "B": " Examination Room",
+                    "C": " Office",
+                    "D": " Elevator inside"
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " The text mentions locations.",
+                    "B": " The text mentions locations.",
+                    "D": " The location mentioned in the text is: "
+                },
+                "reasoning": [
+                    " The body was found lying beside the fireplace.",
+                    " The posture of the corpse lying down is wrong; it cannot be a natural fall.",
+                    " There are drag marks on the carpet.",
+                    " The above clues prove that this is evidence of the body being moved.",
+                    " Since the killer could have killed Molly in the clinic without the need to move the body.",
+                    " Therefore, Molle was killed in his office."
+                ],
+                "clue_position": [
+                    174,
+                    225,
+                    225,
+                    -1,
+                    -1,
+                    -1
+                ],
+                "answer_position": 684
+            },
+            {
+                "question": " Based on the forensic autopsy results, Mr. Moli's time of death should be around (()).",
+                "options": {
+                    "A": " 12:25 before",
+                    "B": "12:25-13:00",
+                    "C": " 13:00-14:20",
+                    "D": "14: After 20"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " Important Time Points",
+                    "C": " Important Time Points:",
+                    "D": " Important Time Points"
+                },
+                "reasoning": [
+                    " In the clinic, the dentist seemed quite normal and calm.",
+                    " Ambrose looked at his watch as he left, it was 12:25.",
+                    " After Amberios left, Mr. Molley did not press the buzzer.",
+                    " The fact that Morley couldn't operate the buzzer after that indicates he may have been killed sometime after 12:25. ",
+                    " Forensic examination determines that Mooré was shot before 1 o'clock.",
+                    " According to the forensic judgment, Moor's time of death should be between 12:25 pm and 1:00 pm."
+                ],
+                "clue_position": [
+                    209,
+                    211,
+                    214,
+                    -1,
+                    215,
+                    -1
+                ],
+                "answer_position": 217
+            },
+            {
+                "question": " Who is the dentist that treated Amberlees for her teeth?",
+                "options": {
+                    "A": " The killer of Mr. Oz",
+                    "B": " Dr. Molly",
+                    "C": " The assistant of Dr. Molly the dentist",
+                    "D": " The clinic's receptionist"
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " Key figures in the text",
+                    "C": " Key Characters in the Text:",
+                    "D": " Critical Characters in the Text"
+                },
+                "reasoning": [
+                    " Just a little while after midnight, Carter entered Mr. Moly's room.",
+                    " Carter said Mr. Muller's hands were as cold as stones.",
+                    " It has been some time since Mr. Moly died. ",
+                    " Mr. Ambroz entered the examination room at 12 o'clock.",
+                    " Explain that Mr. Oz has encountered a dentist who is not Mr. Moly.",
+                    " Forensic inference suggests that Mr. Ambrose died from an overdose of adrenaline and procaine injections.",
+                    " These drugs were all in the examination room, and only this \"dentist\" met the conditions for the crime, indicating that he was the one who killed Ozzy."
+                ],
+                "clue_position": [
+                    2218,
+                    2246,
+                    -1,
+                    334,
+                    -1,
+                    596,
+                    -1
+                ],
+                "answer_position": 2404
+            },
+            {
+                "question": " How did Poirot determine that the body in the box was not Sainsbury Silas?",
+                "options": {
+                    "A": " Dentist's medical records",
+                    "B": " 200: Xie has gone to the United States.",
+                    "C": " The shoes worn by the corpse",
+                    "D": " Chapman's shoe size is smaller than hers."
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " The article investigates cases",
+                    "B": " Miss Cil is the murderer, and it's related to Jane, an American.",
+                    "D": " The article mentioned shoe sizes."
+                },
+                "reasoning": [
+                    " Poiro saw that Madame de Silfert was wearing a brand new patent leather shoe with a huge, shiny buckle.",
+                    " Ms. Sil's shoe buckle was caught in the door, and Poirot picked it up and gave it back to her.",
+                    " The shoe buckle that Miss Sil fell off was not sewn up.",
+                    " The corpse inside the box was wearing shabby shoes with decorative buckles.",
+                    " The corpse's shoes are very worn out, and the shoe buckles are clumsily sewn on by hand. ",
+                    " Based on the clues, it can be inferred that the victim's shoes are different from those worn by Ms. Sil.",
+                    " After only one day, the shoes could not have gotten that worn out, these shoes are not the ones from Ciel.",
+                    " Therefore, it is inferred that the body is not that of Sainsbury's Sil."
+                ],
+                "clue_position": [
+                    133,
+                    134,
+                    543,
+                    1181,
+                    1227,
+                    -1,
+                    -1,
+                    -1
+                ],
+                "answer_position": 1393
+            },
+            {
+                "question": " According to Agnes's statement, who killed Mr. Muller?",
+                "options": {
+                    "A": " Mr. Molley's sister, Georgina",
+                    "B": " Mr. Morley's assistant, Miss Neville",
+                    "C": " Mr. Ambleroz, one of Mr. Morley's patients,",
+                    "D": " Miss Neville's fiancé, Mr. Cat"
+                },
+                "answer": "D",
+                "distraction": {
+                    "A": " Critical Characters in the Text",
+                    "B": " The key characters in the text are:",
+                    "C": "Key figures in the text"
+                },
+                "reasoning": [
+                    " Agnes describes that Carter once said that Mr. Moly didn't like him and wanted to break him and Miss Neville apart.",
+                    " Mr. Carter had a grudge against Mr. Neville, and had a motive for murder.",
+                    " Agnes saw Carter enter Molly's clinic on the day of the incident.",
+                    " Carter's behavior is suspicious and meets the conditions for a crime.",
+                    " Inference: The person who murdered Mr. Muller is Miss Neville's fiancé, Mr. Fairfax."
+                ],
+                "clue_position": [
+                    2157,
+                    -1,
+                    2165,
+                    -1,
+                    -1
+                ],
+                "answer_position": 2170
+            },
+            {
+                "question": " According to the given information, which of the following statements can be determined?",
+                "options": {
+                    "A": " The corpse in the box is a setup by the murderer.",
+                    "B": " The murderer does not want the body to be found",
+                    "C": " The corpse in the box is the murderer of Molly",
+                    "D": " The corpse in the box is the wife of the killer."
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " Problem-related",
+                    "C": " Sylar is related to the murderer, and the corpse is wearing Sylar's clothes.",
+                    "D": " Sil is the wife of the killer, but the corpse is not Sil who was faked"
+                },
+                "reasoning": [
+                    " The face of the corpse was mutilated.",
+                    " However, the body in the box was wearing Miss Sil's clothes, even the handbag was stuffed inside the box.",
+                    " According to the clues, the killer deliberately destroyed the face of the corpse in order to conceal the identity of the victim.",
+                    " However, if the killer's intention was to conceal their identity, they would not have intentionally left Ms. Sil's clothes and handbag behind.",
+                    " Based on the teeth and jawbone, the body in the box is identified as Albert Chapman.",
+                    " This self-contradiction indicates that this is a deliberate act by the murderer, the body is not that of Ms. Sil, but rather a ploy to make the body appear to be that of Ms. Sil. This suggests that the murderer has set a trap."
+                ],
+                "clue_position": [
+                    1199,
+                    1202,
+                    -1,
+                    -1,
+                    1393,
+                    -1
+                ],
+                "answer_position": 1394
+            },
+            {
+                "question": " Why did Glady's Neville receive a telegram?",
+                "options": {
+                    "A": " Joking with Neville",
+                    "B": " Distract Miss Neville",
+                    "C": " Neville's aunt is ill.",
+                    "D": " Molly did not want Miss Neville to stay at the clinic."
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " The text mentions that it may be a joke.",
+                    "C": " The letter mentioned that Aunt Neville was ill.",
+                    "D": " The article suggests that it may have been written by Molly."
+                },
+                "reasoning": [
+                    " Miss Neville received a telegram on the day of the incident notifying her that her aunt had suffered a stroke and required her return home.",
+                    " Miss Neville found that her aunt was quite well and not at all ill.",
+                    " This telegram arrived on the day of the incident, and the contents were all false, too coincidental.",
+                    " Miss Neville said the person who sent the telegram must have known me and my aunt.",
+                    " The telegram was sent from Ritching Barn, a suburb of London, and Miss Neville's home is in Ritching Bourn.",
+                    " The address on the telegram is also suspicious, and this person has deliberately learned about Miss Neville and her aunt, so this telegram must have been carefully planned.",
+                    " The purpose was to distract Miss Neville in order to commit the crime."
+                ],
+                "clue_position": [
+                    276,
+                    328,
+                    -1,
+                    848,
+                    923,
+                    -1,
+                    -1
+                ],
+                "answer_position": 941
+            },
+            {
+                "question": " According to the information in the text, who was the mastermind behind the assassination plot against the prominent political figure, Brent?",
+                "options": {
+                    "A": " Ambrose",
+                    "B": " Barnes",
+                    "C": " Riley",
+                    "D": " Frank Carter"
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": "Related characters in the text",
+                    "C": " The relevant characters in the text",
+                    "D": "Related characters in the text"
+                },
+                "reasoning": [
+                    " Amberoz was involved in espionage in Germany and France, and also participated in extortion and politics.",
+                    " Amberios has a spy background, and is more likely to be involved in political conspiracies.",
+                    " Mr. Oz comes to the clinic at noon, and Brent comes at 11:30.",
+                    " Amberioz's visit to the dentist's office coincided with Brent's, suggesting a possibility of premeditation.",
+                    " Based on Amberios' background and the timing of the incident, it is speculated that Amberios used his position as a dentist to carry out the assassination of prominent politician Brent. "
+                ],
+                "clue_position": [
+                    614,
+                    -1,
+                    334,
+                    -1,
+                    -1
+                ],
+                "answer_position": 650
+            }
+        ]
+    }
+]

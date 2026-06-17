@@ -1,0 +1,273 @@
+[
+    {
+        "novel_id": 137,
+        "num_paragraphs": 2734,
+        "time_cost": "8小时",
+        "questions": [
+            {
+                "question": " Who is the suspect of killing Heather?",
+                "options": {
+                    "A": " Miss Marple",
+                    "B": " Mr. Badeckok",
+                    "C": " Jason",
+                    "D": " Mrs. Bantling"
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " Detective in the text ",
+                    "B": " Heather's husband",
+                    "D": " Miss Marple's friend"
+                },
+                "reasoning": [
+                    " Jason handed Heather and Marina each a glass of wine.",
+                    " Heather's wine spilled, and Marina gave her wine to Heather.",
+                    " Heather died after drinking the alcohol given to her by Marina.",
+                    " Heather died from a Camom overdose.",
+                    " If Marina were to pass away, her husband Jason would inherit the majority of her estate.",
+                    " Based on the above clues, it is speculated that Heather may have been mistakenly killed, as she died after drinking Marina's alcohol, and someone wanted to kill Marina. Marina's alcohol was given to her by her husband Jason, and if Marina were to die, Jason would inherit the estate, making him a suspect in the mistaken killing of Heather. "
+                ],
+                "clue_position": [
+                    429,
+                    699,
+                    705,
+                    662,
+                    1073,
+                    -1
+                ],
+                "answer_position": 1155
+            },
+            {
+                "question": " What does Mapleton not want Lily and Harry to do?",
+                "options": {
+                    "A": "marry",
+                    "B": " Go to Gosington Manor",
+                    "C": "Bending down",
+                    "D": "digging"
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " Heathers' deeds",
+                    "C": " What Mapple cannot do",
+                    "D": " Things Marple Can't Do"
+                },
+                "reasoning": [
+                    " Maple saw Harry and Lily talking. ",
+                    " Lily says she likes the second house.",
+                    " Hali says he likes the first house.",
+                    " Halley thinks the first one is cheaper than the second one.",
+                    " Lily encountered danger.",
+                    " Hari stood motionless behind her, then took a step back. ",
+                    " Halit said, \"Everything happened too suddenly. But anyway, you're okay.\"",
+                    " Based on the above clues, we can see that Harry does not love Lily very much, and if Lily is in danger, Harry cannot be relied upon. Therefore, Miss Marple does not want Lily to marry Harry."
+                ],
+                "clue_position": [
+                    65,
+                    66,
+                    67,
+                    69,
+                    77,
+                    79,
+                    82,
+                    -1
+                ],
+                "answer_position": 86
+            },
+            {
+                "question": " Who poisoned Marina's coffee?",
+                "options": {
+                    "A": " Erna",
+                    "B": " Marina",
+                    "C": " Giuseppe",
+                    "D": " Jason"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " Jason's Secretary",
+                    "C": " Marina's housekeeper",
+                    "D": " Marina's husband"
+                },
+                "reasoning": [
+                    " Marina drank a little bit and said that the coffee was off.",
+                    " Marina said she tasted a bitter flavor.",
+                    " Mary's coffee was poisoned with arsenic.",
+                    " Arsenic has no taste.",
+                    " Based on the above clues, we can make a bold assumption that Marina might know the coffee is poisoned.",
+                    " Marina put a lethal dose of cyanide in Heather's drink, killing her. ",
+                    " Marina claims that Heather was mistakenly killed and that someone wanted to murder her.",
+                    " Marina claims that she received a threatening letter before Heather's death.",
+                    " The threat letter was known only to Marina herself.",
+                    " Marina said her strange behavior when she claimed not to know who wrote the threatening letter. ",
+                    " Based on the above clues, we can conclude that Marina killed Heather and attempted to disguise it as an accidental death with the aim of making it seem like she was the intended victim. Poisoning the coffee and the threatening letter before Heather's death were her means of disguising the crime."
+                ],
+                "clue_position": [
+                    1896,
+                    2020,
+                    2018,
+                    2021,
+                    -1,
+                    2700,
+                    1371,
+                    1390,
+                    1392,
+                    1407,
+                    -1
+                ],
+                "answer_position": 2701
+            },
+            {
+                "question": " What illness did Heather get when she was looking at Marina in Bermuda?",
+                "options": {
+                    "A": " Fever",
+                    "B": " Varicella",
+                    "C": " Croup",
+                    "D": " Measles"
+                },
+                "answer": "D",
+                "distraction": {
+                    "A": " The illness Heather told Maple about",
+                    "B": " Heather told Marina about the illness ",
+                    "C": " Mrs. Bantry heard the illness"
+                },
+                "reasoning": [
+                    " Heather told Maple that she had a fever that day and put a lot of stuff on her face. ",
+                    " Heather said to Marina, \"Years ago in Bermuda, I contracted chickenpox.\"",
+                    " Measles can cause some rashes to appear, but it is easy to cover them up with powder, and the symptoms are similar to fever and chickenpox. ",
+                    " Based on the above clues, we can conclude that Heather's illness is a disease that has symptoms similar to fever combined with chickenpox, and there should be something on her face that she needs to cover with a lot of makeup, which is consistent with the symptoms of measles. Therefore, the illness Heather contracted while visiting Marina in Bermuda should be measles."
+                ],
+                "clue_position": [
+                    129,
+                    2413,
+                    2694,
+                    -1
+                ],
+                "answer_position": 2704
+            },
+            {
+                "question": " Why did Marina show \"Charlotte's smile\" while talking to Heather?",
+                "options": {
+                    "A": " Saw the impending doom.",
+                    "B": " Cold scene",
+                    "C": " See \"The Madonna\" ",
+                    "D": " Seeing something that bothers or angers Marina"
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " Lady Brontë's Interpretation",
+                    "B": " Marina's explanation",
+                    "D": " Demot's Interpretation"
+                },
+                "reasoning": [
+                    " When Marina was talking to Heather, she suddenly looked at the wall in the middle of the stairs and then displayed a look of wanting to kill someone.",
+                    " On the wall in the middle of the staircase, there is a painting of the \"Virgin\" (the Virgin Mary) holding the newborn Jesus. Both the child and the mother are smiling. ",
+                    " Marina is unable to have more children, and the only child she has is intellectually disabled. ",
+                    " When Marina sees a child or hears about someone who is having a good time with a child, she becomes depressed. When she hears about someone who is expecting a child or has just given birth, Marina immediately falls into a state of distress.",
+                    " Based on the above clues, we can infer that Marina showed the \"Charlotte Woman's expression\" because she looked at the \"Madonna\" hanging on the wall, possibly due to something Heather said to Marina during their conversation, which caused Marina to think about her child and consequently exhibit the \"Charlotte Woman's expression\"."
+                ],
+                "clue_position": [
+                    422,
+                    894,
+                    1036,
+                    1127,
+                    -1
+                ],
+                "answer_position": 2655
+            },
+            {
+                "question": " Who is the suspect of killing Giuseppe?",
+                "options": {
+                    "A": " Marple",
+                    "B": " Eira",
+                    "C": " Jason",
+                    "D": " Bentril"
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " The detective in the text is:",
+                    "B": " Jason's Secretary",
+                    "D": " Miss Marple's friend"
+                },
+                "reasoning": [
+                    " Jason said that Josef went to London.",
+                    " Giuseppe arrived at Gosington Hall after midnight.",
+                    " Giuseppe is brought back to the room by the killer.",
+                    " Giuseppe was shot to death by the murderer.",
+                    " Based on the clues, when Giuseppe returned to the manor from London, it was after midnight, but he was killed as soon as he entered his room, indicating that the killer knew when Giuseppe would return to the manor. ",
+                    " Jason mentions to Ella that Giuseppe will be back tonight. ",
+                    " Eira died after the conversation.",
+                    " Considering the above clues, it is known that only Jason and Ella knew that Joseph would be back tonight, and Ella died before Joseph returned, so it is impossible for her to shoot Joseph. Therefore, Jason has a suspicion of killing Joseph."
+                ],
+                "clue_position": [
+                    2052,
+                    2124,
+                    2125,
+                    2128,
+                    -1,
+                    2055,
+                    2069,
+                    -1
+                ],
+                "answer_position": 2704
+            },
+            {
+                "question": " Who killed Heather?",
+                "options": {
+                    "A": " Jason",
+                    "B": " Marina",
+                    "C": " Alfred",
+                    "D": " Dr. Hedcock"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " Marina's husband",
+                    "C": " Ex-husband of Marina",
+                    "D": " Miss Marple's Doctor"
+                },
+                "reasoning": [
+                    " Heather had a conversation with Marina in Bermuda, where she mentioned that she had a fever that day and had put a lot of stuff on her face.",
+                    " Heather met Marina again at Gosington Manor and talked to her, bringing up the previous conversation they had.",
+                    " Heather said to Marina, 'Years ago in Bermuda, I got chickenpox, but I still got up from bed to see you.'",
+                    " Based on the above clues, we can infer that Heather once had a disease with symptoms similar to chickenpox and fever, and Heather's face should have some abnormalities that need to be concealed. ",
+                    " Marina's face contorted into a murderous expression as she stared at the wall behind Heather. ",
+                    " The wall is adorned with an Italian \"Madonna and Child\" painting, depicting the Virgin Mary holding the newborn Jesus, with both the child and mother smiling. ",
+                    " Marina is unable to have more children, and the only child she has is somewhat mentally unstable. ",
+                    " Marina's child's mental defect is due to Marina contracting rubella during the early stages of pregnancy. ",
+                    " Heather's previous illness was measles.",
+                    " The symptoms of measles are similar to fever with chickenpox and are highly contagious. ",
+                    " Summarizing the clues, we can infer that because Heather mentioned that she had chickenpox the last time she spoke with Marina, and Marina may have remembered that conversation and discovered that Heather had a fever at the time, leading Marina to realize that Heather's measles were the cause of her only child's mental disability, which caused Marina to think about her child's suffering, resulting in Marina harboring resentment towards Heather and wanting to kill her. ",
+                    " Jason handed Heather and Marina each a glass of wine.",
+                    " Heather's drink spilled, Marina gave her drink to Heather.",
+                    " Heather died after drinking the alcohol given to her by Marina.",
+                    " Marina intentionally spilled the cocktail.",
+                    " Heather died from an overdose of Quammon.",
+                    " Gosington Manor has many camels.",
+                    " Marina often takes Kamron.",
+                    " Marina's wine was held in her hand for a long time.",
+                    " Based on all the clues, we can infer that Marina, who was infected with measles by Heather, caused her only child to have mental retardation, which led to Marina harboring resentment towards Heather. She put excessive amounts of camphor in her drink, as Marina frequently consumed camphor, so no one would suspect anything, and then intentionally spilled Heather's drink and gave her the drink with excessive camphor, thus killing her. Therefore, the killer of Heather is Marina."
+                ],
+                "clue_position": [
+                    129,
+                    420,
+                    2413,
+                    -1,
+                    422,
+                    894,
+                    1127,
+                    2697,
+                    2562,
+                    2694,
+                    -1,
+                    429,
+                    699,
+                    705,
+                    1921,
+                    662,
+                    886,
+                    965,
+                    1052,
+                    -1
+                ],
+                "answer_position": 2701
+            }
+        ]
+    }
+]

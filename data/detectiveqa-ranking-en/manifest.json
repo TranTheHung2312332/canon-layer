@@ -1,0 +1,23 @@
+{
+  "source": "Phospheneser/DetectiveQA",
+  "language": "en",
+  "revision": "main",
+  "commit_sha": "001e5c590ddeb6c83083c55fa10b0b8b3dcba2ed",
+  "annotation_parts": [
+    "human_anno"
+  ],
+  "query": "question only",
+  "document_unit": "numbered novel paragraph",
+  "relevance": "binary unique explicit clue paragraph",
+  "recommended_candidate_scope": "same novel",
+  "counts": {
+    "documents": 65641,
+    "novels": 23,
+    "questions_seen": 154,
+    "duplicate_gold_entries_removed": 30,
+    "missing_gold_positions": 1,
+    "queries": 154,
+    "qrels": 890,
+    "prefix_eligible_queries": 150
+  }
+}

@@ -1,0 +1,329 @@
+[
+    {
+        "novel_id": 198,
+        "num_paragraphs": 2998,
+        "time_cost": 290,
+        "questions": [
+            {
+                "question": " From the perspective of the police inspector, who killed Mrs. Ascher?",
+                "options": {
+                    "A": " Franz Ascher",
+                    "B": " ABC",
+                    "C": " Dover Police Officer",
+                    "D": " Hercule Poirot"
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " The codename of the real culprit",
+                    "C": " The officer who discovered the body",
+                    "D": " Detective protagonist in the text "
+                },
+                "reasoning": [
+                    " In the past, Ascher often caused trouble for Ascher's wife.",
+                    " Ascher often threatens his wife.",
+                    " Asher often drinks and beats people. He swears to knock Asher's wife's skull in.",
+                    " Asher had a poor relationship with his wife, Mrs. Asher, and threatened to kill her multiple times. ",
+                    " Consequently, the police suspect that Asher is the killer, who killed Asher's wife after drinking heavily. "
+                ],
+                "clue_position": [
+                    214,
+                    217,
+                    218,
+                    202,
+                    -1
+                ],
+                "answer_position": 221
+            },
+            {
+                "question": " How did the ABC book get left behind?",
+                "options": {
+                    "A": " The old lady hurriedly forgot to take her belongings before catching the train.",
+                    "B": " The murderer deliberately left behind",
+                    "C": " Negligence of the murderer left ",
+                    "D": " Mr. Patrick brought "
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " Mr. Riddler thought the old lady had urgent business to catch a train.",
+                    "C": " 200] The text mentions that the killer did not leave because of negligence.",
+                    "D": " The article mentions the fingerprint on the timetable of the ABC train."
+                },
+                "reasoning": [
+                    " The killer mentioned Andersson in the letter.",
+                    " The ABC train schedule at the crime scene was open, and it was turned to the page of Andersson.",
+                    " There is no fingerprint on the ABC train schedule.",
+                    " Based on the above clues, the ABC train timetable page mentioned in the killer's letter suggests a connection between this book and the killer.",
+                    " Since there are no fingerprints on the book, it indicates that the book was intentionally wiped clean of fingerprints and left at the crime scene.",
+                    " Thus, the ABC train schedule is the clue to this case. It was deliberately left by the killer."
+                ],
+                "clue_position": [
+                    75,
+                    383,
+                    385,
+                    -1,
+                    -1,
+                    -1
+                ],
+                "answer_position": 567
+            },
+            {
+                "question": " In what order were the victims and crime scenes selected?",
+                "options": {
+                    "A": " Selecting according to the order of wealth",
+                    "B": " Selecting in the order of age",
+                    "C": " Selecting letters in alphabetical order:",
+                    "D": " No order has been followed"
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " Does the money in the store have any signs of being tampered with?",
+                    "B": " The article mentions the age of the first victim.",
+                    "D": " The text mentions that there is no clue about \"who the victim is\"."
+                },
+                "reasoning": [
+                    " The location mentioned in the first letter of the killer is \"Andervoll,\" which starts with the letter A.",
+                    " The first person the killer killed was \"Mrs. A\" with an A-head start.",
+                    " The location mentioned in the second letter of the killer is \"Bexhill,\" which starts with a B letter.",
+                    " Dr. Thompson mentioned the \"alphabet obsession.\"",
+                    " Following the alphabetical order, A is followed by B.",
+                    " Therefore, the killer may have selected victims and crime scenes in alphabetical order."
+                ],
+                "clue_position": [
+                    75,
+                    197,
+                    619,
+                    643,
+                    -1,
+                    -1
+                ],
+                "answer_position": 644
+            },
+            {
+                "question": " What is the profession of the murderer?",
+                "options": {
+                    "A": " Promoting long socks",
+                    "B": " Selling Vacuum Cleaners",
+                    "C": " Selling lavender bags",
+                    "D": " Promoting strawberries"
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " The text mentions that people often come to sell vacuum cleaners nearby.",
+                    "C": " The text mentions that people often come to sell lavender bags nearby.",
+                    "D": " The text mentions that Poirot goes to buy strawberries."
+                },
+                "reasoning": [
+                    " Mrs. Asher's room has a pair of new long stockings. ",
+                    " Mrs. Asher's neighbor said that there are often people selling vacuum cleaners, long socks, lavender bags, and so on in the area. ",
+                    " On the day that Betty had an accident, someone came to sell long socks, and Betty's mother bought her a pair. ",
+                    " Miss Gray said that someone came to sell long stockings the day Mrs. Clark was murdered. ",
+                    " Based on the above clues, it can be inferred that there was a person selling stockings at each of the three crime scenes, so the killer must have been the one selling stockings."
+                ],
+                "clue_position": [
+                    401,
+                    449,
+                    1536,
+                    1874,
+                    -1
+                ],
+                "answer_position": 1891
+            },
+            {
+                "question": " After a murder case occurred in the cinema, who did the police suspect to be the killer?",
+                "options": {
+                    "A": " Alexander Bonaparte Castex",
+                    "B": " Roger Emanuel Doe",
+                    "C": " George Esfeld",
+                    "D": " Tom Hatinger"
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " Characters corresponding to the events in the article",
+                    "C": " Characters corresponding to the events in the article",
+                    "D": " The relevant characters in the article correspond to the events."
+                },
+                "reasoning": [
+                    " Someone reported that their girlfriend's mother's tenant, Castor, had a schedule that coincided with the ABC murder case. ",
+                    " In several cases, Castor was present in the area when the incidents occurred, promoting long stockings.",
+                    " In Mr. Cast's room, several new ABC train timetables were found.",
+                    " There is an ABC train schedule under Mr. George's seat.",
+                    " Long stockings were found at Mr. Cast's residence.",
+                    " Three murder cases - each time a man sells long socks",
+                    " A knife with bloodstains was found in Mr. Cast's room.",
+                    " Mr. Castor's itinerary of selling long stockings coincides with the victim's, and long stockings, ABC train timetable, were also found in his room, all of which are crucial clues in the case.",
+                    " The most important point is that the knife found in Castor's house is the same one used in the murder at the cinema, so the police have determined that Castor is the murderer. "
+                ],
+                "clue_position": [
+                    2334,
+                    2447,
+                    2454,
+                    2185,
+                    2454,
+                    1883,
+                    2460,
+                    -1,
+                    -1
+                ],
+                "answer_position": 2461
+            },
+            {
+                "question": " Collect all the evidence in the case, who is the final murderer?",
+                "options": {
+                    "A": " Franz Aschers",
+                    "B": " Donald Fraser",
+                    "C": " Franklin Clark",
+                    "D": " Alexander Bonaparte Castex"
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " Ascher is the prime suspect in the first murder case.",
+                    "C": " Donald Fraser is also a relevant character in the story.",
+                    "D": " Alexander Bonaparte Castex admitted to committing murder, but the real killer was not him."
+                },
+                "reasoning": [
+                    " The weapon used to attack Mrs. Asher was —— if sufficient weight was applied to the front end, even a weak person could deliver a fatal blow.",
+                    " Sir Clark died from a severe blow to the back of the head.",
+                    " In a closet at the Clark house, a common rod was found with a thick spherical handle. A piece of wood was removed, and lead solution was poured in. ",
+                    " The weapon used in the attack.",
+                    " A person was stabbed to death in a movie theater.",
+                    " Someone saw Franklin Clark leaving the movie theater.",
+                    " 'Honghua Kedu' hotel staff saw Betty Barnard dining with a middle-aged man wearing glasses. ",
+                    " At the halfway point of the road from Bexhill to London, someone spotted Betty and a man who looked like a naval officer eating at the Red Pepper Inn. ",
+                    " Franklin Clark had taken Betty Barnard out for dinner once. ",
+                    " Betty Barnard died on the beach in Bexhill",
+                    " Mr. Castor's \"letters about work\" were all written by Franklin Clark to him.",
+                    " Castor has always considered himself guilty.",
+                    " Cast has epilepsy, often accompanied by memory gaps",
+                    " Mr. Castor's typewriter had the fingerprint of Franklin Clark.",
+                    " Therefore, it is clear that Franklin Clark appeared at the crime scene twice and was recognized as being closely related to Betty.",
+                    " Meanwhile, he took advantage of Mr. Cast's illness, manipulated him through forged letters from the stocking factory, leading Mr. Cast, who was sick, to mistakenly believe he was the murderer.",
+                    " Finally, the counterfeit letter printer was given to Mr. Castor to clean up the crime evidence, so there would be Franklin Clark's fingerprints on the printer.",
+                    " Therefore, the real killer is Franklin Clark."
+                ],
+                "clue_position": [
+                    288,
+                    1669,
+                    2936,
+                    -1,
+                    2185,
+                    2936,
+                    1045,
+                    2936,
+                    2936,
+                    669,
+                    2893,
+                    2884,
+                    2918,
+                    2936,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ],
+                "answer_position": 2938
+            },
+            {
+                "question": " Why didn't the killer arrange the victims in alphabetical order in the movie theater?",
+                "options": {
+                    "A": " The murderer mistakenly identified the victim.",
+                    "B": " The victim encountered the perpetrator.",
+                    "C": " The murderer deliberately skipped a letter.",
+                    "D": " The killer did not want to kill a principal."
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " The text mentions that the principal touched the victim's shoulder.",
+                    "C": " The colonel said the killer deliberately skipped a letter.",
+                    "D": " The text mentions that the man who should be killed is the headmaster of Heathfield School."
+                },
+                "reasoning": [
+                    " The killer is a man of his word.",
+                    " The victim is George Esfeld.",
+                    " The victim's first letter is not D, but skips an English word in alphabetical order.",
+                    " Mr. D as a witness on the spot. His initials are D",
+                    " George and Downs share similar physical features. ",
+                    " Mr. Thomas and Mr. Dunce were very close to each other at the time of the incident, sitting side by side.",
+                    " The killer promised, the next crime keyword is the letter D. ",
+                    " Since the killer is a man of his word.",
+                    " Therefore, it is unlikely to intentionally skip a letter.",
+                    " Furthermore, the two were very close to each other at the time of the incident, so it is likely that the perpetrator mistook one of them for the other."
+                ],
+                "clue_position": [
+                    717,
+                    2211,
+                    2213,
+                    2220,
+                    2230,
+                    2102,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ],
+                "answer_position": 2232
+            },
+            {
+                "question": " Why isn't Castor the killer in the Baxter case?",
+                "options": {
+                    "A": " 200: Castor was undergoing treatment for epilepsy at the hospital.",
+                    "B": " Cast and Stranger play dominoes in Eastbourne.",
+                    "C": " Casto had no motive to commit the crime.",
+                    "D": " Castor did not know Bexhill"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " Cast has epilepsy.",
+                    "C": " The issue mentions Poirot's speculation on the motive of the criminal.",
+                    "D": " Relevant to the topic"
+                },
+                "reasoning": [
+                    " When the murder occurred in Bexhill, Cast was playing dominoes in Eastbourne.",
+                    " Cast's personality is quiet and introverted.",
+                    " The killer always puts a book ABC next to the corpse.",
+                    " Detective Inspector Croome believes that the criminal desires to display his personality and create a sensation in the public.",
+                    " The modus operandi of the killer shows a personality that is completely different from Mr. Castor's.",
+                    " Mr. Cast has a solid alibi for the time of the Bexhill case, so the culprit was not Mr. Cast. "
+                ],
+                "clue_position": [
+                    2774,
+                    2574,
+                    1185,
+                    1190,
+                    -1,
+                    -1
+                ],
+                "answer_position": 2775
+            },
+            {
+                "question": " Why should Mary Daur be protected?",
+                "options": {
+                    "A": " Because Mary Daur is a member of the special group.",
+                    "B": " Because Mary Drouet's last name starts with the letter D,",
+                    "C": " Because Mary Daurac knew the murderer.",
+                    "D": " Because Mary Daur is very intelligent"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " The article mentions that Mary Daulay is a member of the special task force.",
+                    "C": " Relevant to keywords",
+                    "D": " The article mentions that she is very intelligent."
+                },
+                "reasoning": [
+                    " The killer is a trustworthy person.",
+                    " The killer mentioned in the letter D for Castel, referring to the village of Tango.",
+                    " The first letter of Mary Dourlé's name is D.",
+                    " Therefore, it indicates that the killer's action letter is D. Based on the killer's previous behavior, he is a trustworthy person, so he will definitely target someone with a surname starting with D.",
+                    " As Mireille Delamarre's initials are D, we must protect Mireille Delamarre."
+                ],
+                "clue_position": [
+                    717,
+                    1810,
+                    308,
+                    -1,
+                    -1
+                ],
+                "answer_position": 2082
+            }
+        ]
+    }
+]

@@ -1,0 +1,243 @@
+[
+    {
+        "novel_id": 121,
+        "num_paragraphs": 2586,
+        "time_cost": "9H",
+        "questions": [
+            {
+                "question": " Who stole the items that Mrs. Haber had lost?",
+                "options": {
+                    "A": " Celia",
+                    "B": " Nigel",
+                    "C": " Patricia",
+                    "D": " Valerie"
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " Nigel is suspected because his green ink matches the ink used to destroy Elizabeth's essay. His behavior is sometimes surprising, and he enjoys mocking others, which may make him a potential suspect.",
+                    "C": " Patricia's diamond ring was once stolen, but was later found in a soup bowl. Poirot was skeptical about the ring's reappearance, suspecting that it might not have been a simple theft. ",
+                    "D": " Valerie's scarf was cut into pieces, which may suggest that the theft included elements of malicious revenge. Mr. Poirot may have considered Valerie's relationships with other residents in the dormitory and the possibility that she could be a suspect due to personal grievances. "
+                },
+                "reasoning": [
+                    " Mrs. Haber's list of missing items was noted in her small notebook, such as: evening shoes, bracelets, diamond rings, powder box, lipstick, old flannel pants, etc. ",
+                    " An old pair of flannel pants was lost, and people thought they wouldn't wear it anymore. The owner of the old flannel pants was Colin.",
+                    " Poirot made Lemon tell a story that the missing evening shoe had fallen on the Inner Circle train.",
+                    " Poirot asks Miss Lemon to fetch another shoe from Mrs. Haberdashers, and then you should go to the lost property office at Baker Street station to reclaim the missing shoe.",
+                    " Shortly after the loss of the evening dress shoe, the lost property office at Baker Street found it.",
+                    " Therefore, it is inferred that someone took a shoe from Miss Lemon's room, not to wear or sell, but to hide it, as it would be found if kept in the house, so the shoe must be taken outside or destroyed. However, it is not easy to destroy a shoe. The simplest method would be to wrap the shoe and take it on a bus or train during rush hour, hiding it under a seat.",
+                    " All valuable items such as diamond rings that were stolen have been returned.",
+                    " Based on the above clues, it is inferred that someone stole the items for the purpose of causing trouble.",
+                    " During the conversation between Colin and Polo, Celia walked in, a little shy and embarrassed to see Colin, admitting her actions and mentioning her feelings for him, as well as her actions being an attempt to attract his attention. ",
+                    " Based on the clues presented, the stolen items are described as inexpensive trinkets, and the most valuable items were returned, suggesting that the theft may have been motivated by pranks, revenge, or other psychological factors rather than purely for material gain. The fact that Mr. Collier's old trousers were considered in relation to the theft indicates that the behavior may have been related to personal emotions or relationships, as Mr. Poirot noticed Miss Celia's anxiety and unease, as well as her reliance on Mr. Collier. Through these clues, it is concluded that Mrs. Habberd's stolen items were taken by Miss Celia."
+                ],
+                "clue_position": [
+                    71,
+                    132,
+                    154,
+                    151,
+                    410,
+                    -1,
+                    478,
+                    -1,
+                    503,
+                    -1
+                ],
+                "answer_position": 505
+            },
+            {
+                "question": " What was the cause of Celia's death?",
+                "options": {
+                    "A": " Suicide",
+                    "B": " Murder",
+                    "C": " Mortality",
+                    "D": "accident"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " Celia left a suicide note.",
+                    "C": " The previous text mentioned that Celia may have a psychological disorder.",
+                    "D": " There is a possibility that an excessive amount of morphine was used accidentally. "
+                },
+                "reasoning": [
+                    " Celia has always been fond of Colin.",
+                    " Celia and Colin announce their engagement.",
+                    " Celia successfully attracted Colin's interest by disguising herself as an intriguing young criminal, rather than a traditional pretty girl.",
+                    " At the scene of Celia's death, a note was left that read, \"Dear Mrs. Haberdash, I am truly sorry, this is the best choice I could make.\"",
+                    " Mrs. Habberd stated that the note was written in ordinary blue-black ink, while Mrs. Habberd had seen Celia fill her pen with green ink.",
+                    " In Celia's room, there is only one pen, placed by the bedside, filled with green ink. ",
+                    " Based on the above clues, it is likely that the suicide note written by Celia was not written by herself. ",
+                    " Based on the above clues, it is inferred that Celia was recently engaged and very satisfied with her life, which is inconsistent with the result of suicide. After Mrs. Haber provided evidence of a suicide note written, it was discovered that someone had forged Celia's suicide note, so it is inferred that Celia's cause of death was murder."
+                ],
+                "clue_position": [
+                    503,
+                    795,
+                    863,
+                    802,
+                    884,
+                    886,
+                    -1,
+                    -1
+                ],
+                "answer_position": 896
+            },
+            {
+                "question": " Who is the killer of Celia?",
+                "options": {
+                    "A": " Nigel",
+                    "B": " Valerie",
+                    "C": " Colin",
+                    "D": " Mrs. Haberdash"
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " Valerie is an accomplice of Nigel's, and she may have been involved in smuggling activities, and may be concerned that Celia's knowledge could jeopardize the entire smuggling network.",
+                    "C": " Colin is Silvia's fiancé, a doctor at St. Catherine's Hospital, and has access to morphine and poisons.",
+                    "D": " Celia stole Mrs. Haberdashers' things and then wrote her a handwritten letter, which was later confirmed to be her last will and testament. Mrs. Haberdashers said that the handwritten letter could not be found."
+                },
+                "reasoning": [
+                    " Celia died from taking morphine.",
+                    " The loss of hydrocodone at St. Catherine's Hospital where Celia works, stored in the poison cabinet in the pharmacy, top shelf, where the drugs are not often used.",
+                    " Nigel bets Gene that he can, pretending to be a doctor to enter the pharmacy and retrieve medicine from the poison cabinet, and based on his knowledge of Celia, he can easily do so without being noticed, and bets that he can steal it within three weeks.",
+                    " Gene shows that Nigel can acquire poison through a bet. ",
+                    " Celia mentioned dancing with Nigel and expressed that she didn't expect you to remember.",
+                    " Nigel expressed confusion and was unsure if he had ever danced with Celia.",
+                    " Poirot states that Arthur Stanley has a son who had a big argument with his father after his mother's death and left home, even changing his name. ",
+                    " Arthur Stanley is the father of Nigel.",
+                    " Based on the clues, it can be inferred that the current Nigel is an imposter, and Celia has discovered the secret that the current Nigel is a fake Nigel, which is why Nigel has developed a killing intent towards Celia.",
+                    " Based on the above clues, it is inferred that Celia knew Nigel's secret, which led Nigel to have a motive to kill her. After Celia's death, Nigel demonstrated his ability to steal the poison that killed Celia by betting with Gene, thus clearing his own suspicion. Therefore, it is inferred that Nigel was the killer of Celia."
+                ],
+                "clue_position": [
+                    751,
+                    911,
+                    1221,
+                    1229,
+                    378,
+                    379,
+                    2484,
+                    2479,
+                    -1,
+                    -1
+                ],
+                "answer_position": 2525
+            },
+            {
+                "question": " Who is the killer of Patricia?",
+                "options": {
+                    "A": " Lennon",
+                    "B": " Valerie",
+                    "C": " Nigel",
+                    "D": " Arthur"
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " His red hair may match the evidence found at the crime scene.",
+                    "B": " She has a close cooperative relationship with Nigel, possibly involved in criminal activities to protect Nigel and her smuggling activities. ",
+                    "D": " Father of Nigel"
+                },
+                "reasoning": [
+                    " Jerome was found stuffed into a canvas bag, cut into strips, on the day the police came to investigate the murder in Cambridge. ",
+                    " Mrs. Habberd stated that Nigel had a backpack that resembled the one made of shredded canvas.",
+                    " Poirot said that the girl's embroidered scissors should not be able to cut through the backpack.",
+                    " The orientation of Patricia's room is opposite the location of the boiler where the backpack was found cut into pieces. ",
+                    " Polo explains that smuggling drugs works by replacing a student's backpack with an identical one while they are abroad, and then exchanging it back when they return to the UK. Customs checks are often cursory, so the student is unaware of the switch. Upon returning to their dorm, they unpack and discard the empty bag, leaving it in a closet or corner of the room. At this point, the smuggler replaces the backpack.",
+                    " Therefore, it is speculated that Nigel is a smuggler who completes the smuggling of drugs through his backpack. Nigel's backpack is the one that has contained the drugs before, and the arrival of the police investigating the Cambridge murder case throws Nigel off balance, causing him to hastily cut up his backpack and hide it behind the boiler, which is seen by Patricia, who lives in the room opposite the boiler. Thus, Nigel has a motive to kill Patricia.",
+                    " Sharp indicated that the murder weapon used to kill Patricia was a large marble paperweight wrapped in a wool sock taken in a hurry. ",
+                    " Patricia was struck from behind the head.",
+                    " Therefore, it is speculated that Patricia was killed by someone she knew.",
+                    " Patricia likes Nigel.",
+                    " Nigel suddenly burst into tears.",
+                    " Nigel suddenly sat up straight, shaking his untidy golden hair back.",
+                    " Sharp extracted something from the gaps between Patricia's fingers.",
+                    " Sharp states that the two red hairs were extracted from the fingernails of Patricia Ryan.",
+                    " Leonard has a wild, red mane.",
+                    " So it's speculated that Nigel deliberately stuffed red hair into Patricia's hand after killing her in order to frame Leonard as the killer, while Nigel deliberately shook his disheveled golden hair to exonerate himself. However, in a rush, Nigel forgot that Patricia was killed from behind and couldn't have the hair of the killer in her hand.",
+                    " Based on the above clues, Patricia inadvertently discovered Nigel's smuggling secret, so Nigel used a marble paperweight wrapped in a wool sock to kill Patricia from behind, and also attempted to frame Leonard with red hair. Therefore, Nigel is the killer of Patricia. "
+                ],
+                "clue_position": [
+                    1537,
+                    1593,
+                    1598,
+                    1616,
+                    1915,
+                    2444,
+                    -1,
+                    2225,
+                    -1,
+                    1143,
+                    2227,
+                    2234,
+                    2238,
+                    2300,
+                    2214,
+                    -1,
+                    -1
+                ],
+                "answer_position": 2441
+            },
+            {
+                "question": " Who is the thief who stole Patricia's ring?",
+                "options": {
+                    "A": " Colin",
+                    "B": " Valerie",
+                    "C": " Nigel",
+                    "D": " Other students and staff in the dormitory"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " Celia likes Colin, and Colin may take advantage of this.",
+                    "C": " Nigel is an extremely arrogant and mischievous person. ",
+                    "D": " Celia lives in the dorm, and other students may also be involved in the case for various reasons."
+                },
+                "reasoning": [
+                    " Valerie is a gambler.",
+                    " The lost diamond ring was found by Valerie in the soup bowl.",
+                    " Poirot states that the diamonds found on the ring in Vera's soup bowl have been identified as fakes, and that the diamonds have been deliberately removed and replaced with zirconia.",
+                    " Bob believes that Valerie has replaced the diamond.",
+                    " Valerie held her breath for a moment.",
+                    " Based on the above clues, Valerie stole Patricia's ring because she was addicted to gambling and owed a lot of money. She replaced the diamond on the ring with a zircon and then put the ring, which had been altered, into her own soup bowl, creating the illusion of losing and finding it again. Therefore, Valerie is the thief who stole Patricia's ring."
+                ],
+                "clue_position": [
+                    1854,
+                    1819,
+                    1832,
+                    1836,
+                    1837,
+                    -1
+                ],
+                "answer_position": 1858
+            },
+            {
+                "question": " What was the cause of death for Lady Nikoleitis?",
+                "options": {
+                    "A": " Suicide",
+                    "B": " Murder",
+                    "C": " Mortality",
+                    "D": " Surprise"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " Madame Colette has a drinking problem.",
+                    "C": " Possible Causes of Death.",
+                    "D": " Drunken accident"
+                },
+                "reasoning": [
+                    " Poirot suggests that the drug-trafficking organization must have covered a wide range of student clubs. ",
+                    " Sharp said that a woman had been running several student clubs and societies, and that woman was Nikoletis.",
+                    " Polo stated that Nicolletti's identity is public and it is not possible that he could be the leader of a drug smuggling operation.",
+                    " Sharp believes that Nikolaitis has been secretly drinking for some time, which indicates that Nikolaitis is suffering greatly and may have collapsed, wanting to reveal everything and become a witness to the accomplices' prosecution.",
+                    " Mrs. Haberdash mentioned that Mrs. Nikolaitis felt insecure and was afraid of something.",
+                    " Based on the above clues, it can be inferred that Nikolitsis is a puppet of the smuggling case mastermind and that Nikolitsis resolves his breakdown by often drinking alcohol. He wants to denounce the mastermind of the drug smuggling case and act as a witness in the case of the accomplice's denouncement. Therefore, it is speculated that the cause of Nikolitsis's wife's death is murder."
+                ],
+                "clue_position": [
+                    1927,
+                    1930,
+                    1952,
+                    1949,
+                    1881,
+                    -1
+                ],
+                "answer_position": 2526
+            }
+        ]
+    }
+]

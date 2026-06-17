@@ -1,0 +1,203 @@
+[
+    {
+        "novel_id": 124,
+        "num_paragraphs": 3276,
+        "time_cost": "9.5H",
+        "questions": [
+            {
+                "question": " The leather travel clock disappeared after everyone left the living room, who had the motive to take the clock away?",
+                "options": {
+                    "A": " Ms. Pema Khodr",
+                    "B": " Sheila Webb",
+                    "C": " Colin Lamb",
+                    "D": " Miss Martin Dale"
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " Notes taken by the recorder who discovered the body",
+                    "C": " Intelligence Agent, Love Helena Weber",
+                    "D": " Print shop owner, Mrs. Brand's sister"
+                },
+                "reasoning": [
+                    " Detective Hakast asks Miss Pemaroo about other clocks in the living room, Miss Pemaroo insists there are no other clocks, only the grandfather clock and the cuckoo clock.",
+                    " Detective Hardcastle mentioned that the clock was in the living room yesterday, but one of the clocks disappeared after the body was moved, specifically the leather travel clock. ",
+                    " Detective Hakaste told Edward to be careful when packing the clocks in the living room, except for the cuckoo clock and the grandfather clock, all the clocks should be packed. Edward later insisted that there were only three clocks, besides the two fixed clocks.",
+                    " Colin Lamm mentioned that when they left the house, Pema forgot her gloves, and she returned to the house to get them, but only left for a minute.",
+                    " According to the clues presented, Miss Pemerton insists there are no other clocks, only the grandfather clock and the cuckoo clock, and she returns to the house after everyone leaves with an excuse, and Edward later insists there are only three clocks, no fourth, so Miss Pemerton has a motive to take the clock away."
+                ],
+                "clue_position": [
+                    218,
+                    594,
+                    600,
+                    607,
+                    -1
+                ],
+                "answer_position": 611
+            },
+            {
+                "question": " What was the profession of Mr. Kirby, the deceased?",
+                "options": {
+                    "A": " Insurance Agent",
+                    "B": " Private Detective",
+                    "C": " Magician",
+                    "D": " Scammers for a living"
+                },
+                "answer": "D",
+                "distraction": {
+                    "A": " Cardholder's Identity",
+                    "B": " Detective's possible identities",
+                    "C": " Detective's possible identities"
+                },
+                "reasoning": [
+                    " Detective Hakaste examined the business card found in the deceased's pocket, which contained Mr. Kouri's name, address, and information about the insurance company.",
+                    " Detective Haakast mentioned that there was no information found in the investigation of Mr. Kuri, which further supports the reasoning that the information on the business card may be false.",
+                    " Detective Hakast discovered that the so-called \"Big City Small Town Insurance Company\" does not exist, indicating that the company information on the business card is false.",
+                    " Therefore, Mr. Coley is not an insurance agent.",
+                    " Detective Hakaste proposed the possibility that Mr. Curry might be a fraudster, magician, trivia collector, or private detective.",
+                    " Mrs. Riviere told the detective that Mr. Corey discovered his engagement to a woman and asked her to invest in his business, only to abandon her after receiving the money.",
+                    " Based on the clues provided, Mr. Kuri is not an insurance agent, private detective, or magician, but rather a con artist who makes a living by tricking people into believing he can provide them with something valuable. He uses deception and manipulation to gain the trust of his victims, and then takes advantage of their vulnerability to extract money or personal information from them. His actions are unethical and illegal, and he should be held accountable for his crimes. It is important for individuals to be cautious and vigilant when dealing with strangers, especially those who claim to have special skills or knowledge that can benefit them. It is also important to report any suspicious activity to the authorities so that they can take appropriate action to protect others from falling victim to scams like this."
+                ],
+                "clue_position": [
+                    259,
+                    628,
+                    630,
+                    -1,
+                    635,
+                    2198,
+                    -1
+                ],
+                "answer_position": 2337
+            },
+            {
+                "question": " What decision did Mrs. Rotten's sister make after learning she was pregnant?",
+                "options": {
+                    "A": " Marry the child's father",
+                    "B": " Continue her education career and raise her children independently.",
+                    "C": " Deliver the child to Mrs. Rotten for raising.",
+                    "D": " Seeking legal assistance to determine child custody"
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " Mrs. Luton's sister had a very good relationship with the child's father.",
+                    "B": " Having a poor relationship with the child's father, the actions taken while not compromising work.",
+                    "D": " Seeking custody of the child"
+                },
+                "reasoning": [
+                    " Mrs. Rotten was hesitant when asked about the parents of Hillary Webb, stating that she didn't know how they had passed away and found it difficult to revisit the topic, avoiding answering. ",
+                    " Detective Hakast deduced that Hilary might be an illegitimate child based on Mrs. Rotten's reactions and responses. Mrs. Rotten eventually admitted that Hilary was the illegitimate child of her sister, and that Hilary was unaware of this fact. ",
+                    " Mrs. Rotten explained her sister's decision after finding out she was pregnant. She chose not to marry the child's father, and the father also did not want to marry her, as Mrs. Rotten's sister was very career-oriented, and revealing the pregnancy would mean she would have to give up her job.",
+                    " Mrs. Lorton's sister inherited half of the additional income left by their mother and later went abroad as an exchange teacher to pursue her own career. ",
+                    " According to the clues above, Mrs. Rotten's sister did not seek legal assistance to determine custody of the child, the child's father did not want to marry her, and in order to protect her career, she entrusted the child to Mrs. Rotten for care. "
+                ],
+                "clue_position": [
+                    1301,
+                    1306,
+                    1312,
+                    1318,
+                    -1
+                ],
+                "answer_position": 1324
+            },
+            {
+                "question": " What was the purpose of Miss Pema's call to Martin Dole?",
+                "options": {
+                    "A": " Find a stenographer to work at home",
+                    "B": " Enticing Hilary Webb to come to your home",
+                    "C": " Inquire about Hillary Webb's performance at work",
+                    "D": " Talk to Sheila Webb"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " Miss Pema needs a stenographer for her office",
+                    "C": " Sheila Weber usually has a good work attitude and wants to ask again.",
+                    "D": " Miss Pema Chodron has a good private relationship with Hilary Weaver."
+                },
+                "reasoning": [
+                    " Miss Martin Dale received a call from Miss Pema Chodron at 1:49.",
+                    " Miss Martin Dale claims that Miss Pema Hu called her and requested her to have Miss Hill at three o'clock.",
+                    " The detective asked Miss Martindale if she was informed that Miss Pemerton would be late home before Miss Webber arrived, so that Miss Webber could wait inside the house.",
+                    " The detective said Miss Pemaugh denied ever asking Ms. Weaver to come to her place at three o'clock. ",
+                    " According to the above clues, Ms. Pema does not deny asking Ms. Hila Webber to come to her place at three o'clock, but Mr. Martin Dale clearly states what Ms. Pema said and her intention, so Ms. Pema's purpose in calling Mr. Martin Dale is to lure Ms. Hila Webber to her home. "
+                ],
+                "clue_position": [
+                    406,
+                    411,
+                    424,
+                    436,
+                    -1
+                ],
+                "answer_position": 1276
+            },
+            {
+                "question": " Why did Detective Harcourt ask Hila Weber about Ina Brent?",
+                "options": {
+                    "A": " Ina Brent's behavior after the trial",
+                    "B": " Ina Brent tries to contact Sheila Webber",
+                    "C": " Irena Brent's personal issues",
+                    "D": " The location of Inna Breda's death"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " Elena Brent went to Wilbraham Crescent but did not know anyone on that street.",
+                    "C": " Irena Brent's usual work attitude is very anxious.",
+                    "D": " The death of Inna Brent"
+                },
+                "reasoning": [
+                    " Miss Hila was agitated and unaware of the murder of Iona Brent and the reason behind it.",
+                    " Detective and Miss Hill tell Ina Brent that she wanted to see Miss Hill and went to Miss Hill's aunt's house to wait, but she didn't show up.",
+                    " Hillary Weaver showed great emotion upon hearing the news of Ina's death and inquired about what had happened to her.",
+                    " Detective Hakast suggests that Ina may have some things she doesn't want to discuss with Cavendish & Co. and others, perhaps things she only wants to tell Hillary. ",
+                    " Sheila Webb believes that Iona Brent's visit this time is not for an important matter at work.",
+                    " Sheila states that she has never been to Willowbrae Crescent and does not know the location of Ina's death. ",
+                    " According to the clues provided, Irena Brent's behavior, personal issues, and death location after the trial were unknown to Shira Weaver. Therefore, Detective Hakast asked Shira Weaver about Irena Brent because Irena Brent tried to contact Shira Weaver."
+                ],
+                "clue_position": [
+                    2038,
+                    2045,
+                    2047,
+                    2063,
+                    2066,
+                    2077,
+                    -1
+                ],
+                "answer_position": 2077
+            },
+            {
+                "question": " Who was the main perpetrator of the murder of Mr. Corley?",
+                "options": {
+                    "A": " Brand",
+                    "B": " Mrs. Brand",
+                    "C": " Miss Martin Dale",
+                    "D": " Miss Pema Khodrup�"
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " Brand's second wife",
+                    "C": " Miss Brand's sister",
+                    "D": " Miss Pema's residence has seen a corpse"
+                },
+                "reasoning": [
+                    " Brandt is certain he has never seen the deceased.",
+                    " Brand is very concerned about the case and is eager to know the progress of the case. ",
+                    " Mrs. Brand did not have an older sister. She inherited a large sum of money from her uncle in Canada a year ago, as she was the sole survivor of the family, but at that time Mrs. Brand was actually the second wife, not the first.",
+                    " Mr. Collyer's body was mistaken for Harry Castleman, while Mr. Collyer was a friend of Mrs. Brand from Canada, and the inscription \"Snowy Washing\" was found on the board used to carry the body, which was related to the Brand family. ",
+                    " Miss Martindale and Mrs. Brand are sisters.",
+                    " Miss Martin Dale, as Mr. Greggson's secretary, knows all the details of the book and uses these details to plan a murder.",
+                    " Mr. Duglars is an old friend of the Montreil family. After the death of Mr. Henry Montreil, he left his property to his granddaughter, Valerie, who is the wife of Brandon. Mr. Duglars plans to visit the Brandon family when he goes to London, as he has always been fond of Valerie.",
+                    " Based on the clues presented, Mrs. Brand impersonated Valerie and inherited the estate of her uncle, Montresor, instead of the first Valerie. This was discovered by Mr. Corleone, resulting in his death. However, Brand claimed to have never seen the deceased, yet showed unusual interest in the case, indicating that he was concealing the truth. Martinet was Brand's accomplice, making Brand the primary culprit behind the murder of Mr. Corleone. "
+                ],
+                "clue_position": [
+                    873,
+                    2572,
+                    3146,
+                    3261,
+                    3263,
+                    3170,
+                    3260,
+                    -1
+                ],
+                "answer_position": 3269
+            }
+        ]
+    }
+]

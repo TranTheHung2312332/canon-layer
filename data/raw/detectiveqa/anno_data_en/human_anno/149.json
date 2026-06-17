@@ -1,0 +1,217 @@
+[
+    {
+        "novel_id": 117,
+        "num_paragraphs": 2097,
+        "time_cost": "7H",
+        "questions": [
+            {
+                "question": " Alyona advised Polo not to tell anyone when she left, which implies that:",
+                "options": {
+                    "A": " She is going to a rendezvous.",
+                    "B": " She is going to swim at the beach.",
+                    "C": " She is going to buy clothes.",
+                    "D": " She enjoys being alone."
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " The text mentions that she wants to go to the seaside.",
+                    "C": " The text mentions the possibility of her leaving.",
+                    "D": " The article mentions that she prefers to be alone rather than being around a lot of people."
+                },
+                "reasoning": [
+                    " Mrs. Marshall asked Poirot not to tell anyone where she was going, saying that she wanted to be alone.",
+                    " Patrick Redford is indeed a good human specimen, with a robust bronze complexion, broad shoulders, and a narrow waist, exuding an aura of pleasure-seeking - a natural innocence that endears him to most women and many men. ",
+                    " A slender, thirty-something woman with even skin, wearing a simple white backless swimsuit, red curly hair cascading down her shoulders, and a forest green Chinese-style paper hat, strolled along the beach, capturing everyone's attention. ",
+                    " Christine Redfern thinks that Alyona looks fit, but gives off a wild animal vibe.",
+                    " Elena was approached by two young people on the beach, and she stopped smiling as she looked at Patrick Redford approaching her from afar.",
+                    " Elena smiled at Redfin after walking along the shore with him, and they stopped by a large rock where she stretched out while Redfin sat on the nearby pebbles. ",
+                    " Broust expressed that Elena is an incarnation of evil, she is really a thoroughly bad woman, and he knows her well.",
+                    " According to Bruce, some women enjoy breaking up other people's families and consider Patrick Redford a fool. ",
+                    " Alyona had known Reedfin before and found him to be quite obedient.",
+                    " Marshall said that because Redfin came here, that's why Elena came.",
+                    " Mrs. Redfin suspected that Mr. Redfin changed their honeymoon destination for the past two months because Elena was coming here. ",
+                    " There was a gap in the bushes, and Polo saw Elena Marshall with Patrick Redfearn beside her. He heard the man say with passion: I am in love with you.",
+                    " According to the available evidence, it is indicated that Elena and Redfin have an affair, and coming here on vacation is a prearranged plan between the two. Elena does not want others to know her whereabouts, so she must be meeting her lover, which is why Elena told Poirot not to tell anyone where she went. This statement is made to conceal her secret rendezvous."
+                ],
+                "clue_position": [
+                    478,
+                    92,
+                    94,
+                    98,
+                    101,
+                    103,
+                    98,
+                    107,
+                    226,
+                    229,
+                    246,
+                    441,
+                    -1
+                ],
+                "answer_position": 480
+            },
+            {
+                "question": " How to prove that Christen has lied?",
+                "options": {
+                    "A": " She strolled casually across the high plank bridge during a picnic.",
+                    "B": " She changed Linda's watch time",
+                    "C": " She painted her body black to disguise the corpse",
+                    "D": " She fabricated an alibi."
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " For the purpose of committing a crime",
+                    "C": " Making a disguise for the crime",
+                    "D": " Utilizing Linda's alibi on the day of the incident"
+                },
+                "reasoning": [
+                    " Mrs. Redford, dressed in a long bathrobe, ascended the steps from the beach and approached them. She had a dignified appearance but also a somewhat melancholic feel, with slender limbs.",
+                    " Mrs. Redfern had been a teacher.",
+                    " From the above clues, it can be seen that Mrs. Redfin is a weak scholar.",
+                    " Bristow said he has acrophobia, and just a few days ago, Mrs. Redfin was so dizzy on the cliff-top path to Harford that she clung to her tightly, showing that Mrs. Redfin's fear of heights was even worse than his. ",
+                    " Mrs. Redfern told Mr. Bristow that once, while descending the steps outside the Milan Catholic Church, she reached a point where she couldn't go any further, leaving her in a predicament. ",
+                    " Above all, it emphasizes that Mrs. Redfern is a very acrophobic person. ",
+                    " A narrow plank was laid across the river, and while Mrs. Gardner was chattering about how afraid she was to cross the plank, she fell to the ground. Mr. Bristow, however, stood in the middle of the plank with his eyes closed and swaying, while the others crossed the plank with ease.",
+                    " Based on the clues presented, Mrs. Redfin repeatedly emphasized her fear of heights, presenting herself as delicate, but when crossing the rickety bridge, both Mrs. Bristow and Mrs. Gardner were terrified, while others ran across it effortlessly. This indicates that Mrs. Redfin was not afraid and that people with acrophobia would not casually cross the narrow plank over the river. Therefore, Mrs. Redfin's previous claim of having a fear of heights was a lie."
+                ],
+                "clue_position": [
+                    65,
+                    197,
+                    -1,
+                    59,
+                    59,
+                    -1,
+                    1936,
+                    -1
+                ],
+                "answer_position": 2054
+            },
+            {
+                "question": " Who is impossible to kill Elena?",
+                "options": {
+                    "A": " Christine Redfern",
+                    "B": " Linda Marshall",
+                    "C": " Kenneth Marshall",
+                    "D": " Patrick Redford"
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " Elena and Redfin had an affair, and Kristin had the possibility of killing her.",
+                    "B": " Marshall's daughter, Elena's stepdaughter, had a motive to kill both her and Marshall",
+                    "D": " Elena and Redfin have an affair, possibly with unknown secrets that they fear will be exposed and lead to them being silenced."
+                },
+                "reasoning": [
+                    " Kenneth Marshall never interfered with his wife, Elena.",
+                    " Kenneth Marshall coldly addressed the rumors about Elena and Redfin, saying that he only cares about his own affairs and hopes that others only care about their own affairs. He never listens to gossip or rumors. ",
+                    " Rosamond persuaded Kenneth Marshall to leave Aileen, and Kenneth Marshall suddenly flared up, expressing his dislike for this suggestion.",
+                    " Kenneth Marshall criticized the casual attitude towards life in modern times, believing that marriage is a commitment that should be taken seriously, and that couples should care for and support each other. He does not approve of hasty marriages and easy divorces, and emphasizes the importance of marital responsibility. He clearly states that Elena is his wife, and that things should be handled based on this premise. ",
+                    " Kenneth Marshall usually descends to breakfast and the newspaper around 9 o'clock. Later, I ascend to my wife's room, finding her already gone. Descend to the beach outside, encountering Mr. Poirot and inquiring if he has seen his wife. After a brief swim, return to the hotel, approximately twenty minutes before eleven. The clock in the hall strikes ten forty. Return to my room, where the maid has not yet finished cleaning, descend again, chat with Henry in the bar for a moment, and return to my room at ten fifty, beginning to send emails until eleven fifty. Afterward, change into tennis attire, as arranged to play at noon.",
+                    " The maid who was cleaning the room next door, indeed heard the sound of the typewriter working.",
+                    " Coeurget had checked with Hildred about the typing, and she had confirmed that the letter would take at least an hour to type, and if you had to stop to think about it, it would take even longer. ",
+                    " According to the clues, Kenneth Marshall loved his wife, Elena, very much and never interfered with her habits, ignored rumors, and believed that marriage meant taking responsibility. On the day Elena was murdered, Kenneth Marshall's alibi was confirmed that he was indeed writing a letter, so Kenneth Marshall could not have killed his wife Elena. "
+                ],
+                "clue_position": [
+                    745,
+                    749,
+                    320,
+                    322,
+                    770,
+                    809,
+                    1393,
+                    -1
+                ],
+                "answer_position": 1563
+            },
+            {
+                "question": " What is the purpose of Linda buying candles?",
+                "options": {
+                    "A": " Candle lighting",
+                    "B": " Performing a ritual ",
+                    "C": " Burn the evidence",
+                    "D": " Gift of Candles"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " Possible uses of buying candles",
+                    "C": " Burn the evidence to deceive people",
+                    "D": " The possibility of making wax figures with candles"
+                },
+                "reasoning": [
+                    " Linda accidentally dropped a package, causing the candles inside to spill out. Kristen asked her why she bought so many candles.",
+                    " Elena ignored Linda, occasionally noticing her with disdain. Elena's elegance made Linda feel embarrassed and insecure, and in Elena's presence, Linda felt immature and rude. She hated Elena.",
+                    " Linda believes that the issue lies in the impact that Elena has on their family, she is a bad person. Linda firmly believes that she is a very bad and very bad bad person.",
+                    " Linda thinks: As long as there is no Alicia, it will be fun to play.",
+                    " Linda is browsing books in a small shop that sells travel souvenirs. Most of the books on the shelves are published from a decade to two decades ago. After sifting through them, she focuses on reading a small book with a brown leather cover. ",
+                    " Colonel Weston showed concern for Elena's situation, and Linda Marshall appeared anxious and fearful. She entered the room and accidentally bumped into the door frame, breathing heavily and with a look of terror in her eyes. ",
+                    " In Linda's room, there is a large irregularly shaped candle wax in the fireplace, as well as an ordinary needle, some charred animal remains, possibly hair. ",
+                    " There is another book in the room titled \"The History of Magic and Invisible Poison\".",
+                    " According to the clues provided, Linda dislikes Elena. She has a book in her room titled \"Witchcraft and the History of Invisible Poison,\" and she also bought candles, which caused tension when others discovered them. When Weston confronted her about the situation, she displayed both tension and fear. Additionally, candle wax and needles were found in her fireplace, along with hair, leading to the conclusion that Linda was likely performing a witchcraft ritual, which was related to Elena and the reason for her tension. Therefore, Linda's purchase of candles was intended for a witchcraft ceremony. "
+                ],
+                "clue_position": [
+                    456,
+                    204,
+                    205,
+                    210,
+                    345,
+                    893,
+                    1272,
+                    1671,
+                    -1
+                ],
+                "answer_position": 2041
+            },
+            {
+                "question": " The real killer of Alyona is ( ) ",
+                "options": {
+                    "A": " Kenneth Marshall",
+                    "B": " Patrick Redford and Christen Redford",
+                    "C": " Emily Brüstle",
+                    "D": " Linda Marshall"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " Elina's husband, knowing Elina's affair, has a motive to kill",
+                    "C": " It was said that Elena had bad things to say about her, thinking she was evil and had a motive for murder.",
+                    "D": " Marshall's daughter, Elena is stepmother. She hates her and has thought of killing her."
+                },
+                "reasoning": [
+                    " Marshall stated that it was due to Redford's arrival that Elena decided to come.",
+                    " Mrs. Redford suspected that Mr. Redford changed the location of their honeymoon, which was originally planned for two months ago, to this place because Elena was coming here. ",
+                    " A gap in the hedge revealed Elena Marshall, with Patrick Redford by her side. He heard the man declare with passion, \"I am in love with you.\"",
+                    " Elena Marshall told Poirot not to tell anyone where I was going. I rowed away in the raft.",
+                    " The hints suggest that Elena and Redfin have an affair, so it is likely that she is going to see Redfin to avoid being discovered.",
+                    " Two years ago, Sir Roger Erskine left most of his property to his daughter Eleanor, amounting to approximately £50,000.",
+                    " Elena now has about £15,000 left in her hand. ",
+                    " Elena is stupid.",
+                    " The above statement suggests that there is a high possibility that Redfin defrauded Ellena and took her money. ",
+                    " Alice Corigliano's death case, the husband has an unbreakable alibi.",
+                    " A young woman wearing shorts. She is a very reliable witness – a gym teacher at a school in Lancashire. She noticed the time when she found the body – 4:15 p.m. – and also expressed her opinion to the police that the woman had died recently – no more than ten minutes ago. ",
+                    " From 3:00 to 4:10, Edward Corrigan was sitting on a train coming from London, as he had an appointment in London that day. ",
+                    " The cases of Alice Corry's death and Elena's death are the same well-planned crime.",
+                    " The young woman, whom Reddin had married in the name of Corey, took out a large life insurance policy after hearing his words. ",
+                    " The police in Surrey have identified the deceased couple as Edward Corygan and Christen Davyre, the female teacher who discovered the bodies. ",
+                    " Based on the clues, it is suspected that Redfin and Elena have an affair and use Elena to deceive her for financial gain. Prior to this, Redfin had killed his wife as Corey with the intention of obtaining insurance money, and planned to use the same method with Elena and Kristen."
+                ],
+                "clue_position": [
+                    229,
+                    246,
+                    441,
+                    478,
+                    -1,
+                    787,
+                    1803,
+                    472,
+                    -1,
+                    1884,
+                    1869,
+                    1869,
+                    1879,
+                    2022,
+                    2014,
+                    -1
+                ],
+                "answer_position": 2046
+            }
+        ]
+    }
+]

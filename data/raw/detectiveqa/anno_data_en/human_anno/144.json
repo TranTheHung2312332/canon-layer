@@ -1,0 +1,171 @@
+[
+    {
+        "novel_id": 144,
+        "num_paragraphs": 3213,
+        "time_cost": "8H",
+        "questions": [
+            {
+                "question": " How did Bond know the location of the 'Seven Clocks' meeting?",
+                "options": {
+                    "A": " She learned through a police informant.",
+                    "B": " She accidentally overheard Mr. Moshkovsky's conversation.",
+                    "C": " She observed the internal environment of the club.",
+                    "D": " She received information from Jimmy Cecil."
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " The conversation mentioned the police station.",
+                    "B": " Moscovsky is the owner of the club, and he had a conversation with Jimmy Sessage.",
+                    "D": " She obtained a lot of information from Jimmy Sessage, but not the main clue to the location of the meeting."
+                },
+                "reasoning": [
+                    " After the visit was over, Mr. Moskovsky was the last to leave. Moskovsky gave Alfred a large sum of money and chatted with him. ",
+                    " Bond entered the gambling room. She noticed a subtle door in the corner that was locked. ",
+                    " Alfred told Bond that there was an escape door, which led to a room with a staircase that went directly to the street next door. If there was a raid, that's where the people would have escaped from.",
+                    " Alfred told Bond that it was a secret door, which looked like a wardrobe from the outside. ",
+                    " The above clues indicate that Bondur in the club's conversation with Alfred learned some internal information about the club, discovered a secret door in the gambling room, and learned from Alfred that the secret door was used for escape.",
+                    " After entering, there is a messy and dim small room inside, with a long table in the middle and chairs around it. There are no other pieces of furniture except for this. On both sides of the fireplace, there are built-in wall cabinets.",
+                    " Touching a spot on the right will make the whole closet turn over.",
+                    " Bond found this room, with the door frame wrapped in thick felt all around, purely for sound insulation. The chairs. There were seven of them in total, three on each side of the long table, and one more placed at the end of the table, with a more elaborate design compared to the others. ",
+                    " According to the above clues, Bondell noticed the secret door and the closet inside the club by observing the club's interior environment. After turning the closet, she discovered the interior scene, which led her to conclude that this was the secret meeting place of the Seven Faces Clock. "
+                ],
+                "clue_position": [
+                    1295,
+                    1313,
+                    1315,
+                    1317,
+                    -1,
+                    1324,
+                    1327,
+                    1328,
+                    -1
+                ],
+                "answer_position": 3081
+            },
+            {
+                "question": " How did Inspector Battert discover that the gun was thrown down from the terrace?",
+                "options": {
+                    "A": " He discovered the following through observing footprints on the lawn:",
+                    "B": " He learned from Sir Oswald through asking.",
+                    "C": " He personally found a handgun on the lawn.",
+                    "D": " He deduced it from the trajectory of the pistol's flight."
+                },
+                "answer": "D",
+                "distraction": {
+                    "A": " During the investigation, footprints were found on the lawn. Ω",
+                    "B": " During the investigation, the detective and Sir Oswald had many interrogation dialogues.",
+                    "C": " During the investigation, a handgun was discovered."
+                },
+                "reasoning": [
+                    " Butler told Sir Oswald that there were two things that could prove the gun did not fall, firstly, only one set of footprints crossed the lawn there from Sir Oswald.",
+                    " Sir Oswald told Butler that there was still the impression on the ground, the impact must have been great when the gun fell, proving that the gun was thrown. ",
+                    " According to Balthasar, based on the shape of the indentation and the cut in the grass, he thinks it is highly unlikely that the gun was thrown from the direction of the escape route. Balthasar believes it was thrown from the terrace instead.",
+                    " According to the clues presented, Detective Batele observed the impressions and cuts in the grass to infer that the gun was thrown rather than dropped. He also noted the footprints of Sir Oswald and the distance between the gun's landing spot and the location where Sir Oswald discovered it. Using these clues, he inferred that the gun was thrown from the balcony rather than from elsewhere. To validate his reasoning, Detective Batele asked Sir Oswald to attempt to throw the gun from the window to see if the resulting marks matched the scene. The similarity in the marks confirmed Detective Batele's inference."
+                ],
+                "clue_position": [
+                    2227,
+                    2230,
+                    2233,
+                    -1
+                ],
+                "answer_position": 2238
+            },
+            {
+                "question": " Who is the \"one o'clock\" that Bond suspects?",
+                "options": {
+                    "A": " George Lomax",
+                    "B": " Countess Razzi",
+                    "C": " Sir Stanley Duguid",
+                    "D": " Mr. Moscovsky"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " Jimmy had once suspected that George was a one-o'clock.",
+                    "C": " Sir Stanley Duguid is an important political figure whose role is associated with political activities and possible spy activities.",
+                    "D": " I'm sorry, but the input text seems to be incomplete. Could you please provide the full text that needs to be translated?"
+                },
+                "reasoning": [
+                    " Bondle gazed at the woman's back, almost in a daze. A small black mole on the woman's lower right scapula made her skin seem even whiter. Bondle finally understood the meaning of the term 'beautiful adventurer' that he had often read. He had no doubt that this woman had a beautiful face - a Slavic face, with bright eyes and a charming smile.",
+                    " At the meeting, everyone wished each other a happy New Year and cheered for Anna.",
+                    " The clues suggest that when Bond infiltrated the Seven Dials Club, she encountered a woman named Anna, known as \"one o'clock,\" who left a lasting impression on her, particularly the black mole on her shoulder blade. ",
+                    " Through the robe, Bond clearly saw a small black mole under the right shoulder blade of Countess Razakis.",
+                    " According to the clues provided, Bondell linked her experiences at the club with her observations at the ball, concluding that Countess Laszki could very well be the Anna she met at the Seven Dials Club, referred to as 'One O'clock'."
+                ],
+                "clue_position": [
+                    1405,
+                    1459,
+                    -1,
+                    2166,
+                    -1
+                ],
+                "answer_position": 2332
+            },
+            {
+                "question": " Who was Ronnie DeFrancis killed by?",
+                "options": {
+                    "A": " Jimmy Cecil",
+                    "B": " Sir Oswald Cutts",
+                    "C": " Rupert Beetham",
+                    "D": " Loran Wade"
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " Inspector Bartholomew has mentioned that he had suspected Sir Oswald Cutts might be involved at seven o'clock, due to his status and influence in the social circle.",
+                    "C": " Mr. Bettman, known as the \"Chimpanzee,\" was once a suspect of Detective Batter because of his position as secretary and being a left-handed individual.",
+                    "D": " She was involved in a conspiracy with Jimmy Cecil and played a crucial role in the crime. Her father, Mr. Gerry Wade, was killed by Jimmy, and she helped Jimmy escape. "
+                },
+                "reasoning": [
+                    " Ronnie DeFusco mentioned the seven-faced clock on his deathbed.",
+                    " Ronnie De Felice mentioned... Jimmy Ceci... and then suddenly his head jerked back and his body went limp. ",
+                    " The clues mentioned above indicate that Mr. DeVille's reference to the \"seven clocks\" and \"Jimmy Cicero\" shortly before his death have led Detective Balthazar to suspect Jimmy Cicero's involvement in the case. Detective Balthazar realizes that Mr. DeVille may have been attempting to convey crucial information about Jimmy Cicero.",
+                    " Jimmy Sexton lay sprawled on the sill, a pool of blood under him. His right arm hung limply, the position odd.",
+                    " Inspector Battert picks up the burnt black glove and playfully examines it, noticing that it has been bitten.",
+                    " This indicates that the owner of the glove was trying to remove the glove using their teeth. This is consistent with Jimmy Sexton's injured arm, as his right arm was injured and he had insufficient strength to pull off the glove with his left hand, so he had to use his teeth to bite down on the glove.",
+                    " Based on the clues provided, Ronnie mentioned Jimmy and the seven-faced clock before his death, indicating a strong connection between Jimmy, Ronnie, and the seven-faced clock. Jimmy's actions, such as being injured and unable to remove his glove with his left hand, suggest that he used his teeth to bite it off. Therefore, it is inferred that Jimmy is the killer."
+                ],
+                "clue_position": [
+                    514,
+                    516,
+                    -1,
+                    1905,
+                    2289,
+                    -1,
+                    -1
+                ],
+                "answer_position": 3136
+            },
+            {
+                "question": " Who does Detective Batter suspect of attempting to steal the files?",
+                "options": {
+                    "A": " John Bowl",
+                    "B": " Countess Razkis",
+                    "C": " Sir Stanley Diggles",
+                    "D": " Bill Everly"
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " Bond suspects that the Countess might be \"Seven O'Clock,\" an identity linked to the club's mysterious activities. ",
+                    "C": " As the Secretary of Aviation, Sir Stanley Digby had access to sensitive documents. His political position might have made him a target for thieves, or he could have been the thief himself. ",
+                    "D": " Although Bill is Bond's friend, in the complex world of espionage, friends can also become suspects. Bill's flirtatious and amorous nature may mask his true intentions, or he may be used as a cover for a thief. "
+                },
+                "reasoning": [
+                    " Sir Oswald says the lost formula is worth millions, and several foreign governments want to get their hands on it.",
+                    " Erin's servant John Paul has gone missing. He has not returned home since he went out last night.",
+                    " George says that John Bauer claims to be Swiss, but George thinks John Bauer is German, despite his very fluent English.",
+                    " George said that Paul's time at the chimney house was not long, about less than a month.",
+                    " The person Miss Wade saw climbing down the ivy was Paul. He was big and strong.",
+                    " According to the clues presented, Detective Batter and Sir Oswald deduced that Mr. Bauer might be the thief attempting to steal the files based on his behavior, identity, and circumstances of his disappearance. "
+                ],
+                "clue_position": [
+                    2309,
+                    2301,
+                    2305,
+                    2307,
+                    2311,
+                    -1
+                ],
+                "answer_position": 2313
+            }
+        ]
+    }
+]

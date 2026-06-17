@@ -1,0 +1,215 @@
+[
+    {
+        "novel_id": 134,
+        "num_paragraphs": 2958,
+        "time_cost": "12小时",
+        "questions": [
+            {
+                "question": " What was the motive behind Rudy Shelsinger's robbery?",
+                "options": {
+                    "A": " Murder",
+                    "B": " For wealth",
+                    "C": " Being directed by others",
+                    "D": " To commit suicide"
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " The newspaper reports that a murder will occur.",
+                    "B": " Rudi Schlesinger is a money-loving person.",
+                    "D": " The death scene is considered an accidental suicide."
+                },
+                "reasoning": [
+                    " The newspaper reports that a murder is scheduled to take place on Friday, October 29th at 6:30 PM in Little Enclave.",
+                    " The bell begins to ring when the second hand points to the quarter-hour mark and continues until it points to the half-hour mark. Just as the last ring fades away, all the lights go out.",
+                    " Suddenly, a creaking sound was heard as the door slid open. A beam of intense flashlight quickly swept through the room. A man's voice, hoarse and nasal, echoed through the space.",
+                    " Rudi Schlesinger is actually quite stupid, but he is also greedy and very gullible. ",
+                    " Considering the above clues, the robbery was hinted at in the newspaper, and the lights went out at the exact time, with the door being opened and a beam of flashlight shining in, at this point, the arrangement of the robbery was very meticulous, while Rudi Schlesinger was actually quite foolish, yet greedy and gullible, and could not have planned such a robbery, so she was coerced into it. "
+                ],
+                "clue_position": [
+                    171,
+                    360,
+                    364,
+                    1053,
+                    -1
+                ],
+                "answer_position": 2792
+            },
+            {
+                "question": " Who could not be the murderer?",
+                "options": {
+                    "A": "micky ",
+                    "B": " Patrick",
+                    "C": " Julia",
+                    "D": " Philippa Hammersley"
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " Miss Quincy believes the killer is Patrick Simmons",
+                    "C": " Julia can inherit a small portion of Miss Blacklock's estate",
+                    "D": " Miss Bonner's visitor, a quiet girl"
+                },
+                "reasoning": [
+                    " Mickey showed great fear after seeing a newspaper prediction of an upcoming murder case. ",
+                    " Miki expressed her desire to leave immediately.",
+                    " Mickey's screams kept coming from somewhere behind the closed door, accompanied by the sound of fists pounding on it. ",
+                    " Mickey was locked in the restaurant when the incident occurred.",
+                    " Mickey was petrified and disoriented.",
+                    " The unlocked door leads to the coatroom, followed by the wardrobe door, then the dining room door - the one over there. As for this side, it's the decorative door you want to pass through, followed by the main entrance to the dining room, then the cabinet door and the door to the flower room, and finally the side door at the end.",
+                    " Considering the above clues, Miki showed fear when facing the murder case, wanted to escape, and was locked in the kitchen at the time of the incident, with the open door not passing through the kitchen, so Miki could not be the perpetrator of the crime. "
+                ],
+                "clue_position": [
+                    231,
+                    223,
+                    388,
+                    396,
+                    397,
+                    1186,
+                    -1
+                ],
+                "answer_position": 1453
+            },
+            {
+                "question": " What was the reason for Miss Mulgrew's murder?",
+                "options": {
+                    "A": " She inadvertently revealed the plan of the killer.",
+                    "B": " She has a personal grudge against the murderer.",
+                    "C": " She discovered evidence unfavorable to the murderer.",
+                    "D": " She tries to uncover the truth behind the fake robbery."
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " The text mentions the killer's plan, but Miss Mulgrew is unaware of it.",
+                    "B": " The possible causes mentioned in the text:",
+                    "D": " Miss Mulgrew is trying to recall the scene of the incident."
+                },
+                "reasoning": [
+                    " Miss Mulgrew, who was not present at the time of the incident, could be a crucial lead. ",
+                    " Miss Mulgrew was present at the scene of the robbery when it occurred.",
+                    " Miss Mulgrew mentioned an event that she found perplexing and highly unusual.",
+                    " Miss Muggeridge exclaimed, \"She was not present.\"",
+                    " Miss Mulgrew was murdered",
+                    " Based on the above clues, Miss Mulgrew was present at the scene and those who were not present at the scene would have a major suspicion. When she realized that there was no one present at the scene, she was killed, so the reason Miss Mulgrew was killed was because she realized something that was unfavorable evidence for the killer."
+                ],
+                "clue_position": [
+                    2336,
+                    2316,
+                    2346,
+                    2352,
+                    2484,
+                    -1
+                ],
+                "answer_position": 2829
+            },
+            {
+                "question": " Who is the perpetrator of the case in the text?",
+                "options": {
+                    "A": " Letitia Blacklock",
+                    "B": " Charlotte Blacklock",
+                    "C": " Dora Bonner",
+                    "D": " Miss Quincy Clifford"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " The Real Miss Blacklock",
+                    "C": " Characters Present at the Scene of the Robbery",
+                    "D": " Residents of Gravel Mansion"
+                },
+                "reasoning": [
+                    " After the gunshot, the crime scene was as calm as a field marshal",
+                    " Miss Blacklock herself took the threat of being harmed with a grain of salt. ",
+                    " A bullet grazed Miss Blacklock's ear. ",
+                    " Miss Blacklock's blouse, pearl necklace, and hands were all covered in blood.",
+                    " Miss Blacklock said it was blood from her ear.",
+                    " Miss Blacklock has several suspicious points, her ears bleeding would not bleed to her hands and apron, she showed a very calm attitude towards the statement of someone plotting to murder, and she also showed a calm attitude at the crime scene, behaving like a commander, which is inconsistent with ordinary people's behavior. These signs suggest that she may have orchestrated the whole charade.",
+                    " The two aspirin pills poisoned by Miss Blacklock on her bedside table took the life of the poor Dora Bunner.",
+                    " Miss Xingqichif believes that the killer could not have pushed the door open, waved a flashlight, and fired a revolver at someone with his left hand simultaneously. ",
+                    " Miss Blacklock went out to bolt the door.",
+                    " Mrs. Hammers said she locked the door when she came in at 5:30.",
+                    " The door was not locked.",
+                    " Dora Bunner was poisoned by the aspirin on Blacklock's bedside table, the last person to touch the door was Blacklock, and the door that was supposed to be locked by Mrs. Hammers was not locked. ",
+                    " Mickey claimed to have seen Miss Blacklock with a gun in her hand.",
+                    " Miss Blacklock pushed Micky's head under the water.",
+                    " Based on the above clues, Miss Blacklock's unusual calmness and commanding behavior at the crime scene, as well as her illogical explanation of the ear bleeding. The cause of death for Dora Bunner was the consumption of poisoned aspirin from Miss Blacklock's bedside. The door at the crime scene was last touched by Miss Blacklock, and the door that was originally locked by Mrs. Hedms was not locked. It is highly likely that Miss Blacklock opened the door. Mickey claimed to have seen Miss Blacklock holding a gun and attempting to force Mickey's head underwater. These indications suggest that Miss Blacklock may have been the mastermind and perpetrator of the murder."
+                ],
+                "clue_position": [
+                    426,
+                    236,
+                    404,
+                    406,
+                    407,
+                    -1,
+                    2996,
+                    2292,
+                    288,
+                    1152,
+                    1156,
+                    -1,
+                    2687,
+                    2721,
+                    -1
+                ],
+                "answer_position": 2865
+            },
+            {
+                "question": " What was the motive behind Miss Blacklock's desire to kill Midge?",
+                "options": {
+                    "A": " Miki knows Miss Blacklock's true identity.",
+                    "B": " Mickey has a mental illness",
+                    "C": " Micky wants to leave Miss Blacklock ",
+                    "D": " Mickey said something threatening to Miss Blacklock."
+                },
+                "answer": "D",
+                "distraction": {
+                    "A": " Miss Blacklock's true identity is Charlotte, but Micky doesn't know.",
+                    "B": " Miki has delusional persecutory disorder",
+                    "C": " Miki wants to leave after seeing the news about the murder case."
+                },
+                "reasoning": [
+                    " Miki claims to have seen some things, but not yet at the point of saying them out loud.",
+                    " Miki solemnly stated that she saw Miss Blacklock holding a gun at the time of the incident.",
+                    " Miss Blacklock firmly held Micky's head under the water.",
+                    " Based on the above clues, Michelle said that she saw Blacklock Miss holding a gun when the incident occurred. After that, Blacklock Miss firmly held Michelle's head underwater, so Blacklock Miss's motive for wanting to kill Michelle was that she said something threatening to Blacklock Miss."
+                ],
+                "clue_position": [
+                    2682,
+                    2687,
+                    2721,
+                    -1
+                ],
+                "answer_position": 2876
+            },
+            {
+                "question": " What was the reason for Miss Blacklock to murder Rudi Scherz?",
+                "options": {
+                    "A": " Because Rudi Schlesinger is a fraudster",
+                    "B": " Because Rudi Schlesinger blackmailed Miss Blacklock.",
+                    "C": " Because Rudi Schlesinger is avaricious.",
+                    "D": " Since Miss Blacklock believes that Mr. Rudi Schlesinger knows of unfavorable news to him."
+                },
+                "answer": "D",
+                "distraction": {
+                    "A": " Mona Lisa Harris called Rudi Schlesinger a fraud.",
+                    "B": " Miss Blacklock believes that Rudi Schlesinger is blackmailing her.",
+                    "C": " Miss Marple claims that Rudi Schlesinger is avaricious."
+                },
+                "reasoning": [
+                    " Miss Blacklock states that she and her sister stayed at the Alpine Hotel, Monte Carlo, the father of Rudi Schlesinger's, for a year during the war.",
+                    " Rudy Schlesinger borrowed money from Miss Blacklock.",
+                    " Miss Blacklock says she may turn into a very rich woman.",
+                    " Randall Goodale entrusted all his property to his wife, who in turn entrusted it to Letitia Blacklock after her death.",
+                    " Miss Blacklock's real identity is Charlotte Blacklock.",
+                    " Synthesizing the above clues. Miss Blacklock and her 'sister' had lived with Rudi Scherz for a year during the war, but the current Miss Blacklock is the real Miss Blacklock's sister, who assumed her sister's identity to inherit Randell Godley's fortune, believing that Rudi Scherz knew her true identity and killed her."
+                ],
+                "clue_position": [
+                    564,
+                    568,
+                    1226,
+                    1234,
+                    2730,
+                    -1
+                ],
+                "answer_position": 2787
+            }
+        ]
+    }
+]

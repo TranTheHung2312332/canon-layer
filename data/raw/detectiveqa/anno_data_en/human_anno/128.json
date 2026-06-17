@@ -1,0 +1,249 @@
+[
+    {
+        "novel_id": 128,
+        "num_paragraphs": 2218,
+        "time_cost": "9H",
+        "questions": [
+            {
+                "question": " What was the cause of death for Mrs. Franklin?",
+                "options": {
+                    "A": " Natural Death",
+                    "B": " Accidental Poisoning",
+                    "C": " Suicide",
+                    "D": " Murder"
+                },
+                "answer": "D",
+                "distraction": {
+                    "A": " Mrs. Franklin's health is not as good as before.",
+                    "B": " The deceased died from poisoning by belladonna alkaloids.",
+                    "C": " The jury determined that Mrs. Franklin ended her life in a state of mental abnormality."
+                },
+                "reasoning": [
+                    " Mrs. Franklin is a neurotic patient.",
+                    " Mrs. Franklin is quite selfish.",
+                    " Mrs. Franklin claims that John's terrible bean experiment he was doing may have been tested on himself. ",
+                    " Mrs. Franklin is an extremely irresponsible woman.",
+                    " Mrs. Franklin's temperature is normal, and her pulse is also healthy.",
+                    " Mrs. Franklin died from strychnine poisoning",
+                    " Considering the above clues, John is very attentive to his experiments, and Mrs. Franklin claims he may be experimenting on himself, Mrs. Franklin is a neurotic patient with some bad character traits, which may affect the interests of family or friends, Mrs. Franklin died with normal body temperature and a healthy pulse, so she was murdered. "
+                ],
+                "clue_position": [
+                    373,
+                    724,
+                    1028,
+                    1052,
+                    1340,
+                    1484,
+                    -1
+                ],
+                "answer_position": 1576
+            },
+            {
+                "question": " Who manipulates others through psychological suggestion to commit crimes in the text?",
+                "options": {
+                    "A": " Stephen Norton",
+                    "B": " John Franklin",
+                    "C": " Hercule Poirot",
+                    "D": " Elizabeth Cole"
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " A character from Styles Manor is involved in some events related to the case.",
+                    "C": " Detective who dies from illness in the story",
+                    "D": " Suspect accused of being the perpetrator"
+                },
+                "reasoning": [
+                    " The suspect should be the kind that leaves no trace.",
+                    " Norton is harmless and has no vitality, he is a lover of birds.",
+                    " The suspect, who is not particularly attractive, would not draw attention, and engaging in harmless leisure activities would be more in line with the characteristics of the killer.",
+                    " Norton is introverted, enjoys flowers and plants, and has strong observational skills.",
+                    " Norton enjoys raising birds, is harmless to humans and animals, has an introverted personality, and possesses strong observational skills, which aligns with the characteristics of a potential suspect.",
+                    " Facing the things he saw, Norton's face turned pale and showed signs of anxiety, glancing left and right. He seemed somewhat puzzled and tense.",
+                    " Norton said that even if it were Judith's turn, she wouldn't have the courage. ",
+                    " Judith stood up clearly and told Norton that her courage was much greater than what Norton had imagined. ",
+                    " 200: Norton claims that young people generally have such immature ideas as long as they don't put them into practice.",
+                    " Judith seemed to hear his words, she turned her head and glared at him angrily.",
+                    " Based on the above clues, Norton is adept at changing others' ideas through actions and provoking them, and Norton fits the profile of the killer, so the person who manipulates others into committing crimes through psychological suggestion is Norton. "
+                ],
+                "clue_position": [
+                    384,
+                    284,
+                    387,
+                    737,
+                    -1,
+                    1161,
+                    1096,
+                    1102,
+                    1105,
+                    1106,
+                    -1
+                ],
+                "answer_position": 2094
+            },
+            {
+                "question": " What is the truth behind the Colonel Luttrell's shooting incident?",
+                "options": {
+                    "A": " Lieutenant Colonel Luttrell deliberately shot his wife",
+                    "B": " Lt. Col. Lutterell was shooting at rabbits when someone else simultaneously shot Lt. Col. Lutterell's wife.",
+                    "C": " Mrs. Lettrel accidentally walked onto the firing line",
+                    "D": " Colonel Leroy's aim was off target."
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " Lt. Col. Lethal's wife died after he fired a gun",
+                    "C": " The content mentioned in the text about possible",
+                    "D": " Captain Lutterell's purpose in shooting was to shoot at the rabbit"
+                },
+                "reasoning": [
+                    " Colonel Lettré seemed hesitant and weak, not like someone who could kill.",
+                    " Captain Luttrell walked along the path. He was carrying a hunting rifle and holding several dead pigeons in his hand. ",
+                    " Lieutenant Colonel Letrél is a sharpshooter.",
+                    " Colonel Letrell's vision remains as sharp as ever, allowing him to see distant objects clearly.",
+                    " Colonel Luttrell and his wife had a very good relationship.",
+                    " Based on the clues above, Captain Luterel is an expert marksman with excellent vision, so he would not misidentify or miss his target. He also has a good relationship with his wife, so he would not shoot her. Therefore, someone else must have been shooting alongside Captain Luterel at the same time, aiming at Mrs. Luterel."
+                ],
+                "clue_position": [
+                    284,
+                    776,
+                    783,
+                    786,
+                    890,
+                    -1
+                ],
+                "answer_position": 931
+            },
+            {
+                "question": " Based on the available clues, what kind of relationship can you infer between Norton and Elizabeth?",
+                "options": {
+                    "A": " Colleague Relationships",
+                    "B": " Romantic Relationships",
+                    "C": " Landlord-Tenant Relationship",
+                    "D": " Employment Relationship"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " Norton and Elizabeth had worked together at the same estate.",
+                    "C": " Norton had been staying at Elizabeth's place.",
+                    "D": " Elizabeth had hired Norton to manage her estate."
+                },
+                "reasoning": [
+                    " Boyd Cartwright looked significantly from Elizabeth Coleridge to Norton, and Norton blushed.",
+                    " Hastings believed that Elizabeth was not too old, and she was also quite attractive, being a very charming and understanding woman who could win over any man's heart. ",
+                    " Elizabeth has recently been spending a lot of time with Norton looking for wildflowers and birds.",
+                    " Elizabeth praises Norton as a kind-hearted person.",
+                    " Based on the clues provided, Norton blushes when Boyd Calhoun looks at him and Elizabeth, who is charming and attractive, has praised Norton for being kind and often spends time with him looking for wildflowers and birds. Therefore, it can be inferred that Norton and Elizabeth are in a romantic relationship."
+                ],
+                "clue_position": [
+                    1386,
+                    1387,
+                    1387,
+                    1387,
+                    -1
+                ],
+                "answer_position": 1389
+            },
+            {
+                "question": " Pollock's purpose in providing testimony that Mrs. Franklin died by suicide to the jury was to prove what?",
+                "options": {
+                    "A": " Sincerely stating facts",
+                    "B": " Pushing the Suicide Conclusion",
+                    "C": " Terminate the jury's follow-up investigation and conduct a secret investigation with Hastings.",
+                    "D": " Hint the truth to Hastings"
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " Mrs. Franklin wants to put an end to all of this.",
+                    "B": " Polly had heard that Mrs. Franklin wanted to commit suicide.",
+                    "D": " Hastings believes that Mrs. Franklin did not commit suicide."
+                },
+                "reasoning": [
+                    " The jury asks Poirot if he saw Mrs. Franklin exit the laboratory. ",
+                    " Poirot stated that he had seen Mrs. Franklin exit the laboratory.",
+                    " Polo said that Mrs. Franklin came out of the laboratory with a small bottle in her hand.",
+                    " Poirot said that when Mrs. Franklin discovered herself, Mrs. Franklin only appeared to be surprised, but that was all.",
+                    " Mrs. Franklin has claimed at least three times that she wants to put an end to all of this.",
+                    " Hastings considered suicide as one of the many emotions of Mrs. Franklin, and Polo failed to clarify this point during the trial.",
+                    " Therefore, it can be inferred that Poirot used the words spoken by Mrs. Franklin to guide the jury into believing that Mrs. Franklin committed suicide, thereby terminating further investigation.",
+                    " Poirot believes that Mrs. Franklin's death was a deliberate murder.",
+                    " Poirot believed the killer to be cunning and determined.",
+                    " Based on the above clues, Poirot leads the jury to believe that Mrs. Franklin committed suicide, while the real killer is cunning and determined. Therefore, Poirot's purpose in providing the jury with evidence that Mrs. Franklin died by suicide is to prevent further investigation by the jury and secretly investigate the true culprit with Hastings."
+                ],
+                "clue_position": [
+                    1539,
+                    1540,
+                    1542,
+                    1546,
+                    1495,
+                    1569,
+                    -1,
+                    1576,
+                    1582,
+                    -1
+                ],
+                "answer_position": 1584
+            },
+            {
+                "question": " Who is the mastermind behind the murder of Mrs. Franklin?",
+                "options": {
+                    "A": " Franklin",
+                    "B": " Judith",
+                    "C": " Norton",
+                    "D": " Alton"
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " Franklin only had work on his mind.",
+                    "B": " Judith is the real killer.",
+                    "D": " Alton loves Judith"
+                },
+                "reasoning": [
+                    " Norton is a man with gray hair, of average build, limping slightly as he walks, with a childlike eagerness on his face and a slight stutter in his speech. ",
+                    " Lettrell said Norton was a good guy, a bird enthusiast.",
+                    " Bello indicates that Norton appears to be a harmless fellow. ",
+                    " Hasting noted that Norton appeared to be a good person, harmless, and lacking in vitality, and believed that many killers were thin, unremarkable, and committed their crimes to express themselves. They hated being ignored. Hasting suggested that Norton might be such a killer. However, Norton was a bird lover. He always thought that loving nature was a sign of a healthy mind.",
+                    " Hastings stated that Norton was not the only suspect. ",
+                    " Norton is the only son at home, and his mother is extremely controlling, treating him as if he were her servant. ",
+                    " Norton felt sickened by the idea of killing rabbits for people, and was mocked by his peers for it.",
+                    " Based on the above clues, Norton is psychologically unhealthy due to his mother's reasons, but he is skilled at disguising himself as a role that is easily believable.",
+                    " Franklin and Norton discuss tropical diseases, Norton being a keen listener despite his limited knowledge of the subject matter under discussion.",
+                    " Regarding the issue of euthanasia, Norton stated that it should only be used when a patient is terminally ill and incurable, and the patient themselves agree and consent to it. ",
+                    " Judith states that any person weakened by illness lacks the power to make decisions and cannot make any decisions at all. It is necessary for others to make decisions on their behalf. Those who love them have the responsibility to make decisions for them. ",
+                    " Judith believes that if you love someone, you should take this risk. ",
+                    " Norton refutes that most people lack the courage to take such a risk. Norton smiles at Judith and says, \"I don't believe you would really do what you say you would do in such a situation.\"",
+                    " Norton says that Judith would never do that.",
+                    " Judith insists that she is certain about it. First, I do not share your belief that life is inviolable. Unhealthy life, useless life, all have no meaning to exist. There are too many wastes in this world. Only those who can make positive contributions to the community have the right to survive. As for the rest, we should let them leave painlessly.",
+                    " Based on the above clues, it can be inferred that Norton wanted to engage in conversation with Franklin but seemed to lack a good starting point. Norton then shifted his target to Judith and gradually led and stimulated her, making her feel that people who she perceives as socially useless should be allowed to leave without suffering. ",
+                    " Judith and Franklin are in love.",
+                    " Franklin held the firm belief that marriage should not be dissolved, as he considered that a man, once he had chosen his wife, she became his responsibility until her death or his own.",
+                    " Mrs. Franklin suffers from depression and has at least claimed three times to put an end to everything. ",
+                    " Infer that Mrs. Franklin is the person referred to as having no significance by Judith.",
+                    " Based on the clues, it can be inferred that Norton has suffered from psychological illness since childhood and is adept at disguising himself as a believable character as an adult. Upon learning that Judith and Franklin are in love, he attempts to sabotage their relationship, with Judith being a convenient point of entry. For Judith, she is in love with Franklin. However, due to the existence of Franklin's wife, they are unable to be together, and with Norton's constant meddling, it leads Judith to kill Franklin's wife. Therefore, Norton is the mastermind behind the murder of Franklin's wife. "
+                ],
+                "clue_position": [
+                    54,
+                    55,
+                    134,
+                    284,
+                    394,
+                    737,
+                    816,
+                    -1,
+                    895,
+                    1036,
+                    1068,
+                    1072,
+                    1081,
+                    1085,
+                    1086,
+                    -1,
+                    2003,
+                    1380,
+                    1495,
+                    -1,
+                    -1
+                ],
+                "answer_position": 2093
+            }
+        ]
+    }
+]

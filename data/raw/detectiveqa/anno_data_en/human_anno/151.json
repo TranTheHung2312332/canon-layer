@@ -1,0 +1,297 @@
+[
+    {
+        "novel_id": 151,
+        "num_paragraphs": 3309,
+        "time_cost": "7H",
+        "questions": [
+            {
+                "question": " What is the true story behind the death of Richard Roe?",
+                "options": {
+                    "A": " Passion Kill",
+                    "B": " He faked suicide after the murder",
+                    "C": " Suicide",
+                    "D": " Accident Causes Death"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " The article mentions that Lester Ruddock has a good relationship with his wife.",
+                    "B": " The text mentions that Mr. Lichthauermann suffers from a condition called megalomania, where such individuals do not commit suicide. ",
+                    "D": " The article states that Lichem Rohk died in his own bedroom."
+                },
+                "reasoning": [
+                    " Lichem Roche slumped in his chair, looking dejected. He faced away from them, gazing out the window, but his posture spoke volumes. His right hand hung limply, pointing downwards, and on the carpet beneath it lay a gleaming small handgun.",
+                    " The key was in the pocket of the deceased Ritchie Rock.",
+                    " The windows at the crime scene of Lichthammer Röch were locked with a latch.",
+                    " Therefore, the Chief Inspector believed that Litcham Roe was a suicide. ",
+                    " \"Poirot said, 'Look, the windows are open. Now I am closing them, but I do not turn the handles. Now the windows are shut but not locked.\"",
+                    " Poi suddenly pounded on the window, turning the handle and the bolt shot in place. ",
+                    " The handle is already loose. It can be easily inserted from the outside in this way.",
+                    " The forensic expert stated that the deceased must have been sitting in a very peculiar position for the bullet to hit the mirror precisely. ",
+                    " The bullet was found lying on the wall next to the broken mirror, according to the Inspector.",
+                    " Therefore, based on the location of the bullet, it can be inferred that Lichmann Röchling would not have committed suicide in this case.",
+                    " According to the clues, the killer staged the scene after shooting Lichem Rock, placing the key in Lichem Rock's pocket, and inserting the latch by tapping on the window and turning the handle from outside, creating the illusion that Lichem Rock had committed suicide. "
+                ],
+                "clue_position": [
+                    350,
+                    359,
+                    365,
+                    -1,
+                    584,
+                    585,
+                    586,
+                    521,
+                    523,
+                    -1,
+                    -1
+                ],
+                "answer_position": 616
+            },
+            {
+                "question": " Who was the killer of Lech Walesa?",
+                "options": {
+                    "A": " Miss Jean",
+                    "B": " Mrs. Litchfield Roe",
+                    "C": " Gian",
+                    "D": " Bahrain"
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " The text mentions that Miss Qiong heard gunshots and mistook them for the first gong, so she went downstairs.",
+                    "B": " The article mentions that Lichthelm Röch and three other people were in the hall at the time of the incident, with an alibi. ",
+                    "D": " The text states that Bahrain is a friend of Lech Walesa. "
+                },
+                "reasoning": [
+                    " As a secretary, Kean has quite a few motives, such as ledgers, checks, so there must be something that alerted Mr. Litcham Rock to him. ",
+                    " The doctor stated that the murder weapon, Lichthäusen's own pistol, was found in a drawer of the desk, and there were other items hidden in the desk drawer, but they will never be known.",
+                    " As Keen, Lichthelm Roche's secretary, he was familiar with Lichthelm Roche's habit of arranging items, which led to the inference that Keen had a motive to kill Lichthelm Roche.",
+                    " Keen had lied to Poirot, claiming that the item picked up at the door of the study was a matchbox. ",
+                    " Poirot reveals that Gaines picked up rose petals at the door of the study. ",
+                    " When the lie was exposed, Keane revealed that the rose petals were given to him by Miss Diana.",
+                    " Diana mentioned that she accidentally got some head oil on her clothes, so she picked a rosebud from the flower bed to pin on her clothes as a cover-up. ",
+                    " Poirot asked Diana if the rose petals in Keane's pocket were from the ones Diana had given him.",
+                    " Diana said it was the one she gave to Keen last night. ",
+                    " Poirot asked Diana if she was warned by Keane that Diana would say this. ",
+                    " Diana starts to get angry and asks Poirot, what do you mean?",
+                    " Based on the above clues, it can be inferred that Keen used the rose petals picked up at the door of the study to conceal the secret.",
+                    " Forensic experts say that the victim must have been sitting in a very peculiar position for the bullet to hit the mirror exactly.",
+                    " The Inspector stated that the bullet was found on the wall, just below the broken mirror. ",
+                    " Therefore, it can be inferred that Keen placed the bullet picked up from the study doorway on the underside of the broken mirror.",
+                    " Based on the clues provided, it is indicated that Keen knows the location where the gun used to kill Leecham Rock is stored, and used Leecham Rock's own gun to kill him and took away the evidence that caused Leecham Rock's alertness from the drawer in the desk. After the incident, Keen picked up the bullet he used to kill Leecham Rock from the rose petals that fell on the hallway of the study and placed it under the broken mirror, creating the illusion of Leecham Rock's suicide. Therefore, it is inferred that Keen is the killer of Leecham Rock."
+                ],
+                "clue_position": [
+                    612,
+                    523,
+                    -1,
+                    479,
+                    480,
+                    483,
+                    551,
+                    561,
+                    565,
+                    566,
+                    567,
+                    -1,
+                    521,
+                    523,
+                    -1,
+                    -1
+                ],
+                "answer_position": 630
+            },
+            {
+                "question": " Who poisoned Polly?",
+                "options": {
+                    "A": " Patton",
+                    "B": " Carter",
+                    "C": " Lola",
+                    "D": " Tony"
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " The text mentions that Carter was falsely accused.",
+                    "C": " The text mentions that Lola Valdes did not poison Polin with a poison.",
+                    "D": " The text indicates that Tony has no motivation."
+                },
+                "reasoning": [
+                    " Patton's sister-in-law Polly is very wealthy.",
+                    " Patton had indicated to Polo that four years ago, Poline was only sixteen years old. ",
+                    " General Patton's wife, Eileen, passed away four years ago.",
+                    " Based on the clues provided, it can be inferred that after the death of his wife, Bataille became the guardian of Paula, who was twenty years old at that time. When Paula turned twenty-one or got married, Bataille would have to produce an account of the assets he was managing, which suggests that there is a suspicion that Bataille may have killed Paula for her inheritance.",
+                    " In the dance floor, the song was arranged as the same one that Erica used to commit suicide with cyanide four years ago. ",
+                    " Lights turn on, and Patton quickly sits back in his seat. ",
+                    " Cyanide poisoning by Polly.",
+                    " Poirot stated that the lights would soon be on, and the poison still on the killer's body. ",
+                    " Patton immediately ordered everyone to be frisked. ",
+                    " Cyanide was found on Carter's body.",
+                    " Patton immediately suspected Carter. Eileen fell in love with him and wanted to run away with Carter. Carter didn't want this scandal to harm his career, so he poisoned her. Patton also stated that Carter would be hanged, calling him a scoundrel.",
+                    " After speaking of his suspicions about Carter, Polin rose from his bed and joked about how he had \"revived\" himself and was not poisoned. ",
+                    " Paton's breathing quickened.",
+                    " Based on the clues, it can be inferred that Patrick had a motive to kill Polly for money. Patrick used the song that his wife played when she died to draw everyone's attention, and then poisoned Polly with cyanide while pretending to put the cyanide drug in Carter's pocket, framing Carter for poisoning Polly. However, Polly did not become poisoned, causing Patrick to panic, which led to the conclusion that Patrick was the true murderer of Polly. "
+                ],
+                "clue_position": [
+                    675,
+                    780,
+                    365,
+                    -1,
+                    804,
+                    832,
+                    841,
+                    844,
+                    850,
+                    860,
+                    861,
+                    864,
+                    869,
+                    -1
+                ],
+                "answer_position": 886
+            },
+            {
+                "question": " What disease does Timothy have?",
+                "options": {
+                    "A": " Gastritis",
+                    "B": " Colorblindness",
+                    "C": " Tuberculosis",
+                    "D": " Tonsillitis"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " The article discusses Timothy's long-term healthy diet.",
+                    "C": " The text mentions that Timothy does not have a contagious disease.",
+                    "D": " The text states that Timothy often speaks loudly."
+                },
+                "reasoning": [
+                    " Timothy uses a red teacup, and there is a sea foam pipe next to it.",
+                    " The red cup fell off the table and broke on the iron legs of the chair, Roland took a set of light blue dishes from the tea tray and placed them on the table, then moved the stone pipe to make it sit next to the tea dishes. ",
+                    " Timothy picked up the light blue teacup that was next to the petrified wood pipe after his return. ",
+                    " Inez points out that Timothy has picked up the wrong cup, the red one is Timothy's.",
+                    " Timothy replied, \"Don't be silly, Inez. I know which is my teacup. My cup has sugar in it, and you don't like sugar. Come on, this is my cup, and the clay pipe is right next to it.",
+                    " Based on the above clues, it can be inferred that Timothy can only identify his teacup by its proximity to the petrified wood pipe, and cannot distinguish the color of the teacup, so it can be concluded that Timothy suffers from color blindness. "
+                ],
+                "clue_position": [
+                    1121,
+                    1137,
+                    1139,
+                    1140,
+                    1141,
+                    -1
+                ],
+                "answer_position": 1155
+            },
+            {
+                "question": " Who is the thief of the diamond heist case?",
+                "options": {
+                    "A": " Luoering",
+                    "B": " Yves and his group",
+                    "C": " The Bonnards group",
+                    "D": " George's Hotel waiter"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " The text indicates that Llewellyn does not like diamonds.",
+                    "C": " The text states that Bonnard is the owner of the diamond.",
+                    "D": " The text states that the waiter at the George King Hotel has no opportunity to handle diamonds."
+                },
+                "reasoning": [
+                    " Mr. Bohns said that no one can steal the diamond, as Mr. Bohns placed it in a special inner pocket, which no one can reach. ",
+                    " Yves said that she could use her hand, would you like to take a chance?",
+                    " Yves said that last night, while lying in bed, he began to think about it, which was the moment when Mr. Bonnet gave the diamond to the people at the table. He had already thought of a clever plan. ",
+                    " So it can be inferred that Yves is deliberately provoking Mr. Böhning into a bet with her.",
+                    " While speaking, he noticed two waiters come in to clear the plates, and Yves immediately stopped talking.",
+                    " Mr. Böhns said that the diamond is worth at least £30,000.",
+                    " Yves was dumbfounded and said this would be worth a lot of dollars. ",
+                    " Mrs. Rostov said that the diamond was really beautiful.",
+                    " Evan Lovell says it's just a piece of carbon. ",
+                    " Yves immediately said, \"Stop talking and let's get started. First, bring out the diamond, and then repeat what you said last night.\"",
+                    " Mr. Lethen casually placed the diamond into Mr. Llewellyn's hand. ",
+                    " At this time, several waiters came in from outside.",
+                    " Yves panickedly shouted and said something fell. ",
+                    " In the chaos, a glass cup on the table fell down.",
+                    " Yves dramatically declared, \"Search me!\"",
+                    " Sir George insists that the diamond must still be in the house and suggests that everyone should be searched.",
+                    " Mr. Lethen expressed his agreement with Sir George's proposal in a precise manner. ",
+                    " Based on the above clues, it can be inferred that Yvonne deliberately provokes Mr. Börntz into a bet with her, in order to get Mr. Börntz to take out the diamond and recreate the situation from last night, when the diamond reaches Mr. Lathen's hand, Mr. Lathen will give the real diamond to the waiter, who will then transport the diamond out of the room and place the fake diamond in Mr. Lewin's hand. When Mr. Lewin hands the fake diamond to Yvonne, she pretends to drop the diamond and accidentally knocks over the glass cup from the table, allowing her to mix the fake diamond with the glass cup fragments, so Yvonne and Mr. Lathen are no longer afraid of being searched. Therefore, the perpetrator of the diamond theft case is Yvonne's accomplices. "
+                ],
+                "clue_position": [
+                    1266,
+                    1267,
+                    1269,
+                    -1,
+                    1280,
+                    1285,
+                    1286,
+                    1288,
+                    1289,
+                    1291,
+                    1299,
+                    1300,
+                    1303,
+                    1304,
+                    1310,
+                    1356,
+                    1361,
+                    -1
+                ],
+                "answer_position": 1440
+            },
+            {
+                "question": " Who was the killer of Mrs. Boyle?",
+                "options": {
+                    "A": " Colonel Metcalf",
+                    "B": " Christopher Lane",
+                    "C": " Trott",
+                    "D": " Molly"
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " The text states that Captain Metcalf is a genuine police officer.",
+                    "B": " The text states that Christopher Lane had no motive for the crime.",
+                    "D": " The text states that Molly is the sister of the teacher at Longridge Farm."
+                },
+                "reasoning": [
+                    " Superintendent Hogben of Berkshire Police Department, with a slight rural accent, called Molly to notify her that he had dispatched Chief Inspector Trotter to investigate the case.",
+                    " Molly said the snow had blocked the doors and the roads were impassable.",
+                    " Inspector Hogben said that Thurrock will pass through smoothly, please tell her husband to listen very carefully to what Thurrock says to them and to follow Thurrock's instructions absolutely.",
+                    " It is inferred that Inspector Hogben's accent is rural, and dispatches Patel to investigate the case, but the path is blocked, and he says he can come over and will follow his instructions. Therefore, it is inferred that Patel's identity as a constable is false, and Patel's visit has a purpose.",
+                    " I apologize, but it seems that there is no content provided for me to translate. Could you please provide the text you would like me to translate?",
+                    " Trotter heard the phone line cut, and he turned around sharply, exclaiming, \"What?\"",
+                    " Trott's shocked tone startled everyone. He said, \"Broken? When did it break?\"",
+                    " Trotsky said that things were fine before. Didn't you get a call from Inspector Hogben?",
+                    " Trotsky's face was grave, and he guessed that the telephone line had been cut. ",
+                    " Trott said he wanted to go out and take a look. ",
+                    " Toltz asked if Giles had a side phone.",
+                    " Jiles said that the switchboard was in the upstairs bedroom, and he wanted to go up and see it. ",
+                    " After Mrs. Boyl was murdered.",
+                    " Therefore, it is speculated that Troth took advantage of the pretext of checking the telephone extension to send Giles away and murdered Mrs. Boyle in the process. ",
+                    " Trout had mentioned that in 1940, three refugee children moved into the Gregg household at Loring Farm. One of the children died due to unlawful negligence and abuse. ",
+                    " Trout claims to be the older brother of George, the child who died at Longridge Farm.",
+                    " Mrs. Boyle was the official who arranged accommodations for the evacuees.",
+                    " Thus, Trotsky had a motive for killing Mrs. Bailleux.",
+                    " Based on the clues provided, it can be inferred that Trotter is one of the two survivors of the Lurley Farm abuse case, and he is also Jim, George's brother in the Lurley Farm abuse case, who called the village phone booth to seek revenge, claiming that Trotter the sheriff was on his way, leading Molly's group to believe that the police were coming. Upon arrival, they cut the phone line and used the phone line's interface to kill Mrs. Bailey, who was responsible for arranging the shelter for the escapees that year, thus making Trotter the killer of Mrs. Bailey. "
+                ],
+                "clue_position": [
+                    2635,
+                    2636,
+                    2638,
+                    -1,
+                    2896,
+                    2897,
+                    2898,
+                    2900,
+                    2902,
+                    2904,
+                    2908,
+                    2909,
+                    2935,
+                    -1,
+                    3007,
+                    3208,
+                    2872,
+                    -1,
+                    -1
+                ],
+                "answer_position": 3290
+            }
+        ]
+    }
+]

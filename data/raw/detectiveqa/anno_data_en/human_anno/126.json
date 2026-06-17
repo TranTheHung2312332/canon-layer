@@ -1,0 +1,233 @@
+[
+    {
+        "novel_id": 126,
+        "num_paragraphs": 2339,
+        "time_cost": "10H",
+        "questions": [
+            {
+                "question": " What are the personality traits of Joyce?",
+                "options": {
+                    "A": " Personality is more introverted",
+                    "B": " Enjoy boasting about one's experiences and attracting attention from others.",
+                    "C": " Inauthenticity",
+                    "D": " Reserved, not good at communicating with others"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " Enjoying storytelling",
+                    "C": " Because she often lies",
+                    "D": " Because she is not a very likable personality."
+                },
+                "reasoning": [
+                    " Joyce always wants to see or do more than other girls.",
+                    " Leopold said: Joyce always likes to boast.",
+                    " Joyce would say anything to attract attention from others.",
+                    " Leopold thinks that she wants to attract the detective's attention, saying, \"You write detective novels, right? I think she cooks up these things just to get you to pay more attention to her.",
+                    " Annie said: Joyce likes to boast, and she has a fascinating story about her trip to India. My uncle has been to India, and she pretended to go with him. Many girls in school believed her.",
+                    " According to the clues shown above, Joyce wants to know more and do more than other girls. She will say anything to attract attention. She will also pretend to have gone somewhere that she knows someone else has been to, and then tell others about it, so Joyce's character traits are that she likes to boast about her experiences and attract attention from others. "
+                ],
+                "clue_position": [
+                    526,
+                    604,
+                    604,
+                    607,
+                    619,
+                    -1
+                ],
+                "answer_position": 641
+            },
+            {
+                "question": " Which character's death is related to Joyce Reynolds' death?",
+                "options": {
+                    "A": " Mrs. Louelling-Smith",
+                    "B": " Janet White",
+                    "C": " Leslie Ferrell",
+                    "D": " Charlotte Belfield"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " The will has a suspicion of being forged",
+                    "C": " is a problem youth, and his account has a lot of money.",
+                    "D": " Head injuries resulting in death"
+                },
+                "reasoning": [
+                    " Joyce didn't realize it was a murder at the time he saw it. It wasn't until much later that he realized it was indeed a murder. It was only a few months ago when someone said something that made him suddenly realize: Yes, what I saw was a murder.",
+                    " Mrs. Smith is very wealthy and extremely affluent. Her death, although not unexpected, was quite sudden, according to Dr. Ferguson's expectations. She would have been expected to live longer. She was not one to follow medical advice strictly. The doctor told her not to overexert herself, but she continued to do as she pleased. For instance, she was very passionate about gardening, which was not good for her heart.",
+                    " Mrs. Smith came back from the garden with a very rapid breath. She said she was very tired and went to bed. Then, she never woke up again. From a medical perspective, it was quite normal.",
+                    " Mrs. Llewellyn-Smith's legal adviser, Leslie Ferrell, was murdered by a direct blow to the back while near the inn.",
+                    " Janet White was found dead on a shortcut from the school to her home, strangled. According to Nora Ambrose, Janet White had occasionally mentioned a man she had broken up with a year ago who had been sending her threatening letters, making her very scared. ",
+                    " Joyce's age-appropriate view of murder. She might have recognized the victim as someone she knew or taught; she likely wouldn't recognize the killer. She might have seen two people wrestling or heard her acquaintance arguing with a stranger, but didn't think much of it at the time.",
+                    " Time also fits. At that age, she couldn't comprehend that the man's hand around Janet White's neck could have been more than just a tender embrace and kiss; it could have been an attempt to strangle her. However, as she grew older, she suddenly thought of a more reasonable explanation. ",
+                    " Based on the above clues, it can be inferred that Joyce witnessed a murder, but at the time he was too young to understand it was a murder. The timing and cause of death for Janet White's case match Joyce's age at the time, and at a younger age, Joyce might have interpreted strangulation as a hug with hands around the neck, only realizing later that it was a murder. Therefore, it is inferred that Janet White's death is related to Joyce Reynolds' death. "
+                ],
+                "clue_position": [
+                    76,
+                    684,
+                    726,
+                    749,
+                    766,
+                    769,
+                    771,
+                    -1
+                ],
+                "answer_position": 941
+            },
+            {
+                "question": " What was the ultimate goal of Michael Gaffney and Roya Drake's forgery of Lady Loring Smith's codicil?",
+                "options": {
+                    "A": " To ensure that Olga Seminova inherits all the property",
+                    "B": " To confuse the police and create complexity in the case",
+                    "C": " To ensure that Roya Drake inherits all the property",
+                    "D": " To ensure Michael Gaffield inherits a legacy"
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " The actual heir of the will is Olga Semenova.",
+                    "B": " In order to cause trouble, a fake will was deliberately forged.",
+                    "D": " In the will of Mrs. Louella Smith, the supplementary heir is Olga, who will inherit the property if she marries Michael."
+                },
+                "reasoning": [
+                    " Mrs. Llewellyn-Smith's will has undergone few substantial changes over the years, only adding some charitable institutions or modifying the inheritance left vacant by the death of an heir. Her estate is always left to her nephew Hugo Drake and his wife, Olga being his cousin and also Mrs. Llewellyn-Smith's niece. If one of them predeceases the other, the entire estate goes to the surviving one.",
+                    " Mrs. Llewellyn Smith personally wrote a codicil to her will. It included one or two charitable organizations - not as many as before - and the shares for the old servants were also few. The rest of the large fortune was left to Olga Seminova, in gratitude for her meticulous care and attention. This distribution method was quite surprising and did not resemble the previous behavior of Mrs. Llewellyn Smith in the slightest. ",
+                    " According to the evidence provided by the handwriting expert, the addendum is completely forged, merely resembling the handwriting of Mrs. Llewellyn-Smith a little bit. ",
+                    " Mrs. Dreklar still wants to overturn that will.",
+                    " Olga Seminova has gone missing.",
+                    " Leslie may have mentioned marriage to Olga, but he was not serious about it. Someone had given Leslie a large sum of money, possibly Olga (using her employer's salary), to entice him into forging a will with her as the beneficiary.",
+                    " Leslie has done some unsavory things -- forgery.",
+                    " Leslie was killed from behind by a knife.",
+                    " Overturning this codicil will make the original will effective. Since Roya Drake's husband has passed away, she will inherit all the property.",
+                    " Roya Drake was smitten by Michael. Her husband had been disabled many years ago. She was nearing middle age, but she was a passionate woman, and a strikingly handsome young man appeared in her life. The woman was easily attracted to him, but he was not interested in the beauty of women – he was interested in satisfying his own desires to create beauty.",
+                    " Mrs. Louelling-Smith is already an old and sick woman. All her previous wills have left her estate to her relatives, which is the legally recognized reasonable will. She has only known this foreign girl, Olga Seminova, for less than a year, and the girl has no right to inherit her estate.",
+                    " Olga Seminova was attracted to Michael, but only saw him as a good marriage prospect. ",
+                    " Michael chose to get money from Drake just in case. ",
+                    " Based on the above clues, Michael suspects that Olga may not truly inherit the estate and, considering the possibility of undue influence, he believes there is a risk in her inheriting the estate through her. Therefore, Michael uses Olga's beauty and creative passion to make her the scapegoat for the forged will. He chooses to conspire with Roya to kill Olga so that they can directly inherit the Luelling-Smith woman's property. "
+                ],
+                "clue_position": [
+                    1269,
+                    1269,
+                    1271,
+                    1591,
+                    1258,
+                    1918,
+                    1879,
+                    749,
+                    2277,
+                    2285,
+                    2283,
+                    2283,
+                    -1,
+                    -1
+                ],
+                "answer_position": 2304
+            },
+            {
+                "question": " How to discover the connection between Dracula's Lady and the murder case?",
+                "options": {
+                    "A": " Mrs. Drake got her clothes wet.",
+                    "B": " Dr. Drecker had a dispute with Joyce Reynolds at the gala",
+                    "C": " Dr. Drake was found loitering near the library during the party.",
+                    "D": " Mrs. Dreikur's response to Joyce Reynolds' death was remarkably calm."
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " Mrs. Drake may have had a disagreement with Joyce, but did not disclose",
+                    "C": " Mrs. Darcy was found loitering near the library.",
+                    "D": " Upon receiving the news, Mrs. Drake displayed an unusual calmness."
+                },
+                "reasoning": [
+                    " Joyce was killed, and her head was pushed into a bucket of water.",
+                    " Placing a child's head into a water bucket will result in water overflowing from the container.",
+                    " So the person who pushed Joyce into the bucket must have been soaked.",
+                    " The vase fell out of Mrs. Drecker's hand and shattered on the floor of the lower hall. Miss Elizabeth Whitaker was standing nearby and helped Mrs. Drecker pick up the pieces and sweep the broken glass aside to prevent anyone from stepping on it.",
+                    " Mrs. Dreyer was not frightened; it was merely a slip of the hand, a clumsy move in the exhaustion of extreme fatigue that caused the vase to break. ",
+                    " The attire of the guests attending the party should be formal, while Dr. Dreifuss's dress, which was ruined by a broken vase being drenched in water, stood out awkwardly.",
+                    " Mrs. Dreary needs a witness who saw her getting wet. She is holding a large vase filled with flowers, waiting at the corner of the stairs. ",
+                    " Based on the above clues, Joyce was drowned in a bucket, so her clothes would have been wet, and Dreker Lady got wet when the vase broke, providing her with a valid alibi. This indicates that Dreker Lady has a strong motive for the murder. It can be concluded that Dreker Lady is involved in the murder case."
+                ],
+                "clue_position": [
+                    1084,
+                    481,
+                    -1,
+                    1361,
+                    1365,
+                    2258,
+                    2258,
+                    -1
+                ],
+                "answer_position": 2266
+            },
+            {
+                "question": " Who was the person who actually witnessed the murder case?",
+                "options": {
+                    "A": " Mrs. Llewellyn-Smith",
+                    "B": " Joyce",
+                    "C": " Miranda",
+                    "D": " Leslie Ferrall"
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " The cause of death is a bit strange, possibly knowing something about it.",
+                    "B": " She witnessed a murder.",
+                    "D": " It is possible that he was killed because he witnessed a murder."
+                },
+                "reasoning": [
+                    " Miranda was not allowed to attend the party on the day of Joyce's murder because she had a sore throat and a slight fever, so her mother didn't let her go.",
+                    " Miranda has a secret spot that she loves to visit for a walk. Here, no one knows where she is, sitting on a tree branch, observing the surroundings and watching things unfold.",
+                    " Miranda often observes birds and squirrels in the Stone Quarry Garden.",
+                    " Miranda told the detective that her best friend is Joyce and claimed that they talk about everything and share each other's secrets often.",
+                    " Miranda states that no one will come here because someone was killed here a long time ago. Before it became a garden, it was a quarry, with a gravel pit or sand pit where her body was found.",
+                    " The above clues suggest that this may mean Miranda is very familiar with the place or has a valid reason to go there, so it is likely that, given Joyce's tendency to boast, she would present Miranda's information as something she witnessed herself.",
+                    " Miranda says that if she hadn't told Joyce those things, she wouldn't have died, and Joyce died precisely because she claimed to know about the murder, so it can be inferred that the murder was the thing that Miranda told Joyce about.",
+                    " Based on the above clues, it can be inferred that Miranda was the one who actually witnessed the murder, but she informed Joyce about it, and Joyce then claimed to have seen the murder herself. "
+                ],
+                "clue_position": [
+                    1088,
+                    1067,
+                    1069,
+                    1082,
+                    1075,
+                    -1,
+                    2178,
+                    -1
+                ],
+                "answer_position": 2217
+            },
+            {
+                "question": " Who was the murderer in the Joyce murder case?",
+                "options": {
+                    "A": " Lady Drake",
+                    "B": " Michael Gaffey",
+                    "C": " Miranda",
+                    "D": " Emming"
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " Speaking some nonsensical words to the detective",
+                    "C": " She and Joyce are friends.",
+                    "D": " The victim's principal"
+                },
+                "reasoning": [
+                    " Joyce was drowned, and she was around ten years old, indicating that the killer had greater strength than her.",
+                    " Elizabeth Whitaker, a teacher at Maplewood Elementary School, witnessed some things during the gala. ",
+                    " Elizabeth Whitcombe saw what was of no consequence, but she felt that Mrs. Drecker might have seen something.",
+                    " Drayton was greatly surprised when she heard about this.",
+                    " The vase fell to the floor of the hall, and Miss Elizabeth Whitaker was standing nearby. She helped Mrs. Drake pick up the fragments and swept the broken glass aside to avoid anyone stepping on it.",
+                    " Mrs. Drake broke a vase filled with water, causing her clothes to get soaked as well.",
+                    " Mrs. Drechel was supposed to be the one who shouldn't have gotten her clothes wet at the party, yet she did. Moreover, the person who killed Joyce Reynolds must have been soaked.",
+                    " According to the above clues, it can be inferred that Dr. Drake killed Joyce, but in the process of her resistance, her clothes got wet, so she broke a vase to cover up the fact that she had been wet. "
+                ],
+                "clue_position": [
+                    230,
+                    1354,
+                    1355,
+                    1356,
+                    1361,
+                    1359,
+                    2258,
+                    -1
+                ],
+                "answer_position": 2217
+            }
+        ]
+    }
+]

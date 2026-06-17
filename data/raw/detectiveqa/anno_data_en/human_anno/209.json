@@ -1,0 +1,283 @@
+[
+    {
+        "novel_id": 209,
+        "num_paragraphs": 2989,
+        "time_cost": 420,
+        "questions": [
+            {
+                "question": " Mrs. MacIntyre never writes letters, so what is the sudden purpose of buying ink?",
+                "options": {
+                    "A": " Response to the government's letter",
+                    "B": " Sending a birthday card to my niece",
+                    "C": " Write a letter to the Sunday Comet newspaper.",
+                    "D": " Blurring Photos"
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " The article mentions the use of ink.",
+                    "B": " The text mentions sending a greeting card to the niece during the festival.",
+                    "D": "The content related to ink mentioned in the text"
+                },
+                "reasoning": [
+                    " Mrs. MacKinty's estate, there was a copy of the Sunday Comet.",
+                    " A page from the Sunday Comet was cut off. It was a section about the size of a photograph. ",
+                    " Mrs. McIntyre eavesdrops and enjoys invading people's privacy.",
+                    " Mrs. MacKenzie, who made a living by renting out rooms and cleaning houses.",
+                    " Proving Mrs. MacKenty was short of money, he found a photo in the employer's house that was related to what was in the newspaper.",
+                    " Mrs. MacIntyre knows where there is a photo with the same content as the one she clipped from the newspaper, and she wants to make some money from the photo.",
+                    " Therefore, a person who does not write letters suddenly buys ink to write letters, buying ink to make money by writing letters for the Sunday Comet newspaper."
+                ],
+                "clue_position": [
+                    642,
+                    647,
+                    728,
+                    198,
+                    -1,
+                    723,
+                    -1
+                ],
+                "answer_position": 729
+            },
+            {
+                "question": " What was Mrs. Weatherby's reaction to Mrs. MacKenzie's death?",
+                "options": {
+                    "A": " Not Sincere",
+                    "B": " Intense sorrow",
+                    "C": " Strong curiosity",
+                    "D": " Avoid talking about it."
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " The emotional expressions mentioned in the text are:",
+                    "C": " Emotional Expression in the Text ",
+                    "D": " Emotional Expression in the Text"
+                },
+                "reasoning": [
+                    " When Mrs. Weatherby heard that Polly was there to inquire about Mrs. MacKenzie, the weak hand that Polly was holding suddenly tensed. ",
+                    " However, Mrs. Weatherby continued to say that she couldn't remember who Mrs. McKenty was, despite the fact that Mrs. McKenty had previously worked at her house. ",
+                    " First, hearing the name and feeling tense, then saying you don't recognize it, two behaviors are contradictory.",
+                    " Mrs. Weatherby disliked Mrs. McKenty's social status.",
+                    " Disdaining McGinty's constant chatter, the people in Weatherby's house never paid any attention to her or responded to her.",
+                    " Mrs. Weatherby disliked talking about Mrs. MacKnight's death.",
+                    " These manifestations indicate that Mrs. Weatherby dislikes Mrs. MacKenzie.",
+                    " According to the conflicting behaviors and Mrs. Weatherby's attitude towards Mrs. McGinty's death, Mrs. Weatherby's reaction appears to be disdainful and insincere."
+                ],
+                "clue_position": [
+                    874,
+                    876,
+                    -1,
+                    886,
+                    886,
+                    901,
+                    -1,
+                    -1
+                ],
+                "answer_position": 919
+            },
+            {
+                "question": " Who is Mrs. Carpenter's true identity?",
+                "options": {
+                    "A": " Eva Kain's daughter",
+                    "B": " Lily Gambol",
+                    "C": " Vera Black's children",
+                    "D": " Janice Kotlarski's child"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " The text mentions the suspected identity",
+                    "C": " The text mentions a suspected identity ",
+                    "D": " The text mentions suspected identities:"
+                },
+                "reasoning": [
+                    " Mrs. McIntyre comes to Mrs. Carpenter's house every Friday to clean.",
+                    " Mrs. MacIntyre enjoys gossiping and reading other people's letters.",
+                    " Mrs. Carpenter says Mrs. MacIntyre's death was stupid and disgusting, just like the stories you read in the Sunday papers. ",
+                    " When Pollock mentioned Sunday's paper to Mrs. Carpenter, she became very tense, stumbling and bumping into the window frame.",
+                    " Based on this inference, when mentioning Mrs. McKittrick and the Sunday Comet, Mrs. Carpenter's reaction could very well be that Mrs. McKittrick discovered her secret, suspecting a connection between Mrs. Carpenter and the content in the newspaper.",
+                    " Mrs. Carpenter's age is about the same as Lily Gannet's age as mentioned in the newspaper.",
+                    " Mrs. Carpenter has just engaged to Guy Carpenter, worried that she will marry a man of low birth and a woman who killed her aunt with a meat cleaver when she was a child, and is afraid she cannot accept it. ",
+                    " Mrs. Carpenter feels tense when mentioning Mrs. MacIntyre and the newspaper, as she is afraid of revealing her true identity.",
+                    " Therefore, Mrs. Carpenter's true identity is Lily Gambol."
+                ],
+                "clue_position": [
+                    1110,
+                    278,
+                    1106,
+                    1109,
+                    -1,
+                    1228,
+                    1244,
+                    -1,
+                    -1
+                ],
+                "answer_position": 1248
+            },
+            {
+                "question": " 200: The person who pushed Polo off the railway platform, the impossible suspect is?",
+                "options": {
+                    "A": " Mr. Carpenter",
+                    "B": "Dr. Rendell",
+                    "C": " Mr. Weatherby",
+                    "D": " Mr. Robin"
+                },
+                "answer": "D",
+                "distraction": {
+                    "A": " The text mentions the possibility of someone pushing Polo.",
+                    "B": " The text mentions that someone might be pushing Polo.",
+                    "C": " The content you provided is incomplete. Could you please provide the full text you want to be translated into English? I'll be happy to help you with that."
+                },
+                "reasoning": [
+                    " Poirot was pushed off the platform at 9:35.",
+                    " Mrs. Oliver proves that she, Robin, and Robin's mother have been playing cards from 8:00 to 10:30. ",
+                    " Robin was unable to be at the train station at that time.",
+                    " Therefore, Robin could not have been the person who pushed Polo off the train platform. "
+                ],
+                "clue_position": [
+                    1489,
+                    1490,
+                    -1,
+                    -1
+                ],
+                "answer_position": 2975
+            },
+            {
+                "question": " What was the murder weapon used to kill Mrs. MacKintyre?",
+                "options": {
+                    "A": " Chopping knife",
+                    "B": " Coffee Pot",
+                    "C": " Knocking on the sugar axe",
+                    "D": " Sharp-edged heavy objects"
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " The possible weapon mentioned in the text",
+                    "B": " The possible weapon mentioned in the text",
+                    "D": " The possible weapon mentioned in the text"
+                },
+                "reasoning": [
+                    " Poirot found a blunt sugar hammer on a bookshelf where miscellaneous items were placed in the Long Grass Hotel where Mrs. McGinty was murdered. ",
+                    " The blade has a faint discoloration that appears to be bloodstains.",
+                    " The sugar axe has a shape similar to a flat axe and its edge is very sharp, which matches the shape of the weapon that caused Mrs. McGinty's wound. ",
+                    " This can rule out the possibility of a meat cleaver.",
+                    " The actual murder weapon used to kill Mrs. McGinty was a bludgeoning axe."
+                ],
+                "clue_position": [
+                    1204,
+                    898,
+                    1731,
+                    -1,
+                    -1
+                ],
+                "answer_position": 2131
+            },
+            {
+                "question": " What was the purpose of Mrs. Upward identifying Lily Gabor's photo?",
+                "options": {
+                    "A": " She recognized Lily Gopall as who.",
+                    "B": " Extortion",
+                    "C": " Concealing the Truth",
+                    "D": " Bad eyesight, mistaken identity"
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " The possibility mentioned in the text is:",
+                    "B": " The possibility of identifying the photo mentioned in the text. ",
+                    "D": " The text mentions that Mrs. Upward has poor eyesight."
+                },
+                "reasoning": [
+                    " Mrs. Upward noticed that Lily Gambol had no family or friends in the four photos, and her only relative, her aunt, had been murdered. No one cared about her.",
+                    " Mrs. Upward looked at four photos, hesitated for a moment, and pointed to Lily Gambol's photo with a furrowed brow.",
+                    " It is speculated that Mrs. Upward may have recognized the content of one of the genuine photographs.",
+                    " Mrs. Upward handled it in her own way. So, on the spur of the moment, she pointed to a wrong photo intentionally. ",
+                    " Mrs. Upward kept the secret to herself, but she wanted to find out more information.",
+                    " Explain what Mrs. Upward knows, but doesn't want to reveal the truth.",
+                    " Therefore, Mrs. Upward wanted to understand the content of the real photo in her own way, and deliberately identified Lily Gampol's photo as a desperate move, thinking that no one would care and intending to cover up the truth by pointing out the photo. "
+                ],
+                "clue_position": [
+                    2424,
+                    1606,
+                    -1,
+                    2427,
+                    2051,
+                    -1,
+                    -1
+                ],
+                "answer_position": 2431
+            },
+            {
+                "question": " Who couldn't have killed Upward's wife?",
+                "options": {
+                    "A": " Eve Carpenter",
+                    "B": " Dierdre Henderson",
+                    "C": " Lily Gompertz",
+                    "D": " Sheila Rendel"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " Calling the key figure in the text, Mrs. Upward, to arrange a meeting.",
+                    "C": " Mrs. Upward identifies the key figure in the photo",
+                    "D": " Mrs. Upward called to make an appointment with the key person in the article."
+                },
+                "reasoning": [
+                    " Henderson received a call and went to his wife's house, but no one answered the door, assuming that no one was home, and the servant Frieda had made a mistake in passing on the message. She went back home.",
+                    " Mrs. Upward's fingerprints on the glasses were very carefully wiped off on the day of the incident, but there were traces of lipstick on the edge of the glasses.",
+                    " Mrs. Oliver said that Mrs. Upward's house had a unique and expensive scent of perfume.",
+                    " Henderson's natural complexion and demeanor suggest she does not use makeup.",
+                    " Officer Spence confirmed that Henderson did not have lipstick or perfume.",
+                    " Edna stated that the suspect she saw had blonde hair, not Henderson's dark hair. ",
+                    " Based on the evidence found at the crime scene, the suspect was wearing perfume, lipstick, and had golden hair, while Henderson was not wearing any makeup, had dark hair, and had no lipstick or perfume on.",
+                    " Therefore, Henderson cannot be the murderer of Mrs. Upward."
+                ],
+                "clue_position": [
+                    2083,
+                    2039,
+                    2108,
+                    2065,
+                    2114,
+                    2324,
+                    -1,
+                    -1
+                ],
+                "answer_position": 2327
+            },
+            {
+                "question": " Who was the murderer of Mrs. Upward?",
+                "options": {
+                    "A": " Eve Carpenter",
+                    "B": " Robin Upward",
+                    "C": " Deirdre Henderson",
+                    "D": " Sheila Rendl"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " The suspect mentioned in the text is: [Insert suspect's name or description here].",
+                    "C": " The suspect mentioned in the article is...",
+                    "D": " The suspect mentioned in the text is:"
+                },
+                "reasoning": [
+                    " On the day of the crime, Mrs. Rundle received a phone call from Mrs. Upward around 6:00 p.m., asking her to come over and stay with Mrs. Upward at 9:00 p.m. or later. ",
+                    " Edna confirmed that the person who entered Mrs. Upward's house between 8:30 and 9:00 had blonde hair, while Henderson had dark hair.",
+                    " So, we can rule out these two suspects.",
+                    " The Robbins family has a book that says: \"Evelyn Hope, in the handwriting of Robbins.\"",
+                    " The Samoheis family was framed with a photo of my mother, which read: \"Eva Kane.\" The handwriting was identical to Robin's. ",
+                    " It can be confirmed: Eva Kane is Robin's biological mother.",
+                    " Mrs. Upward is extremely convinced of the influence of genetics. She would never tolerate an adopted son being the son of a notorious murderer.",
+                    " Robin deliberately staged the scene to look like a woman killed her mother, when in fact he had made multiple trips back and forth before leaving to stage the scene. There was enough time for him to commit the crime.",
+                    " Therefore, Robin killed Mrs. Upward."
+                ],
+                "clue_position": [
+                    2710,
+                    2316,
+                    -1,
+                    2865,
+                    2841,
+                    -1,
+                    2865,
+                    2886,
+                    -1
+                ],
+                "answer_position": 2903
+            }
+        ]
+    }
+]

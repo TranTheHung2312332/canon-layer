@@ -1,0 +1,234 @@
+[
+    {
+        "novel_id": 252,
+        "num_paragraphs": 2714,
+        "time_cost": 360,
+        "questions": [
+            {
+                "question": " The initial conclusion states, who killed Mrs. Aggles?",
+                "options": {
+                    "A": " Mr. Ayrton",
+                    "B": " Jacqueline Agar",
+                    "C": " Hester",
+                    "D": " Gwendolyn"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " The key figure in the text, Aiguo's husband",
+                    "C": " The key figure in the text, Mr. Ackerley's secretary, is a crucial character."
+                },
+                "reasoning": [
+                    " Jacqueline and Mrs. Aggert said: He had trouble, and needed money. ",
+                    " Mrs. Aggles rejected Jacques, who began to speak rudely and threatened her with insults. ",
+                    " That evening, Mrs. Aggles died under suspicious circumstances. She was struck down by a poker, which had Jacques' fingerprints on it, and a large sum of money from her desk drawer had disappeared.",
+                    " There is no evidence to prove Jacques' alibi.",
+                    " According to the above clues, Jack killed Rachel because he failed to get money."
+                ],
+                "clue_position": [
+                    141,
+                    143,
+                    146,
+                    148,
+                    -1
+                ],
+                "answer_position": 149
+            },
+            {
+                "question": " The reaction of the Ayrshire family to Jacqueline's proven innocence indicates what?",
+                "options": {
+                    "A": " They are happy to be innocent, Jackie Agar.",
+                    "B": " They do not believe in Dr. Calgary.",
+                    "C": " They are concerned about restoring Jacqueline Agar's reputation.",
+                    "D": " Some of them may know the real culprit."
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " The emotional response to the mentioned content in the text.",
+                    "C": " The emotional response to the content mentioned in the text.",
+                    "D": " The emotional response after mentioning related content in the text."
+                },
+                "reasoning": [
+                    " Leo Agnew expresses doubt about Carlisle's statement.",
+                    " Hastings questioned the authenticity of Calgary's evidence.",
+                    " Hirst declares that Jackie is guilty.",
+                    " Kirsten expresses doubt about Calgary's statement.",
+                    " 200: Gwendal says Jacques has a character problem that is hard to detect from the outside. ",
+                    " The Ayrshire family took Calgary's words in stride.",
+                    " According to the above clues, the reactions of the Ayrshire family are positive, doubtful, and indifferent.",
+                    " These reactions indicate that the Airdrie family does not believe Calgary's words."
+                ],
+                "clue_position": [
+                    152,
+                    158,
+                    158,
+                    179,
+                    182,
+                    217,
+                    -1,
+                    -1
+                ],
+                "answer_position": 426
+            },
+            {
+                "question": " Who could not have killed Mrs. Agatha Christie?",
+                "options": {
+                    "A": " Jacqueline",
+                    "B": " Hester",
+                    "C": " Coston",
+                    "D": " Tina"
+                },
+                "answer": "D",
+                "distraction": {
+                    "A": " The key figures involved in the case in the article are as follows:",
+                    "B": " Key figures in the case described in the document",
+                    "C": " Key figures in the case mentioned in the text:"
+                },
+                "reasoning": [
+                    " 200: Tina works at the library in Redmond County and lives in a local apartment.",
+                    " Tina goes home on weekends.",
+                    " Tina lives in Redmyn County, a distance away from Mrs. Agg's house.",
+                    " Tina is the most obedient and gentle member of the family.",
+                    " Through these clues, it can be inferred that Tina did not kill Mrs. Agha."
+                ],
+                "clue_position": [
+                    510,
+                    1040,
+                    1040,
+                    1040,
+                    -1
+                ],
+                "answer_position": 1048
+            },
+            {
+                "question": " Mr. Marshall believes that who killed Mrs. Aggles?",
+                "options": {
+                    "A": " Leo Agnew",
+                    "B": " Hesther Aagel",
+                    "C": " Kristin Lindström",
+                    "D": " Intruders"
+                },
+                "answer": "D",
+                "distraction": {
+                    "A": " The article mentions the suspect in the case.",
+                    "B": " The article mentions the suspect in the case.",
+                    "C": " The case suspect mentioned in the text is:"
+                },
+                "reasoning": [
+                    " Mrs. Aigle was murdered on the day her house was locked up tightly.",
+                    " Leo heard the doorbell ring, followed by the sound of the door opening and closing.",
+                    " Mrs. Aggela has a good public heart and is kind.",
+                    " Based on Mr. Leo's description, it is speculated that the intruder may have used persuasive words and a tragic story to convince Mrs. Aggles to let them in, then knocked out the owner and escaped with the money. ",
+                    " Therefore, Mr. Marshall believes that Mrs. Aggles was manipulated by outsiders into sympathizing with her, which led to her being burglarized and ultimately killed. "
+                ],
+                "clue_position": [
+                    598,
+                    1036,
+                    1036,
+                    1037,
+                    -1
+                ],
+                "answer_position": 1048
+            },
+            {
+                "question": " Why does Tina say Mickey killed Mrs. Aggles?",
+                "options": {
+                    "A": " Because Mike hates his biological mother.",
+                    "B": " Because Mickey hates Mrs. Aggles",
+                    "C": " Mickey wants to go back to London, but he is afraid that Mrs. McGee would not agree.",
+                    "D": " Mrs. Aggles doesn't like Micky, feels lonely"
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " The analysis mentioned in the text is:",
+                    "C": " In the text, Miki admits that he wants to go back to London.",
+                    "D": " The content about Miki is mentioned in the text."
+                },
+                "reasoning": [
+                    " Miki has been thinking about his biological mother.",
+                    " Mikey's biological mother abandoned him when he was six years old. ",
+                    " Tina expresses gratitude to Mrs. McGilp, but Mike does not. ",
+                    " Mickey hates his biological mother. He considers Mrs. Aggert to be his own mother.",
+                    " Based on the clues, Mickey has been thinking about his biological mother and harboring resentment towards her.",
+                    " Mickey killed Mrs. Aggles, just like he killed his own mother.",
+                    " So Tina says that Mickey killed Mrs. McGuire."
+                ],
+                "clue_position": [
+                    1553,
+                    1552,
+                    1561,
+                    1569,
+                    -1,
+                    -1,
+                    -1
+                ],
+                "answer_position": 1572
+            },
+            {
+                "question": " Tina says: The cup is empty. What does this mean?",
+                "options": {
+                    "A": " Suggests that Kelsey killed Philip",
+                    "B": " Kirsten drank the coffee.",
+                    "C": " Philip did not drink coffee.",
+                    "D": " The coffee was spilled on the ground"
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " The content mentioned in the article at the time of the incident.",
+                    "C": " Problem-related content",
+                    "D": " The text mentions possible events"
+                },
+                "reasoning": [
+                    " Kirsten and Tina went up the stairs together, but Tina was slightly delayed because she stopped to talk to Hester.",
+                    " When Tina arrived, she found that Philip was already dead.",
+                    " Tina also found that the coffee cup Philip sent to Corston was empty, with no traces of spilled coffee. ",
+                    " These pieces of evidence suggest that Kostas might have been pretending to give Philip a coffee, with an empty cup, implying that Kostas killed Philip. "
+                ],
+                "clue_position": [
+                    2573,
+                    2573,
+                    2665,
+                    -1
+                ],
+                "answer_position": 2669
+            },
+            {
+                "question": " Who killed Mrs. Aggleton?",
+                "options": {
+                    "A": "Miki",
+                    "B": " Corton",
+                    "C": " Jacqueline",
+                    "D": " Hester"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " Case key figures in the article",
+                    "C": " The most important character initially identified in the text is ",
+                    "D": " Crucial Suspect Characters in the Text"
+                },
+                "reasoning": [
+                    " Molin said that Jacques is a pathetic example, always behaving in a gentle and adorable manner, flawless, and what he says is always believed by others. ",
+                    " Jake once expressed to a middle-aged woman that he didn't like girls, often evaluating them as rude, and that only experienced and mature women could attract him. ",
+                    " Jacques often makes plans and gets women to cooperate with him to obtain some money. ",
+                    " The above clues suggest that Jacqueline would exploit emotions to get middle-aged women to do things for her and take advantage of their money. ",
+                    " Jacqueline asked her mother for money, but Mrs. Aggles refused. Jacqueline was angry and threatened to come back.",
+                    " While Corston was a repressed old maid who liked Jacques. ",
+                    " Tina heard two people talking at Mrs. Aggles' house, the first person emphasizing that something should be done between 7:00 and 7:30, reminding not to mess it up. The second person responded that they can be trusted. The first person concluded by predicting that everything will be great if the task is successful.",
+                    " This clue fits well with Jake's behavior, using emotions to manipulate someone into doing something for him. ",
+                    " Therefore, it is speculated that Jacqueline used her charm to deceive Colonel Custon, making him kill Mrs. Aghel and take the money."
+                ],
+                "clue_position": [
+                    2233,
+                    2235,
+                    2240,
+                    -1,
+                    1284,
+                    1041,
+                    2408,
+                    -1,
+                    -1
+                ],
+                "answer_position": 2660
+            }
+        ]
+    }
+]

@@ -1,0 +1,193 @@
+[
+    {
+        "novel_id": 136,
+        "num_paragraphs": 2819,
+        "time_cost": "9H",
+        "questions": [
+            {
+                "question": " Police suspect the deceased to be linked to ( )",
+                "options": {
+                    "A": " Blackfriars Railway Station",
+                    "B": " Latherford Manor",
+                    "C": " The Crickenshaw Family",
+                    "D": " Brian Estridge"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " The body was thrown out of a train that had gone through a bend before arriving at the station in Blac",
+                    "B": " The owner of Lathford Manor",
+                    "D": " Miss Edith Crickenshaw's husband"
+                },
+                "reasoning": [
+                    " The body was thrown out of a train that had passed through a bend before entering Blakelands station, and the spot where the body was thrown was just before the bend leading to Lashford Manor.",
+                    " Lucy found the body of a woman wearing a fur coat in the long warehouse of Rutherford Manor. ",
+                    " Miss Marple thinks the murderer is someone who is very familiar with the Larchford estate.",
+                    " Based on the clues, the murder scene is believed to be near Lathford Manor, and the body was found in the long warehouse of Lathford Manor, indicating that the killer is very familiar with the surroundings of the manor. Therefore, the police suspect that the victim has a connection with Lathford Manor."
+                ],
+                "clue_position": [
+                    277,
+                    561,
+                    447,
+                    -1
+                ],
+                "answer_position": 784
+            },
+            {
+                "question": " Who has a relationship with the murdered woman on the train?",
+                "options": {
+                    "A": " Harold Crickenshaw",
+                    "B": " Alfred Crippen",
+                    "C": " Sébastien Créquit",
+                    "D": " Miss Lucy"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " Harold Crickenshaw has been extremely annoyed with this murder case.",
+                    "C": " Cedric Messina treated the whole thing as a kind of macabre joke.",
+                    "D": " The person who found the body"
+                },
+                "reasoning": [
+                    " Cedric claims that Alfred Crippen was involved in some illegal activities, during the war, he worked in the supply department, and after he left, there were some unclear explanations for the purchase of canned food, and there were also problems with eggs. He made some private gains on a few purchases. ",
+                    " Alfred's financial situation is not good, and he has always been short of money.",
+                    " Although Alfred claimed to account for his whereabouts that afternoon, there were no witnesses to corroborate his story.",
+                    " Based on the clues provided, Alfred Creekside appears to be in financial trouble, has had issues with procurement during wartime, and has been involved in corrupt activities, which establishes a motive for him to commit the crime and leaves him without an alibi. Therefore, he is a suspect in the murder of the woman on the train."
+                ],
+                "clue_position": [
+                    1178,
+                    1597,
+                    1728,
+                    -1
+                ],
+                "answer_position": 1749
+            },
+            {
+                "question": " The most likely identity of the deceased is ( ).",
+                "options": {
+                    "A": " Anna Strzeminska",
+                    "B": " Matina Krikorian",
+                    "C": " A French woman",
+                    "D": " A foreign tourist"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " Anna was one of the dancers in the Mariinsky Ballet.",
+                    "B": " The clothes of the deceased were purchased in France.",
+                    "D": " The deceased is not a local, and may be a foreign female tourist visiting Britain."
+                },
+                "reasoning": [
+                    " The autopsy results indicate that the victim died approximately 2-3 weeks ago.",
+                    " The investigation of the deceased's clothing revealed that the purchase locations marked on the clothes were predominantly overseas, particularly in Paris. ",
+                    " Edmonton wrote in the letter that he was going to marry a French girl named Martine.",
+                    " Martina expressed in her letter that she would like to visit Emma in early December. ",
+                    " Based on the clues provided, it can be inferred that Martina is French, the clothes on the deceased were purchased in France, the deceased appeared at Lathford Manor, which corresponds to Martina's statement in the letter that she wanted to visit Emma, and the time of the deceased's appearance also matches Martina's statement in the letter that she would visit in early December. Therefore, it is very likely that the identity of the deceased is Martina."
+                ],
+                "clue_position": [
+                    618,
+                    1085,
+                    1292,
+                    1310,
+                    -1
+                ],
+                "answer_position": 1744
+            },
+            {
+                "question": " Anna's relationship with the deceased is ( ).",
+                "options": {
+                    "A": " Recognize or be familiar with the victim",
+                    "B": " Anna is the deceased.",
+                    "C": " Having Emotional Entanglement with the Dead",
+                    "D": " No relation to the deceased"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " She is likely to be familiar with Matina Krikidis.",
+                    "C": " These girls – and men too, have some tangles",
+                    "D": " Many people share this address. This address is actually a student dormitory."
+                },
+                "reasoning": [
+                    " Clark asked Inspector Weatherall to take the photograph of the body at Lashford Manor to the residence at 126 Rue de Crésange, Quartier 10, France, to see if they can find a woman who claims to be Mrs. Crickenshaw—or Mrs. Matilda Crickenshaw—who stayed there or received mail between December 15th and the end of the month.",
+                    " That evening, Krutoc received a telegram from Paris, which indicated that the information provided by Clarko matched the information given by Anna Stravinsky of the Mariinsky Ballet. ",
+                    " Anna's departure from France was around the same time as the victim's death. ",
+                    " Anna has a makeup box like the deceased's.",
+                    " Several girls and Anna's better girl looked at the photo after, and all thought that the girl looked a little like Anna.",
+                    " Based on the clues, Anna matches the information of the suspect in the police's eyes, and the time of her disappearance is also around the time the victim was killed. Anna also has a similar powder box to the victim, and Anna's friend noticed a resemblance between Anna and the victim after seeing the victim's photo. Therefore, it is inferred that Anna is the victim."
+                ],
+                "clue_position": [
+                    1347,
+                    1351,
+                    1516,
+                    1531,
+                    1538,
+                    -1
+                ],
+                "answer_position": 2800
+            },
+            {
+                "question": " The result of the victimized woman is ( )",
+                "options": {
+                    "A": " Disembark to seek medical treatment on the way",
+                    "B": " Buried under or near the embankment of Rutherford Manor",
+                    "C": " The murderer placed the body inside a large suitcase and transported it away.",
+                    "D": " Being hidden in the train"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " The woman didn't die after being strangled, she might have gotten off the train by herself.",
+                    "C": " You must have read the news about corpses being packed into suitcases.",
+                    "D": " The most likely possibility is that the body remained on the train."
+                },
+                "reasoning": [
+                    " There were no passengers or railway staff who discovered the body last night.",
+                    " Nowadays, travelers no longer carry luggage; they only bring handbags, which cannot accommodate a corpse. ",
+                    " The hospital does not have any admission records for women.",
+                    " Lucy observed a tree near the embankment of the railway, some of its branches had been broken, and noticed a piece of fur hanging on a thorn, which appeared to be the same color as the wood, a light brown.",
+                    " Lucy continued to search through the weeds along the edge of the embankment and found a powder box – a cheap piece of porcelain.",
+                    " Based on the clues provided, it is highly unlikely that the victim got off the train on her own accord, and there was no body found on the train, making it impossible for the killer to dispose of the body using a suitcase. Lucy found evidence such as a powder box and hair fragments near the embankment, indicating that the killer may have thrown the body out of the train as it passed through a bend near Lasserfield. "
+                ],
+                "clue_position": [
+                    131,
+                    134,
+                    139,
+                    395,
+                    396,
+                    -1
+                ],
+                "answer_position": 561
+            },
+            {
+                "question": " The murderer of the deceased is ( ).",
+                "options": {
+                    "A": " Alfred Crickenshaw",
+                    "B": " Camper",
+                    "C": " Sedrick",
+                    "D": " Brian Easton"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " There is no clear alibi",
+                    "C": " Will become the heir and he is a man.",
+                    "D": " His hair is golden, and it looks black when a little bit of something is applied to it."
+                },
+                "reasoning": [
+                    " Hillman said Mr. Crickenshaw's children would inherit a lot of money after his death. ",
+                    " Anna has mentioned that she has an English husband.",
+                    " Miss Marple hinted at a possible relationship between Camper and Emma, and said that Camper's wife died in childbirth.",
+                    " Camper encouraged Emma to go to the police station and inform the police about her brother's decision to marry Matina.",
+                    " The police believe the deceased to be Martina.",
+                    " The real Martina has appeared.",
+                    " Based on the clues, it can be inferred that Kempel wanted to marry the wealthy Emma, but since he was already married, he decided to kill his wife and then mislead the police into thinking the victim was Martina until the real Martina appeared. "
+                ],
+                "clue_position": [
+                    460,
+                    1570,
+                    1794,
+                    1231,
+                    1744,
+                    2525,
+                    -1
+                ],
+                "answer_position": 2782
+            }
+        ]
+    }
+]

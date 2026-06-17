@@ -1,0 +1,249 @@
+[
+    {
+        "novel_id": 118,
+        "num_paragraphs": 2884,
+        "time_cost": "9H",
+        "questions": [
+            {
+                "question": " Roli went to visit Enoch to ( )",
+                "options": {
+                    "A": " Provide help",
+                    "B": " Investigation of the cause of death",
+                    "C": " Inquire about a message",
+                    "D": " Inquire about weather changes"
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " Rolly provided help with directions when he first met Enoch",
+                    "B": " Rolly visited when the murder had not yet occurred",
+                    "D": "Raleigh was discussing the changes in weather with his wine friends"
+                },
+                "reasoning": [
+                    " Rolly felt a sense of familiarity when he first met Enoch. ",
+                    " Beatrice informed Rolly about the conversation she overheard between David and Enoch. ",
+                    " Rolly felt that Jeremy, the lawyer, was unable to resolve Gordon's inheritance issue. ",
+                    " Rolly wanted to confirm if Rosaline's first husband was still alive. ",
+                    " According to the clues provided, Rolly wants to visit Enoch after overhearing a conversation between Beatrice and Enoch, in order to confirm if Enoch was Rosalind's first husband and thus be entitled to a quarter of Gordon's will. Therefore, Rolly visits Enoch to inquire about the information."
+                ],
+                "clue_position": [
+                    759,
+                    1005,
+                    1032,
+                    1246,
+                    -1
+                ],
+                "answer_position": 1261
+            },
+            {
+                "question": " What are Roland's speculations about Rosalind's past?",
+                "options": {
+                    "A": " Rosaline was once an actress.",
+                    "B": " Rosaline has a brother in Canada.",
+                    "C": " Rosalind was once a fashion model.",
+                    "D": " Rosaline had a background in farm life before marrying Gordon Claude."
+                },
+                "answer": "D",
+                "distraction": {
+                    "A": " refers to the conversation mentioned in the text by David.",
+                    "B": " is Mrs. Marchmont's conjecture",
+                    "C": " Fashion models were the first impression of Rolly on Rosalind's appearance"
+                },
+                "reasoning": [
+                    " Rolly thought Rosaline looked better in more rustic clothing. ",
+                    " Rosaline is interested in the heifers at Rolly Farm.",
+                    " Rolly found that Rosaline was very knowledgeable about the farm matters.",
+                    " Based on the above clues, as Rosaline is suited to wearing rustic clothes, likes heifers and is very familiar with farm matters, it is inferred that Rosaline had a farm life experience before marrying Gordon. "
+                ],
+                "clue_position": [
+                    720,
+                    729,
+                    730,
+                    -1
+                ],
+                "answer_position": 731
+            },
+            {
+                "question": " In David's conversation with Enoch, Enoch mentions what secret would affect Rosalyn's inheritance of property?",
+                "options": {
+                    "A": " The issue of Gordon's will for Rosalind's second husband",
+                    "B": " Rosaline's first husband, André, may still be alive",
+                    "C": " Rosalyn had a child before marrying Gordon.",
+                    "D": " Rosaline's brother David is not actually her biological brother."
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " Gordon's will issue did not arise in David's conversation with Enoch. ",
+                    "C": " In David's description of Rosalyn's life, Rosalyn did not have any children with her first husband.",
+                    "D": " The speculation that David is not Rosaline's biological brother was mentioned in Mrs. MacIntyre's conversation with Lynn, and David's identity does not affect Rosaline's inheritance of her property. "
+                },
+                "reasoning": [
+                    " Gordon only had a prenuptial agreement, and it became null and void once Gordon and Rosalind were married.",
+                    " If Rosalyn's first husband had not died, then Rosalyn could not have been Mrs. Gordon. ",
+                    " Rosaline would face charges of bigamy if she married Gordon while her first husband was still alive. ",
+                    " According to the above clues, Inoke mentions that if Rosaline's first husband, Andersen, is still alive, then Gordon cannot marry Rosaline, and thus cannot inherit Gordon's estate, which affects the secret of Rosaline inheriting the property. This is because Rosaline's first husband, Andersen, may still be alive."
+                ],
+                "clue_position": [
+                    79,
+                    875,
+                    880,
+                    -1
+                ],
+                "answer_position": 907
+            },
+            {
+                "question": " According to Inspector Spence, which two individuals had the motive to commit the murder of Anders Hay?",
+                "options": {
+                    "A": " Rolly and Lynn",
+                    "B": " Rosaline and David",
+                    "C": " Jeremy and Lionel",
+                    "D": " Gordon and Rosalind "
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " The members of the Claude family had no motive for the crime.",
+                    "C": " The members of the Claud family had no motive to commit the crime.",
+                    "D": " The members of the Claude family had no motive for committing the crime."
+                },
+                "reasoning": [
+                    " Beatrice overhears a conversation in which Inoke threatens the Rosalind siblings with the news of André's survival.",
+                    " David admits that he met Andrew Hui before his death and had a conversation with him. ",
+                    " A Zippo lighter belonging to David was found under the body of André. ",
+                    " Gordon only made a prenuptial will, and it automatically became invalid after Gordon and Rosaline got married.",
+                    " If Roland's first husband, Andrei, had not died, then Roland could not have been Mrs. Gordon.",
+                    " Rosaline would face charges of bigamy if she married Gordon while her first husband was still alive.",
+                    " Based on the above clues, Inoke used the information that André is alive to threaten the Rosaline siblings, and if André is still alive, then Gordon and Rosaline cannot get married and cannot inherit Gordon's estate, so the Rosaline siblings have a motive to kill André. David also saw André before his death, and there was a lighter belonging to David under André's body. Therefore, Detective Spencer believes that Rosaline and David are the only ones with a motive to kill André."
+                ],
+                "clue_position": [
+                    1770,
+                    1803,
+                    1906,
+                    79,
+                    875,
+                    880,
+                    -1
+                ],
+                "answer_position": 1919
+            },
+            {
+                "question": " How did David create his alibi?",
+                "options": {
+                    "A": " Pretending to be someone else",
+                    "B": " Providing false alibi certificates",
+                    "C": " Cross-dressing",
+                    "D": " Counterfeit Train Tickets"
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " David did not disguise himself as someone else.",
+                    "B": " David did not provide false alibis",
+                    "C": " David did not forge the train ticket."
+                },
+                "reasoning": [
+                    " David expressed that he must run quickly at a quarter to nine, and he must catch the train to London at nine twenty. ",
+                    " David could not confirm that he took the last bus back to London at 9:20.",
+                    " Therefore, it is inferred that David did not take the last train back to London at 9:20. ",
+                    " Mrs. Lydbet saw a woman wearing an orange scarf, loose pants, and makeup on one evening. ",
+                    " The old lady identifies the woman as not being a tenant of the apartment.",
+                    " The old lady saw the woman come out of Room No. 5 at 11:15 p.m. on Tuesday. ",
+                    " After the woman returned to the room, the old lady heard a man's voice coming from inside the room.",
+                    " Found a lipstick in Room 5.",
+                    " The lipstick is Rosaline's.",
+                    " Based on the clues provided, David used Rosalind's items to dress up as a woman in order to create an alibi for himself. He intentionally let the elderly woman see him entering a room with a man's voice, leading everyone to believe that he had taken the last bus at 9:20 back to London. However, David was unable to provide evidence of taking the last bus at 9:20 back to London, so he created his alibi by dressing up as a woman. "
+                ],
+                "clue_position": [
+                    1081,
+                    2219,
+                    -1,
+                    2153,
+                    2154,
+                    2162,
+                    2164,
+                    2184,
+                    2187,
+                    -1
+                ],
+                "answer_position": 2804
+            },
+            {
+                "question": " What is Rosaline's true identity now?",
+                "options": {
+                    "A": " David's sister",
+                    "B": " A female Irish maid named Erin",
+                    "C": " A distant relative with blood ties to the Claudius family ",
+                    "D": " A woman who has business dealings with David"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " The text mentions a suspected identity.",
+                    "C": " The text mentions the suspected identity",
+                    "D": " The text mentions a suspected identity."
+                },
+                "reasoning": [
+                    " Erin has prayed in a Catholic church, while Rosalyn is not a Catholic.",
+                    " Ireland sent a photo of Erin, confirming her identity as a maid. ",
+                    " David is very good at flattering women, and Irene has a liking for David.",
+                    " Before Rosalyn had a chance to glance at André, David hurriedly took Rosalyn to London. ",
+                    " Enock might be Rosaline's ex-husband, André.",
+                    " Therefore, it can be inferred that David is concerned about Enoch discovering that Rosaline is actually a disguise of Irene, so he hastily sent Rosaline to London instead of directly letting her confirm if Enoch is her first husband, André. ",
+                    " Based on the clues provided, the current Rosaline is a fake, David deceived Eileen, who admired him, into pretending to be Rosaline, but Inoke's appearance disrupted his plans, leaving him no choice but to send Rosaline to London. Therefore, the real identity of the current Rosaline is an Irish maid named Eileen."
+                ],
+                "clue_position": [
+                    1975,
+                    2832,
+                    2837,
+                    2839,
+                    2839,
+                    -1,
+                    -1
+                ],
+                "answer_position": 2836
+            },
+            {
+                "question": " Who was the murderer of Inoke?",
+                "options": {
+                    "A": " Rolly",
+                    "B": " Lynn",
+                    "C": " Francis",
+                    "D": " Eileen"
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " Suspects mentioned in the text.",
+                    "C": " The suspect mentioned in the text is:",
+                    "D": " The suspect mentioned in the text is..."
+                },
+                "reasoning": [
+                    " Rolly had visited Francis' house and suddenly left in a hurry.",
+                    " Edward Trunnion's photo is displayed in the living room of Francis's house.",
+                    " Francis's father shares distinct family features with a person claiming to be Enock.",
+                    " Francis admits that she and her husband hired Charles, her cousin, to extort money from David. ",
+                    " Rolly realized that it was the Francis couple who were trying to pull a trick on Rosalyn to get money from her while visiting their house.",
+                    " Therefore, it is speculated that Rollie returned to Room 5 at Stagg's that night to confront Enoch, and after realizing that his family had deceived him, he violently attacked Enoch in a fit of rage.",
+                    " The head of the pliers is stained with rust-brown stains, and someone used it to smash the back of the victim's skull, Innes. ",
+                    " The crime scene left a golden lighter.",
+                    " Rolly took the gold-plated lighter from Rosaline's hand, which looked quite valuable. ",
+                    " Rolly mentioned that the lighter fell on the corpse and saw the initials D.H. (David's abbreviation in English) on it. ",
+                    " David admits that the lighter was his, but the lighter has already been lost.",
+                    " Therefore, it can be inferred that Rolly borrowed David's lighter, which accidentally fell on the corpse, to frame David. ",
+                    " Based on the above clues, it can be inferred that Rolle discovered the truth about the fraud and, in a fit of rage, murdered Inoke. To cover up the truth, Rolle smashed Inoke's skull with a fire tongs, staged the scene to look like an accident, and framed David with a dropped lighter, making Rolle the killer of Inoke. "
+                ],
+                "clue_position": [
+                    1032,
+                    2228,
+                    2359,
+                    2336,
+                    2366,
+                    -1,
+                    1231,
+                    1300,
+                    1824,
+                    2875,
+                    726,
+                    -1,
+                    -1
+                ],
+                "answer_position": 2786
+            }
+        ]
+    }
+]

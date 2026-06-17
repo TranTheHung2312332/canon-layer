@@ -1,0 +1,189 @@
+[
+    {
+        "novel_id": 145,
+        "num_paragraphs": 2648,
+        "time_cost": "9H",
+        "questions": [
+            {
+                "question": " What happened to Demetrius West?",
+                "options": {
+                    "A": " The argument at Arlington Knight's house",
+                    "B": " Suspect in the Murder of Sir Arlington",
+                    "C": " He revealed a conspiracy.",
+                    "D": " His relationship with Claire Trent improved."
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " The argument between DeMott and Sir Arlington took place at DeMott's apartment, not at Sir Arlington's residence.",
+                    "C": " Demott realized Trent's conspiracy, but it was not the direct cause for him to reveal the conspiracy.",
+                    "D": " The relationship between Desmond and Claire goes through complex changes in the story, but is not the direct factor responsible for their relationship improvement."
+                },
+                "reasoning": [
+                    " DeMott loves Claire. If she wants to be with DeMott, DeMott will take her away – far away – out of the reach of those meddling doctors who want to control her life. DeMott will protect her, care for her, and use his love to shield her.",
+                    " Sir Arlington stated that if DeMott did such a dishonorable thing, Sir Arlington would revoke all rights granted to DeMott and would draft a new will, leaving all his possessions to several hospitals.",
+                    " Demot argued with Arlington, saying he wanted to kill him.",
+                    " These clues suggest a potential motive for DeMott's murder.",
+                    " Demott was not back until very late when the murder of Sir Arlington occurred. ",
+                    " In Demot's apartment, the police found a revolver that had been fired recently. ",
+                    " Based on the above clues, DeMott argued with Arlington to be with Claire, and Arlington refused, saying that if so, he would revoke his will and leave DeMott out, DeMott threatened to kill Arlington, and it is inferred that DeMott West had a motive to kill, had no alibi, and possessed the weapon, which led to him becoming a suspect in the murder of Arlington."
+                ],
+                "clue_position": [
+                    404,
+                    408,
+                    411,
+                    -1,
+                    475,
+                    466,
+                    -1
+                ],
+                "answer_position": 519
+            },
+            {
+                "question": " What disease does Felicity Bauer suffer from?",
+                "options": {
+                    "A": " Schizophrenia.",
+                    "B": " Bipolar Disorder.",
+                    "C": " Dissociative Identity Disorder.",
+                    "D": " Severe depression."
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " The text does not directly mention that Felicity suffers from schizophrenia.",
+                    "B": " The text does not directly mention that Felicity suffers from bipolar affective disorder.",
+                    "D": " The text does not directly state that Felicity suffers from severe depression. "
+                },
+                "reasoning": [
+                    " Feili Si was extremely dull and stupid, having only learned to read and write in a very difficult and clumsy way. However, she showed talent in many aspects. However, due to her stupidity and extreme laziness, she could not persist in any aspect. ",
+                    " Dissociative identity disorder often accompanies memory loss. ",
+                    " Fei Lisi does not remember playing the piano for Mr. Raul this morning.",
+                    " At least four distinct personalities can be identified in Félicité. They are referred to as Félicité 1, Félicité 2, Félicité 3, and so on.",
+                    " Based on the above inference, Felicia is extremely dull and stupid, yet shows talent in many aspects, but because Felicia is extremely dull and stupid, she cannot persist, and she has even forgotten that she can play the piano. Dual personality often accompanies memory loss, so Felicia's condition meets the criteria for dual personality disorder. "
+                ],
+                "clue_position": [
+                    577,
+                    570,
+                    695,
+                    575,
+                    -1
+                ],
+                "answer_position": 709
+            },
+            {
+                "question": " The presence of the little boy has what kind of impact on Jeffrey?",
+                "options": {
+                    "A": " Making him feel fearful and uneasy.",
+                    "B": " Stimulated his curiosity and exploratory nature.",
+                    "C": " Let him feel sympathy and want to help him. ",
+                    "D": " Make him appreciate friendship in real life more."
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " Jeffery's desire to play with the little boy indicates that he does not feel fearful.",
+                    "B": " Has not sparked his curiosity.",
+                    "D": " It does not specifically mention the role of Jeffrey's friendship in reality."
+                },
+                "reasoning": [
+                    " The little boy looked so lonely and unhappy. Jeffrey wanted to make him feel 'better'.",
+                    " Jeffrey's condition is getting worse, and in his unconscious state, he keeps talking to the 'little boy' in hopes of helping him leave, truly hoping so. ",
+                    " Based on the above inferences, Jeffrey is very kind, showing great sympathy and doing his best to help the little boy. "
+                ],
+                "clue_position": [
+                    907,
+                    577,
+                    -1
+                ],
+                "answer_position": 938
+            },
+            {
+                "question": " What factor directly led to the death of Lady Hart?",
+                "options": {
+                    "A": " Natural death.",
+                    "B": " Heart attack.",
+                    "C": " Charles Richet's Murder Plan.",
+                    "D": " Accident."
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " Although related to Lady Hart's health condition, her death was actually caused by human intervention. ",
+                    "B": " Although related to Lady Hart's health condition, Charles' plan triggered Lady Hart's heart attack.",
+                    "D": " Not mentioned in the story, therefore not the cause of death of Lady Hart."
+                },
+                "reasoning": [
+                    " Despite Mrs. Hart's strong resistance to installing appliances, Charles made a strong case to persuade her.",
+                    " Charles prepares the radio for Hart's wife to insert the voice of her late husband into the radio sound. ",
+                    " Horror! It's sweeping over her now. ",
+                    " In the dim light at the entrance, a familiar silhouette stands. He has a full beard and is dressed in vintage clothing from the Victorian era. ",
+                    " Based on the above inference, Charles used radio to make Hart's wife hear the voice and see the figure of her late husband, causing her to become tense and fearful, which ultimately led to her heart attack. Therefore, it can be concluded that Hart's death was due to Charles' murder."
+                ],
+                "clue_position": [
+                    966,
+                    990,
+                    1064,
+                    1067,
+                    -1
+                ],
+                "answer_position": 1078
+            },
+            {
+                "question": " Leonard Wal's behavior on the night of the incident was what?",
+                "options": {
+                    "A": " He spent time at home with Roman Helge.",
+                    "B": " He was at the crime scene.",
+                    "C": " He left Miss Emily French's house before the incident occurred. ",
+                    "D": " He was with another woman on the night of the incident."
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " In accordance with Roman Halek's false testimony, but her testimony was later revealed to be false.",
+                    "C": " The defense of Leonard Wohl's argued facts, but the prosecution attempted to refute this through the testimony of Roman Haering. ",
+                    "D": " Mr. Mehn's findings during the investigation contradicted Mr. Roman Haleg's false testimony."
+                },
+                "reasoning": [
+                    " If I tell you that night when he entered, he confessed everything to me. Moreover, his clothes had bloodstains on them.",
+                    " Wolfs said, 'He wants me to say he came home at 9:20 that night.'",
+                    " No one saw Leonard Walch walk into his own home, nor did anyone see him leave Miss French's house.",
+                    " Based on the bloodstains on Leonard's cuff, the conversation between Wolf and the lawyer, and the absence of any eyewitnesses, it can be inferred that Leonard was present at the scene of the crime on the night in question."
+                ],
+                "clue_position": [
+                    1289,
+                    1265,
+                    1323,
+                    -1
+                ],
+                "answer_position": 1382
+            },
+            {
+                "question": " 200] Why did Hammurabi ultimately decide to give up his wealth?",
+                "options": {
+                    "A": " He yearns for a higher spiritual level of life.",
+                    "B": " He believes he cannot bear the responsibilities that come with wealth.",
+                    "C": " He was influenced by the music of street performers and believed that wealth was evil.",
+                    "D": " He wants to evade legal prosecution."
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " Although Hammurabi did indeed experience the pressures and fears that came with wealth in the story, this was not the main reason for his decision to give up wealth. His choice was more driven by his pursuit of spiritual freedom rather than avoiding responsibility. ",
+                    "C": " The story does not explicitly state that Hammurabi believed wealth itself was evil. ",
+                    "D": " There is no mention of any illegal activities or situations where Hammel needs to evade legal prosecution. "
+                },
+                "reasoning": [
+                    " Hammurabi realized that death comes equally to rich and poor.",
+                    " He suddenly realized that the music had stopped, and Sérés Hamel clutched the vault like a madman. ",
+                    " Hammers wanted to know what music was being played on the street just now.",
+                    " Music took Hammel through a different experience",
+                    " It can be seen that the music of street performers allows Hammel to experience joy beyond the pleasure brought by money.",
+                    " After experiencing a series of supernatural events, Hammurabi began to yearn for transcending the limitations of the material world and pursuing spiritual freedom. He realized that wealth could not bring him true fulfillment, so he decided to abandon wealth and pursue a higher spiritual level of life. "
+                ],
+                "clue_position": [
+                    2008,
+                    2017,
+                    2025,
+                    2074,
+                    -1,
+                    -1
+                ],
+                "answer_position": 2135
+            }
+        ]
+    }
+]

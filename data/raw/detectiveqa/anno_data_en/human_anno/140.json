@@ -1,0 +1,179 @@
+[
+    {
+        "novel_id": 140,
+        "num_paragraphs": 2265,
+        "time_cost": "10H",
+        "questions": [
+            {
+                "question": " What did Gwendolyn do after possibly discovering a murder case?",
+                "options": {
+                    "A": " Gwendolyn shares her fear with Miss Marple",
+                    "B": " Aunt Alison provided information about Gwendra's childhood.",
+                    "C": " Seeking the help of a doctor",
+                    "D": " Gwendolyn and Jules maintain communication"
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " Contact her aunt Alison to learn about her childhood that was not contacted.",
+                    "C": " Sharing with Miss Marple without directly seeking a doctor",
+                    "D": " No communication with Jiles has been mentioned"
+                },
+                "reasoning": [
+                    " Gwendolyn felt extremely terrified, and Miss Maple walked in to comfort her.",
+                    " Miss Marple asked Gwendolen for the reason of her fear.",
+                    " Gwendal accepted Miss Marple's suggestion and shared with her the reason for her fear.",
+                    " Based on the above inferences, Gwendolyn may have discovered the possibility of a murder case first, and Miss Marple shared her fear."
+                ],
+                "clue_position": [
+                    181,
+                    204,
+                    220,
+                    -1
+                ],
+                "answer_position": 221
+            },
+            {
+                "question": " What mainly causes Kervin's illusion ( )",
+                "options": {
+                    "A": " Phantoms were created due to social pressure and concerns about reputation.",
+                    "B": " Suffered from immense psychological pressure due to the intense emotions for Helen and the fear of her potential betrayal.",
+                    "C": " Kevin's experiences in India may have made him more sensitive to certain cultural superstitions.",
+                    "D": " A mysterious \"X\" character manipulates Kervin "
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " Is not the direct cause of hallucination.",
+                    "C": " There is no specific indication that cultural superstition is the key cause of hallucinations.",
+                    "D": " There is no direct evidence that this person manipulated Kevin."
+                },
+                "reasoning": [
+                    " Calvin expressed his concerns about Helen in his diary, including his suspicion that she might have poisoned his food, and his worries about her potentially betraying him.",
+                    " Dr. Penrose mentioned Kelvin's psychological state in his conversation with Jiles and Gwendra.",
+                    " Helen's disappearance after leaving a note may have caused Kevin to feel extreme anxiety and guilt. ",
+                    " According to the above inference, the main cause of the Kervin illusion is the immense psychological pressure resulting from strong emotions and fear of betrayal towards Helen. "
+                ],
+                "clue_position": [
+                    799,
+                    770,
+                    668,
+                    -1
+                ],
+                "answer_position": 808
+            },
+            {
+                "question": " Motivation for Kelvin's suicide ( )",
+                "options": {
+                    "A": " The economic pressure led Kevin to commit suicide. ",
+                    "B": " Kylvin's suicide was induced by 'X' character.",
+                    "C": " Kevin firmly believes that he murdered his wife, Helen, and the intense guilt leads him to commit suicide. ",
+                    "D": " Calvin committed suicide due to his anger towards Helen."
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " There is no mention of Calvin facing an economic hardship.",
+                    "B": " There is no direct evidence to support this hypothesis.",
+                    "D": " The article delves deeper into his profound affection and guilt towards Helen."
+                },
+                "reasoning": [
+                    " When discussing the reasons for suicide, mention Calvin's desire for punishment.",
+                    " Dr. Penrose mentioned Kelvin's psychological state in his conversation with Giles and Gwendraith, including his feelings of guilt and hallucinations. ",
+                    " Calvin recorded his doubts about Helen and his belief that he had killed her in his diary. ",
+                    " Based on the above inferences, Calvin believed that he had killed his wife, resulting in an unstable psychological state and a desire for punishment. Therefore, Calvin's suicide motive was a sense of guilt for believing he had killed his wife."
+                ],
+                "clue_position": [
+                    779,
+                    781,
+                    800,
+                    -1
+                ],
+                "answer_position": 802
+            },
+            {
+                "question": " The real reason why Helen disappeared ( )",
+                "options": {
+                    "A": " Murdered",
+                    "B": " Due to personal health reasons, I had to leave.",
+                    "C": " Eloping with a man",
+                    "D": " Family Internal Conflict and Running Away from Home"
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " There is no direct evidence in the text to support the idea that the disappearance is related to the physical condition.",
+                    "C": " The letters sent after Helen's disappearance were suspected to be forgeries, possibly indicating someone's attempt to create the illusion that Helen is still alive and away, as Helen had mentioned shortly before her disappearance that she had bought a house in Norfolk, suggesting she had plans to settle down rather than eloping.",
+                    "D": " There is no evidence to suggest that Helen's disappearance was due to family conflicts. "
+                },
+                "reasoning": [
+                    " Gwendolyn recalls her experience of someone being murdered at the theater.",
+                    " Gwendolyn states that the person being murdered in her memory is Helen, but she also doesn't know why she would say Helen's name, as she doesn't know anyone named Helen.",
+                    " Kevin is convinced that he killed Helen.",
+                    " Edith Peggett provided details about the night Helen went missing, indicating that Helen did not leave under normal circumstances. ",
+                    " Based on Gwendalyn's recollection of events, Calvin's visions, and Edith Pargeter's description of Helen's disappearance, it is concluded that Helen's disappearance was caused by murder."
+                ],
+                "clue_position": [
+                    227,
+                    233,
+                    683,
+                    1770,
+                    -1
+                ],
+                "answer_position": 2188
+            },
+            {
+                "question": " Murderer of Lily ( )",
+                "options": {
+                    "A": " Colonel Erskine.",
+                    "B": " Walter Feynman.",
+                    "C": " Jackie Aflak.",
+                    "D": " Dr. Kennedy."
+                },
+                "answer": "D",
+                "distraction": {
+                    "A": " According to a phone call confirmation, Captain Erskine was at home doing household chores at the time of the incident, which led to his exclusion from suspicion.",
+                    "B": " Walter Fine had a reliable alibi when Lily was killed. ",
+                    "C": " There is no direct evidence and sufficient motivation."
+                },
+                "reasoning": [
+                    " Lily mentioned some details about the night Helen went missing in her letter to Dr. Kennedy, which posed a threat to the suspect.",
+                    " Lily's death occurred after she planned to meet Dr. Kennedy at the Woodray Camp, which provided an opportunity for Kennedy. ",
+                    " Lily often talks to Mr. Gibson about Helen being murdered, which makes Mr. Kennedy uneasy. ",
+                    " According to the clues provided, Lily describes the details of Helen's disappearance, mentioning that Helen's murder caused anxiety and threats to Kennedy, Lily's plan to meet Kennedy before her death, and concludes that Dr. Kennedy is the one who killed Lily. "
+                ],
+                "clue_position": [
+                    1917,
+                    1888,
+                    1937,
+                    -1
+                ],
+                "answer_position": 2187
+            },
+            {
+                "question": " Who is the true killer of Helen?",
+                "options": {
+                    "A": " Captain Esquen.",
+                    "B": " Walter Fehr.",
+                    "C": " Jackie Aflieck.",
+                    "D": " Dr. Kennedy."
+                },
+                "answer": "D",
+                "distraction": {
+                    "A": " Captain Erskine had a past emotional entanglement with Helen, but the story did not provide sufficient evidence to suggest that he had a strong enough motive to kill her.",
+                    "B": " There is not enough evidence to suggest that he had a direct motive to kill Helen. ",
+                    "C": " Afriki's personality and behavior do not match the characteristics of the perpetrator, there is no direct evidence and sufficient motivation."
+                },
+                "reasoning": [
+                    " Dr. Kennedy deliberately placed the knife in the middle of the lane to injure Helen, not wanting her to continue dancing.",
+                    " Dr. Kennedy poisoned the whiskey to prevent Giles and Gwendolyn from continuing their investigation and uncovering the truth.",
+                    " Gwendal's hands appeared damp, shiny, and oddly pale gray due to wearing medical rubber gloves, which further intensified her suspicion of Dr. Kennedy.",
+                    " Based on the above inference, it can be concluded that Dr. Kennedy's actions were extremely extreme, with a strong desire for control and possession over Helen, which led to his murder of her. "
+                ],
+                "clue_position": [
+                    1563,
+                    2148,
+                    2180,
+                    -1
+                ],
+                "answer_position": 2187
+            }
+        ]
+    }
+]

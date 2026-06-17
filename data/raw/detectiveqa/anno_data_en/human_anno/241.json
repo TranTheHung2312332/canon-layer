@@ -1,0 +1,255 @@
+[
+    {
+        "novel_id": 241,
+        "num_paragraphs": 3271,
+        "time_cost": 480,
+        "questions": [
+            {
+                "question": " Why was Bobby poisoned?",
+                "options": {
+                    "A": " Enemies for revenge on him",
+                    "B": " Crazy people wandering around give him medicine",
+                    "C": " It has something to do with Pritchard's fall.",
+                    "D": " Bob tried varying the dosage of the drug to assess its potential risks"
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " The analysis of poisoning is mentioned in the text.",
+                    "B": " The text mentions the possibility of being poisoned.",
+                    "D": " The content related to poisoning mentioned in the text"
+                },
+                "reasoning": [
+                    " On the day Prichard fell off the cliff, Bobby was the first one to arrive there.",
+                    " Bob and Kaman have mentioned that he served in the Navy previously.",
+                    " Following this, Bob received a letter stating that retired navy personnel were the company's top choice. He had to make an immediate decision on whether to accept the job or not, and Bob also had to be prepared to leave for Buenos Aires within a week.",
+                    " Bob saw a photo of a woman inside Prichard's clothes.",
+                    " The photo in the newspaper is not the same as what Bobby saw.",
+                    " Bob might have seen something he shouldn't have, the suspect tries to get rid of Bob by offering him a job overseas. If Bob doesn't go, they'll have to find a way to get rid of him. ",
+                    " The Keenan couple asked if Bobby Prichard had any last words before he died.",
+                    " Bob was the first to arrive at the crime scene, and the suspect feared that he might have seen different photos or that the victim had said something to him, so they wanted to eliminate Bob. ",
+                    " Thus, the suspect poisoned and killed Bobby. "
+                ],
+                "clue_position": [
+                    582,
+                    319,
+                    394,
+                    323,
+                    643,
+                    590,
+                    297,
+                    -1,
+                    -1
+                ],
+                "answer_position": 699
+            },
+            {
+                "question": " What is the real name of Prichard?",
+                "options": {
+                    "A": " Alan Castells",
+                    "B": " Bobbi",
+                    "C": " Levene",
+                    "D": " Nicolson"
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " The article mentions the characters involved in the case.",
+                    "C": " The characters mentioned in the text are:",
+                    "D": " The characters mentioned in the text are:"
+                },
+                "reasoning": [
+                    " Mrs. Rivington confirmed that Castles went to Grange.",
+                    " Alan Castles saw Mrs. Nicholson before he fell off the cliff at Grange. ",
+                    " The evidence proves that Alan Castles was in Grange at the time of the incident.",
+                    " Alan Castells was not closely related to anyone in Grantham, so his disappearance would not attract attention for some time.",
+                    " Mrs. Kimmel falsely claimed that the cliff jumper was her brother, Mr. Prichard, in order to hasten the identification of the body and have the cause of death ruled as accidental.",
+                    " Sylvia has seen the photo of the cliff jumper, indicating that she has seen this person.",
+                    " Mr. and Mrs. Winton brought Alan Castles to Sylvia for lunch. ",
+                    " Sylvia indicates that the person in the photo is Alan Castells.",
+                    " Therefore, Pritchard's true identity is Allen Castles."
+                ],
+                "clue_position": [
+                    2379,
+                    1802,
+                    -1,
+                    1264,
+                    706,
+                    1241,
+                    1256,
+                    -1,
+                    -1
+                ],
+                "answer_position": 2445
+            },
+            {
+                "question": " Henry's wife Sylvia on his drug use situation: ",
+                "options": {
+                    "A": " Knowing nothing",
+                    "B": " Early detection",
+                    "C": " Not convinced",
+                    "D": " I advised him to quit drugs"
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " The character traits mentioned in the text are:",
+                    "C": " Character traits mentioned in the text",
+                    "D": " Characteristics of the characters mentioned in the text:"
+                },
+                "reasoning": [
+                    " Sylvia's reaction to Henry's drug use was one of shock. ",
+                    " Sylvia thought Henry was particularly upset.",
+                    " Sylvia was shocked to hear Henry had been using drugs, and leaped to her feet.",
+                    " Sylvia's voice was choked with horror.",
+                    " In summary, based on Sylvia's response, we can conclude that she has no knowledge of Henry's drug use situation."
+                ],
+                "clue_position": [
+                    1330,
+                    1331,
+                    1695,
+                    1698,
+                    -1
+                ],
+                "answer_position": 1704
+            },
+            {
+                "question": " Based on the current clues, who killed Henry?",
+                "options": {
+                    "A": " Roger",
+                    "B": " Sylvia",
+                    "C": " Lichfield",
+                    "D": " Dr. Nicholasson"
+                },
+                "answer": "D",
+                "distraction": {
+                    "A": " The article mentions the suspect.",
+                    "B": " The text mentions that Sylvia may have been involved in a murder.",
+                    "C": " The text mentions the relationship between Riven and the victim."
+                },
+                "reasoning": [
+                    " Nicolson wanted to marry Henry's wife, Sylvia, even though Nicolson already had a wife, Moira. ",
+                    " Dr. Nicholason is a doctor who can exert some control over Mr. Henry.",
+                    " Nicholas wanted to bring Henry to the Grantham Sanitarium, a sanitarium that Nicholas ran, pretending to treat him.",
+                    " It can be inferred that Nicholson had a motive to harm Henry in order to obtain his wife.",
+                    " The door to the scene of Henry's death was locked from the inside.",
+                    " However, Dr. Nicholson was the first to find the key to the door, which could have been placed in the deceased's pocket beforehand, and then feigned to have discovered it. ",
+                    " This proves that Henry locked the door himself and faked his suicide.",
+                    " Roger broke the glass at the crime scene, and then Nicholson arrived at the scene. He appeared suddenly, as if to prove that he was not at the first crime scene.",
+                    " Thus, with the motive to obtain Henry's wife, Nicholson faked Henry's suicide scene and killed Henry.",
+                    " Therefore, based on the given clues, it can be inferred that Nelson is the killer of Henry."
+                ],
+                "clue_position": [
+                    1759,
+                    1767,
+                    1763,
+                    -1,
+                    2205,
+                    2220,
+                    -1,
+                    2214,
+                    -1,
+                    -1
+                ],
+                "answer_position": 2242
+            },
+            {
+                "question": " \"Nicholson says Moira left, where did she go?\"",
+                "options": {
+                    "A": "England",
+                    "B": " Paddington",
+                    "C": " London",
+                    "D": "Still in Staffelly"
+                },
+                "answer": "D",
+                "distraction": {
+                    "A": "The location mentioned in the text",
+                    "B": " The locations mentioned in the text are:",
+                    "C": " Locations mentioned in the text:"
+                },
+                "reasoning": [
+                    " Nicolson indicates that Moira went to London.",
+                    " Moira clearly stated that she had no money and nowhere to go.",
+                    " Moira left without saying a word. This is unusual.",
+                    " Based on the clues provided, it can be inferred that Mira is unable to communicate with the outside world and has been imprisoned by Nicholson. ",
+                    " So, Nicolson is lying, and Moira is still imprisoned at Stavri."
+                ],
+                "clue_position": [
+                    2305,
+                    2069,
+                    2322,
+                    2494,
+                    -1
+                ],
+                "answer_position": 2868
+            },
+            {
+                "question": " Who is Moira's true identity?",
+                "options": {
+                    "A": " Mrs. Kemman",
+                    "B": " Mrs. Nicholson",
+                    "C": " Mrs. Templeton",
+                    "D": " Mrs. Roberts"
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " The possible identities mentioned in the text are:",
+                    "B": " The identities mentioned in the text are:",
+                    "D": " The characters mentioned in the text are:"
+                },
+                "reasoning": [
+                    " Description of Mrs. Templeton by the vicarage people, everyone said she was a particularly good lady.",
+                    " No servant would call Kaman Madam a particularly good lady. ",
+                    " Moira often appears in the priest's residence.",
+                    " Roger Baskingham-French mentioned Moira's identity in his letter.",
+                    " Moira was involved in drug deals and used different aliases when she traveled. ",
+                    " Therefore, based on Moira's movements and the elimination of Mrs. Keaman's suspicions, Moira's true identity is Mrs. Templeton."
+                ],
+                "clue_position": [
+                    3238,
+                    3238,
+                    3072,
+                    3176,
+                    3183,
+                    -1
+                ],
+                "answer_position": 3239
+            },
+            {
+                "question": " Who pushed Castles off the cliff?",
+                "options": {
+                    "A": " Roger",
+                    "B": " The Kaiman couple",
+                    "C": " Savage",
+                    "D": " Bobbi"
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " The case involves the following individuals mentioned in the text:",
+                    "C": " The text mentions people related to the cliff hanger.",
+                    "D": " The first person to appear at the scene of the crime"
+                },
+                "reasoning": [
+                    " After Bobbie left, the photos on the cliff jumper were replaced. The only one present was Roger. ",
+                    " Roger expressed that the deceased had little resemblance to Cagithayles when viewing his photo.",
+                    " Explain that Roger has seen the deceased.",
+                    " \"Roger says that the person who died was not Castles.\"",
+                    " Roger said he didn't see the face of the deceased, as it was covered with a handkerchief.",
+                    " This indicates that Roger is lying, as he claims there are not many similarities while also stating that he has never seen the deceased's face. These two statements are contradictory.",
+                    " Castells learned some truths about the death of his friend Savage.",
+                    " Roger forged Savich's will and drugged Savich to death. ",
+                    " In summary, Roger was afraid that Castles would discover his fear of killing Savage and forging the will, and pushed him off the cliff."
+                ],
+                "clue_position": [
+                    651,
+                    1246,
+                    -1,
+                    1999,
+                    2005,
+                    -1,
+                    2474,
+                    3038,
+                    -1
+                ],
+                "answer_position": 3192
+            }
+        ]
+    }
+]

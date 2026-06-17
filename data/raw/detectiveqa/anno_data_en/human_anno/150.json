@@ -1,0 +1,225 @@
+[
+    {
+        "novel_id": 150,
+        "num_paragraphs": 2572,
+        "time_cost": "10H",
+        "questions": [
+            {
+                "question": " According to Sophia, what situation do she and her family face?",
+                "options": {
+                    "A": " May leave the UK at any time",
+                    "B": " Inheriting a large fortune",
+                    "C": " Being monitored by unknown people poses a danger.",
+                    "D": " Need to hide"
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " The article mentions that the Sophia family, who are extremely sad due to the death of their grandfather, may leave Britain at any moment. ",
+                    "B": " Since the grandfather's passing, the Sophia family will inherit his substantial estate.",
+                    "D": " The article mentions that the Sophia family is at risk of being harmed. "
+                },
+                "reasoning": [
+                    " A somewhat stoic, handsome man resembling a veteran followed Sophia from the platform of Swinley station to Mario's restaurant.",
+                    " Sophia states that she and her family were being watched, and the police had subtly hinted that they should not leave the house. ",
+                    " Sophia climbed out of the bathroom window and slid down the pipes to meet Charles.",
+                    " Based on the clues provided, Sophia was being tracked, and the police had warned her not to leave the house, and she met Charles by climbing out of the bathroom window. Therefore, Sophia's family is in danger of being monitored by unknown individuals."
+                ],
+                "clue_position": [
+                    100,
+                    104,
+                    106,
+                    -1
+                ],
+                "answer_position": 133
+            },
+            {
+                "question": " When Sophia suggests that Brenda and Lawrence might have conspired to kill Aristide, Charles finds the inference 'a bit far-fetched' because of the following reasons:",
+                "options": {
+                    "A": " Brenda sympathizes with Lawrence",
+                    "B": " Brenda has a psychological desire for wealth and a comfortable life.",
+                    "C": " Sophia's family treated Brenda unfairly.",
+                    "D": " Brenda is very afraid."
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " Brenda states that I am just sympathetic to Lawrence, wanting to encourage him to pick himself up, and I am friends with Lawrence, that's all.",
+                    "C": " \"Sophia\" expressed that she certainly didn't give \"Brenda\" a good face. Why should she be nice to \"Brenda\"?",
+                    "D": " Lawrence states that Brenda is very, very afraid, not at all like someone who would harm others. "
+                },
+                "reasoning": [
+                    " Brenda expresses that she is both happy and secure with Aristide, being able to visit all fashionable clothing stores that make her feel she is not inferior to anyone, and Aristide often gives her some cute things. ",
+                    " Brenda states that Aristide promised her that she could marry him immediately, allowing Brenda to have an endless number of stores, restaurants, and nightclubs, like a mythical tale. ",
+                    " According to the clues given, Brenda has a desire for wealth and a comfortable life, while Aristide can make her feel as good as anyone else, and can offer her a marriage and unlimited wealth. Therefore, Charles' inference that Brenda and Lawrence may have conspired to kill Aristide seems a bit far-fetched. "
+                ],
+                "clue_position": [
+                    801,
+                    808,
+                    -1
+                ],
+                "answer_position": 863
+            },
+            {
+                "question": " Aristide's death should be attributed to?",
+                "options": {
+                    "A": " Shot, fatally hit",
+                    "B": " Placing toxins in an insulin bottle resulted in their poisoning and death.",
+                    "C": " Natural Death",
+                    "D": " Assassination by enemies"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " The text states that the body does not have gunshot wounds. ",
+                    "C": " The text states that Aristide, despite being eighty-five years old, has remained in good health.",
+                    "D": " The text states that Aristide managed to exploit legal loopholes, but had no enemies."
+                },
+                "reasoning": [
+                    " Sophia stated that the doctors were uncertain and refused to issue a death certificate, and the police were preparing for an autopsy.",
+                    " 200: Tafana states that Aristide has diabetes and must inject insulin regularly. The insulin is drawn from a small bottle with a rubber cap, and the subcutaneous injection needle penetrates the rubber cap, allowing the injection liquid to be drawn up.",
+                    " The doctor stated that Aristide died from strychnine poisoning. ",
+                    " According to the above clues, the doctor refused to issue a death certificate, suspecting Aristide's death was not normal. After investigation, it was confirmed that Aristide died from poisoning by ricin. It is suspected that someone replaced Aristide's required insulin injections with ricin, and Aristide was poisoned through subcutaneous injections."
+                ],
+                "clue_position": [
+                    77,
+                    215,
+                    212,
+                    -1
+                ],
+                "answer_position": 217
+            },
+            {
+                "question": " Who does Charles think has a motive to poison Aristotle?",
+                "options": {
+                    "A": " Roger",
+                    "B": " Clementine",
+                    "C": " Brenda",
+                    "D": " Philip"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " The text indicates that Roger has great admiration for Aristide. ",
+                    "C": " The text states that Brenda had no motive to poison.",
+                    "D": " The text expresses that Philip was jealous of the elder's affection, but would not kill him because of it."
+                },
+                "reasoning": [
+                    " Roger's banquet company is on the verge of bankruptcy. ",
+                    " Roger does not want to accept his father's help and wants to escape to a foreign country, believing that his wife Clementine will share his hardships with him.",
+                    " Roger stated that Aristide expressed in the letter his determination to save the company and bring the catering company back on track. ",
+                    " After receiving the letter, Roger returned to his residence, where his wife Clementine had just returned from outside. ",
+                    " This suggests that Clementine is unaware of Aristide's insistence on saving the company. ",
+                    " According to the above clues, Roger's catering company faces bankruptcy risk, and Roger refuses to accept his father's help, wanting to escape to a foreign country with his wife, who is unaware that Aristide insists on saving Roger's company. As a result, Charles believes that Clemence has a motive to poison Aristide."
+                ],
+                "clue_position": [
+                    1189,
+                    1198,
+                    1207,
+                    1222,
+                    -1,
+                    -1
+                ],
+                "answer_position": 1427
+            },
+            {
+                "question": " Who is the real killer of Aristide?",
+                "options": {
+                    "A": " Clementine",
+                    "B": " Josephine",
+                    "C": " Edith",
+                    "D": " Brenda"
+                },
+                "answer": "B",
+                "distraction": {
+                    "A": " The text indicates that Clementine seems to be fascinated by the plight of the proletariat, and Clementine dislikes money. ",
+                    "C": " The text states that Edith confesses to the murder of Aristide in order to protect the real killer.",
+                    "D": " In the text, Aristide mentioned that if Brenda made a mistake and injected eye drops instead of insulin, he would take a deep breath and turn blue, as you all know, my heart is not in good condition."
+                },
+                "reasoning": [
+                    " Josephine is very intelligent.",
+                    " Lawrence described Josephine as always sneaky and looking very odd.",
+                    " Josephine excitedly quoted passages from the scripture, The Bible, and questioned why the wild dogs didn't eat her down to her palms if they were eating her.",
+                    " Thus, it indicates that Josephine is a psychologically twisted and very intelligent child.",
+                    " Josephine expressed that she was not very saddened by Aristide's death. She did not like Aristide very much, and Aristide did not allow her to study ballet, preventing her from pursuing her dream of becoming a ballet dancer. ",
+                    " Aristide explicitly stated but strongly opposed Josephine's learning ballet, believing that learning ballet was not beneficial for Josephine. ",
+                    " Aristide does not want Josephine to go to school.",
+                    " Josephine grew to hate Aristide as a result of this inference.",
+                    " Josephine told Charles a secret that everyone didn't know, Roger and his wife were planning to fly out of the country on Tuesday.",
+                    " Josephine cunningly glanced at Charles. ",
+                    " Josephine explains to Charles how she leads him to suspect Roger's couple as the murderers of Aristide. ",
+                    " Josephine suddenly asked Aristide why the bottle of eyedrops was labeled \"not for oral use\"? Aristide replied that if Brenda made a mistake and injected the eyedrops instead of insulin, he would take a deep breath and turn blue, then die, because you all know that my heart isn't very good, Josephine exclaimed in surprise, \"Oh!\"",
+                    " Based on the above clues, it can be inferred that Aristide's words made Josephine notice the murder method of replacing insulin with eye drops, and since Aristide did not allow Josephine to attend school and study ballet, Josephine developed a hatred for Aristide, which served as her motive for murder. Additionally, Josephine led Charles to suspect others, and she was a psychologically twisted child. Therefore, it is inferred that Josephine is the true killer of Aristide. "
+                ],
+                "clue_position": [
+                    767,
+                    821,
+                    923,
+                    -1,
+                    932,
+                    934,
+                    1602,
+                    -1,
+                    941,
+                    947,
+                    -1,
+                    1397,
+                    -1
+                ],
+                "answer_position": 2524
+            },
+            {
+                "question": " Who hurt Josephine?",
+                "options": {
+                    "A": " Josephine herself",
+                    "B": " Eustace",
+                    "C": " Lawrence",
+                    "D": "Edes "
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " The text states that Eustace did not have a motive for the crime.",
+                    "C": " The text mentions that Lawrence dislikes violence and cannot harm people physically. ",
+                    "D": " The text states that Edith merely wanted to take the blame for the murder of Aristide, and accused Josephine of being the real culprit."
+                },
+                "reasoning": [
+                    " Josephine enjoys reading detective novels and has always wanted to become a detective.",
+                    " Josephine believed she could be a great detective and wrote everything down in her notebook, stepping forward to tell the police: 'I can tell you who did it.'",
+                    " Josephine has read many detective novels.",
+                    " This suggests that Josephine wants to prove herself as a competent detective.",
+                    " Josephine was the victim of the second case.",
+                    " The killer brought a doorstop from the front door and placed it on top of the door.",
+                    " Josephine has the habit of swinging on the door.",
+                    " From this, it can be inferred that the killer took advantage of Josephine's habit of swinging the door, bringing a doorstop from the front door and placing it on top of the door, thus killing Josephine.",
+                    " The laundry room has a few discarded gardening tools and some broken furniture.",
+                    " The laundry room door is not very tall, only one foot higher than the Tafuna door.",
+                    " Josephine is approximately eleven or twelve years old.",
+                    " There are several uneven indentations on the ground.",
+                    " It seems that someone has conducted experiments to validate the effect of falling. ",
+                    " An old wooden chair with a broken backrest, some pieces of dirt on the chair. ",
+                    " Someone is standing on a wooden chair with muddy shoes.",
+                    " Charles had found Josephine's face and hands to be very dirty, with spider webs hanging from her ears.",
+                    " Josephine had told Charles, 'It's time for the second murder, don't you think?'",
+                    " Based on the clues provided, Josephine's multiple experiments resulted in her being covered in dirt, as she placed the doorstop of the front door onto the doorframe of the laundry room using a broken-backed wooden chair, leaving muddy footprints on the chair. Given her well-known habit of hanging around doors, this action could have been staged to frame herself and create an alibi, while also telling Charles, \"'It's time for the second murder.'\" This demonstrates her ability as a detective and leads to the conclusion that Josephine herself was responsible for harming her."
+                ],
+                "clue_position": [
+                    910,
+                    959,
+                    961,
+                    -1,
+                    1847,
+                    1858,
+                    1868,
+                    -1,
+                    1857,
+                    1859,
+                    897,
+                    1876,
+                    1877,
+                    1882,
+                    -1,
+                    1716,
+                    1727,
+                    -1
+                ],
+                "answer_position": 2525
+            }
+        ]
+    }
+]

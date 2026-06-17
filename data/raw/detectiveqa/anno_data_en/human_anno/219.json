@@ -1,0 +1,227 @@
+[
+    {
+        "novel_id": 219,
+        "num_paragraphs": 2508,
+        "time_cost": "9H",
+        "questions": [
+            {
+                "question": " When was the time frame when the villain administered the poison that killed three people?",
+                "options": {
+                    "A": " From 4:00 PM to 8:30 PM",
+                    "B": " From 4 PM to 7:15 PM",
+                    "C": " 7:15 PM to 8:10 PM",
+                    "D": " 4:00 PM"
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " Forensic inference time",
+                    "B": " The speculated time in the text is [insert time here].",
+                    "D": " The article speculates the time of the murder"
+                },
+                "reasoning": [
+                    " At 7:15 PM, three reliable hotel staff members had separately met with the three victims.",
+                    " Three guests ordered food and requested it to be delivered to their rooms at 7:15 pm.",
+                    " Three items were delivered to the rooms of the three victims on time, which is the principle of the Blaxland Hotel. ",
+                    " At 8:10, John Good, an employee, found this note on the front desk table, which read: \"May they rest in peace, 121, 238, 317.\"",
+                    " Based on the clues provided, each victim was seen by someone at 7:15 p.m., and the employee received the note at 8:10 p.m., therefore, the time frame for the three victims' deaths is between 7:15 p.m. and 8:10 p.m. "
+                ],
+                "clue_position": [
+                    245,
+                    248,
+                    248,
+                    307,
+                    -1
+                ],
+                "answer_position": 724
+            },
+            {
+                "question": " Three victims appeared in a room because:",
+                "options": {
+                    "A": " They are all friends.",
+                    "B": " They share common interests and hobbies.",
+                    "C": " They have business dealings with each other.",
+                    "D": " They are all frequent guests of the hotel."
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " Based on the content of the conversation, guess",
+                    "C": " The text mentions the possibility of them chatting together.",
+                    "D": " They brought a lot of luggage, which suggests they are long-term residents."
+                },
+                "reasoning": [
+                    " Mr. Nixes ordered afternoon tea, which consisted of three cups of tea, three sandwiches, and a mixed cake tray, as well as scones, and had it delivered to Room 317. ",
+                    " Mrs. Sipper, Miss Gransbury, and Mr. Nixes were all in Room 317. Mr. Nixes opened the door.",
+                    " Mr. Nigges is very happy.",
+                    " Two women are gossiping and discussing how an old woman once confessed her love to a young man, but the young man left her and ran away with another woman.",
+                    " Mr. Nigg tells the waiter that the dinner bill is on his tab, making sure not to charge it to the two ladies. He mentions that he has the money, but Mrs. Pembury and Miss Gransbury do not.",
+                    " Based on the above clues, it is likely that they are very close friends and are not aware of the imminent danger, otherwise they would not be so leisurely chatting and laughing. "
+                ],
+                "clue_position": [
+                    434,
+                    451,
+                    464,
+                    468,
+                    481,
+                    -1
+                ],
+                "answer_position": 487
+            },
+            {
+                "question": " Samuel Kid saw the key in the hand of the fleeing woman, showing: ",
+                "options": {
+                    "A": " She is the murderer.",
+                    "B": " She is a hotel staff member.",
+                    "C": " She is one of the other victims.",
+                    "D": " She is a thief."
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " She came out of the hotel, with the hotel key on her.",
+                    "C": " Persons related to the case",
+                    "D": " Possibilities related to the case"
+                },
+                "reasoning": [
+                    " Kid saw a lady rush out of the Brooks Han hotel in a panic, drop two golden keys on the street as she ran, then return to pick them up and disappear into the night. ",
+                    " Kid said there were numbers on the key.",
+                    " Kid remembered seeing numbers on the key that were in the hundreds and thousands, but was not entirely sure.",
+                    " The room number for Harriet Sipper is 121, and Ada Gransbury's room number is 317.",
+                    " Based on the available clues, the woman's panicked actions and the key in her hand suggest that she is likely the perpetrator of the murder of the two women."
+                ],
+                "clue_position": [
+                    597,
+                    604,
+                    609,
+                    610,
+                    -1
+                ],
+                "answer_position": 612
+            },
+            {
+                "question": " The order of the letters on the cufflinks in the mouths of the three victims should be ______.",
+                "options": {
+                    "A": "PIJ",
+                    "B": " IPJ",
+                    "C": "PJI",
+                    "D": " JIP"
+                },
+                "answer": "C",
+                "distraction": {
+                    "A": " Sequence of post-incident speculation",
+                    "B": " Possible sequence of events related to the case",
+                    "D": " Possible order of sequence rankings"
+                },
+                "reasoning": [
+                    " The inscription on the cufflink is a popular way of inscribing, with larger letters placed in the middle representing the surname, and the three victims' buttons, with the larger letter being \"I\".",
+                    " Behind the church, there is a new tombstone with inscriptions that are hard to breathe. It reads: PIJ. Patrick James Ife, Parish Priest, and his wife, Frances Maria Ife. ",
+                    " After the death of the priest and his wife, three cufflinks engraved with the initials of the priest were placed in the mouths of the three victims at the Bluxton Hotel.",
+                    " The maid told Harriet Sipper that Patrick Efe was a cruel big fraud, deserving of damnation. ",
+                    " Harriet Seipel told people that Patrick had already tricked several villagers out of their money using this trick.",
+                    " The people of Gellhorn also believed in the rumors and began to condemn Patrick Eve along with Harriet, accusing him of blasphemy and extortion. ",
+                    " Harry's two allies also played an important role: Richard Nix and Ada Gransbury consistently supported her career. ",
+                    " Ada Gransbury and Richard Nix believed the rumors about Patrick's behavior, considering it incompatible with his priestly status. Consequently, Ada, Harriet, and Richard decided to remove Patrick Ivie's position as the vicar of Glebeholme parish and expel him from the church.",
+                    " Dr. Ambrose Flavard considers Patrick Eif as the most tolerant and kind-hearted person, who should not be defamed.",
+                    " Janey fell in love with Patrick Yves and served him. Although I am engaged to Semmi Kid, my heart belongs to Patrick. Despite Patrick's affection for me, he still only sees me as a servant.",
+                    " Richard provided a method of relief to both Harriet and Ada, who he believed were tormented by their souls for having hurt Patrick Ivor. Over time, they began to accept Richard's proposal that true forgiveness from God is a better form of redemption. ",
+                    " Jenny claims that the defamation caused by her manufactured rumors led to Patrick Yev's death. She plans to rectify the situation and make amends.",
+                    " Therefore, the design of killing three people who had previously defamed the priest Patrick Eve was intended as an atonement.",
+                    " Based on the clues, it can be inferred that Janie killed the three people for Patrick Yves, so she put the sleeve of Patrick Yves into the mouths of the three people.",
+                    " Therefore, the sorting of the letter sleeves is actually an abbreviation of Patrick Ivy's name, PJI."
+                ],
+                "clue_position": [
+                    735,
+                    877,
+                    882,
+                    1135,
+                    1136,
+                    1140,
+                    1141,
+                    1144,
+                    1168,
+                    1841,
+                    1869,
+                    2170,
+                    -1,
+                    -1,
+                    -1
+                ],
+                "answer_position": 2170
+            },
+            {
+                "question": " Who is the killer of the three victims?",
+                "options": {
+                    "A": " Nancy Duany",
+                    "B": " Victor Muggeridge",
+                    "C": " Margaret Ernst",
+                    "D": " Jenny Hobbs"
+                },
+                "answer": "A",
+                "distraction": {
+                    "B": " Victor Muggeridge accuses Harriet Sinclair of defaming the clergy.",
+                    "C": " Margaret Ernst and the deceased had once lived in the village of Grellacholling",
+                    "D": " Relevant parties in the case, she had mentioned the rumor of the priest to the deceased."
+                },
+                "reasoning": [
+                    " Nancy was shocked when she heard the names of the three deceased, and she couldn't speak for a minute.",
+                    " Nancy said she used to live in the hometown of the victim but hadn't seen them for many years.",
+                    " Nancy hopes that the three victims die and has thought about it countless times. ",
+                    " At around 8:00 PM, Nancy Drew was seen running excitedly out of the Brookeshan Hotel, dropping two keys. She picked up the keys and continued running, and the eyewitnesses recognized her through the newspaper.",
+                    " Two keys were found in the pocket of a deep blue woolen coat belonging to Nancy Drew.",
+                    " The numbers on the two keys are: the room numbers where the two murders took place: 121 and 317. ",
+                    " Based on the above clues, Nancy has a strong desire for the three victims to die, and she was present at the hotel entrance on the day of the incident, and found the room key of the deceased in her pocket.",
+                    " Therefore, it is inferred that Nancy Drew is the killer of the three victims."
+                ],
+                "clue_position": [
+                    1279,
+                    1286,
+                    1306,
+                    1317,
+                    1340,
+                    1346,
+                    -1,
+                    -1
+                ],
+                "answer_position": 1730
+            },
+            {
+                "question": " How did Mr. Patrick Ewing die?",
+                "options": {
+                    "A": " Sudden death",
+                    "B": " Beaten to death by hooligans",
+                    "C": " Suicide by poisoning",
+                    "D": " Suicide due to guilt and suffering"
+                },
+                "answer": "D",
+                "distraction": {
+                    "A": " The article mentions the doctor's disclosed cause of death.",
+                    "B": " The possible reasons mentioned in the text are:",
+                    "C": " Possible causes of death mentioned in the text"
+                },
+                "reasoning": [
+                    " Patrick fell in love with Nancy.",
+                    " Based on the above clues, Patrick feels guilty about his wife emotionally.",
+                    " The hatred for Patrick spread to his wife, Francis Yves. ",
+                    " Ada advocated for Patrick and Frances to be expelled from the parsonage and from the parish of Glebeholme. ",
+                    " Patrick's wife could not bear the insults from people.",
+                    "Acacia toxin is produced on a plant called Chicken Mother Bead and is common in tropical regions. Francis Ive somehow got a few small bottles of this thing from somewhere.",
+                    " Francis committed suicide by poisoning himself.",
+                    " The above clues suggest that Francis, Patrick's wife, was implicated due to the accusations against Patrick, and Francis chose to commit suicide rather than endure the shame.",
+                    " Patrick followed his wife, Francis, in taking his own life. ",
+                    " Considering the above clues, first, Patrick had an affair; second, people resented Patrick so much that they wanted to expel him and his wife from the parish. This hatred spread to his wife, Frances, who could not bear the insults and committed suicide. Patrick felt responsible for his wife's death, and the guilt of having an affair with Nancy and causing his wife's death overwhelmed him, leading him to commit suicide. "
+                ],
+                "clue_position": [
+                    1150,
+                    -1,
+                    1145,
+                    1163,
+                    1164,
+                    1204,
+                    1201,
+                    -1,
+                    1164,
+                    -1
+                ],
+                "answer_position": 1848
+            }
+        ]
+    }
+]

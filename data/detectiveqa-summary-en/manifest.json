@@ -1,0 +1,101 @@
+{
+  "dataset": "DetectiveQA English two-level summary hierarchy",
+  "created_at_unix": 1781788161,
+  "prompt_version": "detectiveqa-summary-v1.2",
+  "model": "gemma-4-26b-a4b-it",
+  "source_novel_dir": "data\\raw\\detectiveqa\\novel_data_en",
+  "ranking_dir": "data\\detectiveqa-ranking-en",
+  "baseline_alignment_validated": true,
+  "novel_scope": "ranking_corpus",
+  "baseline_novel_ids": [
+    27,
+    79,
+    117,
+    118,
+    121,
+    124,
+    126,
+    128,
+    134,
+    136,
+    137,
+    140,
+    142,
+    144,
+    145,
+    150,
+    151,
+    198,
+    203,
+    209,
+    219,
+    241,
+    252
+  ],
+  "processed_novel_ids": [
+    27,
+    79,
+    117,
+    118,
+    121,
+    124,
+    126,
+    128,
+    134,
+    136,
+    137,
+    140,
+    142,
+    144,
+    145,
+    150,
+    151,
+    198,
+    203,
+    209,
+    219,
+    241,
+    252
+  ],
+  "paragraph_doc_id_format": "dqa-en-{novel_id}-p{paragraph_id}",
+  "chunk_id_format": "dqa-en-{novel_id}-c{chunk_index:04d}",
+  "chunking": {
+    "method": "contiguous complete paragraphs, whitespace-token threshold",
+    "min_whitespace_tokens": 1500,
+    "tail_policy": "merge undersized final tail into previous chunk",
+    "overlap": 0
+  },
+  "summarization": {
+    "levels": 2,
+    "level_1": "independent chunk summary from raw numbered paragraphs",
+    "level_2": "whole-novel summary from ordered level-1 summaries",
+    "temperature": 0.2,
+    "seed": 42,
+    "chunk_summary_words": [
+      180,
+      300
+    ],
+    "novel_summary_words": [
+      500,
+      4096
+    ]
+  },
+  "counts": {
+    "novels": 23,
+    "paragraphs": 65641,
+    "chunks": 986,
+    "chunk_summaries": 986,
+    "novel_summaries": 23,
+    "source_paragraph_qrels": 890,
+    "chunk_qrels": 481,
+    "novel_qrels": 149
+  },
+  "files": [
+    "chunk_summaries.jsonl",
+    "chunks.jsonl",
+    "novel_summaries.jsonl",
+    "paragraph_to_chunk.jsonl",
+    "qrels/chunks.tsv",
+    "qrels/novels.tsv"
+  ]
+}

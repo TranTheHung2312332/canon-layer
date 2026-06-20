@@ -1,0 +1,92 @@
+{
+  "dataset": "DetectiveQA English pass-2 contextual summary hierarchy",
+  "created_at_unix": 1781942200,
+  "input_summary_dir": "data\\detectiveqa-summary-en",
+  "prompt_version": "detectiveqa-summary-pass2-v1.1-fair",
+  "model": "gemma-4-26b-a4b-it",
+  "temperature": 0.2,
+  "seed": 42,
+  "source_pass1_manifest": {
+    "dataset": "DetectiveQA English two-level summary hierarchy",
+    "prompt_version": "detectiveqa-summary-v1.2",
+    "model": "gemma-4-26b-a4b-it",
+    "chunk_id_format": "dqa-en-{novel_id}-c{chunk_index:04d}",
+    "paragraph_doc_id_format": "dqa-en-{novel_id}-p{paragraph_id}",
+    "chunking": {
+      "method": "contiguous complete paragraphs, whitespace-token threshold",
+      "min_whitespace_tokens": 1500,
+      "tail_policy": "merge undersized final tail into previous chunk",
+      "overlap": 0
+    },
+    "summarization": {
+      "levels": 2,
+      "level_1": "independent chunk summary from raw numbered paragraphs",
+      "level_2": "whole-novel summary from ordered level-1 summaries",
+      "temperature": 0.2,
+      "seed": 42,
+      "chunk_summary_words": [
+        180,
+        300
+      ],
+      "novel_summary_words": [
+        500,
+        4096
+      ]
+    }
+  },
+  "structure": {
+    "same_as_pass1": true,
+    "files_compatible_with_pass1_summary_baseline": true,
+    "chunk_ids_preserved": true,
+    "paragraph_to_chunk_preserved": true,
+    "qrels_preserved_or_filtered": true
+  },
+  "generation_config": {
+    "aligned_with_pass1": true,
+    "candidate_count": 1,
+    "response_mime_type": "text/plain",
+    "automatic_function_calling": "disabled",
+    "function_calling_mode": "NONE",
+    "thinking_level": "MINIMAL",
+    "include_thoughts": false,
+    "client_timeout_ms": 180000
+  },
+  "pass2_policy": {
+    "chunk_0": "identity: pass-2 summary equals pass-1 summary",
+    "chunk_i": "previous pass-2 chunk summary + current pass-1 chunk summary + global pass-1 summary",
+    "global_pass2": "ordered pass-2 chunk summaries + global pass-1 summary",
+    "future_leakage_guard": "global pass-1 is auxiliary context only; prompts forbid importing future facts into chunk summaries unless supported by current or previous summaries"
+  },
+  "summarization": {
+    "levels": 2,
+    "level_1": "contextual chunk summary from previous pass-2 chunk summary, current pass-1 chunk summary, and global pass-1 summary",
+    "level_2": "whole-novel summary from ordered pass-2 chunk summaries plus global pass-1 summary",
+    "temperature": 0.2,
+    "seed": 42,
+    "chunk_summary_words": [
+      180,
+      300
+    ],
+    "novel_summary_words": [
+      500,
+      4096
+    ]
+  },
+  "counts": {
+    "novels": 23,
+    "chunks": 986,
+    "chunk_summaries": 986,
+    "novel_summaries": 23,
+    "paragraph_mappings": 65641,
+    "chunk_qrels": 481,
+    "novel_qrels": 149
+  },
+  "files": [
+    "chunks.jsonl",
+    "chunk_summaries.jsonl",
+    "novel_summaries.jsonl",
+    "paragraph_to_chunk.jsonl",
+    "qrels/chunks.tsv",
+    "qrels/novels.tsv"
+  ]
+}
